@@ -1,0 +1,8 @@
+IJCAI_text-embedding-002_path_and_value_gpt3.5_gpt4: {'extraction_atomic': 0.4643, 'extraction_complex': 0.3846, 'reasoning_atomic': 0.5385, 'reasoning_complex': 0.1562}
+IJCAI_text-embedding-002_path_and_value_desc_gpt3.5_gpt4: {'extraction_atomic': 0.5714, 'extraction_complex': 0.4615, 'reasoning_atomic': 0.6154, 'reasoning_complex': 0.1875}
+IJCAI_text-embedding-002_path_and_value_LLama2-7B_gpt4: {'extraction_atomic': 0.1429, 'extraction_complex': 0.2308, 'reasoning_atomic': 0.1538, 'reasoning_complex': 0.0625}
+IJCAI_text-embedding-002_path_and_value_desc_LLama2-7B_gpt4: {'extraction_atomic': 0.1786, 'extraction_complex': 0.1154, 'reasoning_atomic': 0.1538, 'reasoning_complex': 0.125}
+IJCAI_text-embedding-002_path_and_value_Mistral-7B_gpt4: {'extraction_atomic': 0.6429, 'extraction_complex': 0.4231, 'reasoning_atomic': 0.6923, 'reasoning_complex': 0.2188}
+IJCAI_text-embedding-002_path_and_value_desc_Mistral-7B_gpt4: {'extraction_atomic': 0.6786, 'extraction_complex': 0.4615, 'reasoning_atomic': 0.6154, 'reasoning_complex': 0.3125}
+IJCAI_text-embedding-002_path_and_value_LLama2-13B_gpt4: {'extraction_atomic': 0.5, 'extraction_complex': 0.4231, 'reasoning_atomic': 0.6923, 'reasoning_complex': 0.1875}
+IJCAI_text-embedding-002_path_and_value_desc_LLama2-13B_gpt4: {'extraction_atomic': 0.5, 'extraction_complex': 0.3846, 'reasoning_atomic': 0.6923, 'reasoning_complex': 0.2812}

@@ -1,0 +1,1073 @@
+[
+    {
+        "question": "What is the title of the paper with the id 4090?",
+        "answer": "Singularformer: Learning to Decompose Self-Attention to Linearize the Complexity of Transformer",
+        "from": "IJCAI2023>>program>>Main Track>>4090>>title"
+    },
+    {
+        "question": "Who are the authors of the paper titled 'Singularformer: Learning to Decompose Self-Attention to Linearize the Complexity of Transformer'?",
+        "answer": [
+            "Yifan Wu",
+            "Shichao Kan",
+            "Min Zeng",
+            "Min Li"
+        ],
+        "from": "IJCAI2023>>program>>Main Track>>4090>>authors"
+    },
+    {
+        "question": "What is the main aim of the proposed Transformer variant named Singularformer?",
+        "answer": "The main aim of Singularformer is to use neural networks to learn the singular value decomposition process of the attention matrix to design a linear-complexity and memory-efficient global self-attention mechanism.",
+        "from": "IJCAI2023>>program>>Main Track>>4090>>abstract"
+    },
+    {
+        "question": "What are the advantages of the proposed Transformer variant according to experimental results?",
+        "answer": "Singularformer performs favorably against the other Transformer variants with lower time and space complexity.",
+        "from": "IJCAI2023>>program>>Main Track>>4090>>abstract"
+    },
+    {
+        "question": "In which category does the Singularformer paper fall under?",
+        "answer": "Machine Learning",
+        "from": "IJCAI2023>>program>>Main Track>>4090>>keywords"
+    },
+    {
+        "question": "What is the title of the paper presented in the Main Track 2045 of IJCAI2023 program?",
+        "answer": "FedDWA: Personalized Federated Learning with Dynamic Weight Adjustment",
+        "from": "IJCAI2023>>program>>Main Track>>2045>>title"
+    },
+    {
+        "question": "Who are the authors of the paper presented in the Main Track 2045?",
+        "answer": [
+            "Jiahao Liu",
+            "Jiang Wu",
+            "Jinyu Chen",
+            "Miao Hu",
+            "Yipeng Zhou",
+            "Di Wu"
+        ],
+        "from": "IJCAI2023>>program>>Main Track>>2045>>authors"
+    },
+    {
+        "question": "What is the main problem that the paper 'FedDWA: Personalized Federated Learning with Dynamic Weight Adjustment' addresses?",
+        "answer": "It addresses the problem of downloading others' models which increases communication traffic and potentially infringes data privacy in personalized federated learning.",
+        "from": "IJCAI2023>>program>>Main Track>>2045>>abstract"
+    },
+    {
+        "question": "What is the proposed solution in the paper to reduce communication traffic in personalized federated learning?",
+        "answer": "The solution is a new Personalized Federated Learning algorithm called FedDWA which leverages the parameter server to compute personalized aggregation weights based on collected models from clients.",
+        "from": "IJCAI2023>>program>>Main Track>>2045>>abstract"
+    },
+    {
+        "question": "What is the primary keyword associated with the paper presented in the Main Track 2045?",
+        "answer": "Machine Learning -> ML: Federated learning",
+        "from": "IJCAI2023>>program>>Main Track>>2045>>keywords"
+    },
+    {
+        "question": "What is the title of the paper with ID 1588?",
+        "answer": "Accurate MRI Reconstruction via Multi-Domain Recurrent Networks",
+        "from": "IJCAI2023>>program>>Main Track>>1588>>title"
+    },
+    {
+        "question": "Who are the authors of the paper titled 'Accurate MRI Reconstruction via Multi-Domain Recurrent Networks'?",
+        "answer": [
+            "Jinbao Wei",
+            "Zhijie Wang",
+            "Kongqiao Wang",
+            "Li Guo",
+            "Xueyang Fu",
+            "Ji Liu",
+            "Xun Chen"
+        ],
+        "from": "IJCAI2023>>program>>Main Track>>1588>>authors"
+    },
+    {
+        "question": "What is the key issue addressed by the paper ID 1588 in the field of MRI reconstruction?",
+        "answer": "The existing CNNs methods neglect the correlation between the spatial and the frequency domain, which hinders performance improvement.",
+        "from": "IJCAI2023>>program>>Main Track>>1588>>abstract"
+    },
+    {
+        "question": "Which technique is proposed by the authors in the paper 'Accurate MRI Reconstruction via Multi-Domain Recurrent Networks' to tackle the identified issue?",
+        "answer": "They propose a new multi-domain recurrent network (MDR-Net) with multi-domain learning (MDL) blocks as its basic units to reconstruct the undersampled MR image progressively.",
+        "from": "IJCAI2023>>program>>Main Track>>1588>>abstract"
+    },
+    {
+        "question": "What are the keywords of the paper with ID 1588?",
+        "answer": [
+            "Computer Vision -> CV: Biomedical image analysis",
+            "Computer Vision -> CV: Applications"
+        ],
+        "from": "IJCAI2023>>program>>Main Track>>1588>>keywords"
+    },
+    {
+        "question": "What is the title of the paper with ID 2869 in the main track of IJCAI2023?",
+        "answer": "Teacher Assistant-Based Knowledge Distillation Extracting Multi-level Features on Single Channel Sleep EEG",
+        "from": "IJCAI2023>>program>>Main Track>>2869>>title"
+    },
+    {
+        "question": "Who are the authors of the paper titled 'Teacher Assistant-Based Knowledge Distillation Extracting Multi-level Features on Single Channel Sleep EEG'?",
+        "answer": [
+            "Heng Liang",
+            "Yucheng Liu",
+            "Haichao Wang",
+            "Ziyu Jia"
+        ],
+        "from": "IJCAI2023>>program>>Main Track>>2869>>authors"
+    },
+    {
+        "question": "What is the main focus of the study presented in the paper with ID 2869 at IJCAI2023?",
+        "answer": "The study focuses on a novel general knowledge distillation framework for sleep stage classification tasks called SleepKD.",
+        "from": "IJCAI2023>>program>>Main Track>>2869>>abstract"
+    },
+    {
+        "question": "What specific problem does SleepKD intend to solve?",
+        "answer": "SleepKD aims to lighten large-scale sleep stage classification models which are usually hard to be deployed on wearable devices.",
+        "from": "IJCAI2023>>program>>Main Track>>2869>>abstract"
+    },
+    {
+        "question": "In what areas is the study presented in the paper with ID 2869 at IJCAI2023 relevant?",
+        "answer": [
+            "Machine Learning -> ML: Applications",
+            "Humans and AI -> HAI: Brain sciences",
+            "Machine Learning -> ML: Classification",
+            "Multidisciplinary Topics and Applications -> MDA: Health and medicine"
+        ],
+        "from": "IJCAI2023>>program>>Main Track>>2869>>keywords"
+    },
+    {
+        "question": "What is the title of the program 1145 in the Main Track of IJCAI2023?",
+        "answer": "COOL, a Context Outlooker, and Its Application to Question Answering and Other Natural Language Processing Tasks",
+        "from": "IJCAI2023>>program>>Main Track>>1145>>title"
+    },
+    {
+        "question": "Who are the authors of the program 1145 in IJCAI2023?",
+        "answer": [
+            "Fangyi Zhu",
+            "See-Kiong Ng",
+            "Stéphane Bressan"
+        ],
+        "from": "IJCAI2023>>program>>Main Track>>1145>>authors"
+    },
+    {
+        "question": "What is the main focus of the paper presented in program 1145 at IJCAI 2023?",
+        "answer": "The main focus of the paper is the presentation of an outlook attention mechanism, COOL, for natural language processing, which improves performance of transformer-based models for various tasks, including question answering.",
+        "from": "IJCAI2023>>program>>Main Track>>1145>>abstract"
+    },
+    {
+        "question": "What new approach does the paper in program 1145 introduce in the field of natural language processing?",
+        "answer": "The paper introduces COOL, an outlook attention mechanism that encodes local syntactic context considering word proximity and more pair-wise constraints than dynamic convolution used by existing approaches.",
+        "from": "IJCAI2023>>program>>Main Track>>1145>>abstract"
+    },
+    {
+        "question": "What are the keywords associated with the paper presented in program 1145 at IJCAI 2023?",
+        "answer": [
+            "Natural Language Processing -> NLP: Question answering",
+            "Natural Language Processing -> NLP: Language models"
+        ],
+        "from": "IJCAI2023>>program>>Main Track>>1145>>keywords"
+    },
+    {
+        "question": "What is the title of the paper with code 460 in the IJCAI 2023 Main Track?",
+        "answer": "ContrastMotion: Self-supervised Scene Motion Learning for Large-Scale LiDAR Point Clouds",
+        "from": "IJCAI2023>>program>>Main Track>>460>>title"
+    },
+    {
+        "question": "Who are the authors of the paper titled 'ContrastMotion: Self-supervised Scene Motion Learning for Large-Scale LiDAR Point Clouds'?",
+        "answer": [
+            "Xiangze Jia",
+            "Hui Zhou",
+            "Xinge Zhu",
+            "Yandong Guo",
+            "Ji Zhang",
+            "Yuexin Ma"
+        ],
+        "from": "IJCAI2023>>program>>Main Track>>460>>authors"
+    },
+    {
+        "question": "What are the keywords of paper 460?",
+        "answer": [
+            "Computer Vision -> CV: Motion and tracking",
+            "Computer Vision -> CV: 3D computer vision",
+            "Computer Vision -> CV: Scene analysis and understanding"
+        ],
+        "from": "IJCAI2023>>program>>Main Track>>460>>keywords"
+    },
+    {
+        "question": "Can you provide a brief about the paper 'ContrastMotion: Self-supervised Scene Motion Learning for Large-Scale LiDAR Point Clouds'?",
+        "answer": "In this paper, we propose a novel self-supervised motion estimator for LiDAR-based autonomous driving via BEV representation...",
+        "from": "IJCAI2023>>program>>Main Track>>460>>abstract"
+    },
+    {
+        "question": "In the proposed method of the paper 'ContrastMotion: Self-supervised Scene Motion Learning for Large-Scale LiDAR Point Clouds', what are the strategies used to learn valid compensation between point cloud frames?",
+        "answer": "The paper proposes Gated Multi-Frame Fusion block that learns valid compensation between point cloud frames automatically to enhance feature extraction.",
+        "from": "IJCAI2023>>program>>Main Track>>460>>abstract"
+    },
+    {
+        "question": "What is the title of the paper with id J5685 in Journal Track?",
+        "answer": "Automatic Recognition of the General-Purpose Communicative Functions Defined by the ISO 24617-2 Standard for Dialog Act Annotation (Extended Abstract)",
+        "from": "IJCAI2023>>program>>Journal Track>>J5685>>title"
+    },
+    {
+        "question": "Who is the second author of the paper with id J5685?",
+        "answer": "Ricardo Ribeiro",
+        "from": "IJCAI2023>>program>>Journal Track>>J5685>>authors"
+    },
+    {
+        "question": "What is the main aim of the paper's proposed method?",
+        "answer": "The paper proposes to automatically recognize communicative functions defined by ISO 24617-2 standard for dialog act annotation by adapting existing approaches. The proposed method uses end-to-end hierarchical network with cascading outputs and applies transfer learning to overcome data scarcity.",
+        "from": "IJCAI2023>>program>>Journal Track>>J5685>>abstract"
+    },
+    {
+        "question": "In which area does the paper with id J5685 contribute? Give one of the fields provided",
+        "answer": "Natural Language Processing: Dialogue and interactive systems",
+        "from": "IJCAI2023>>program>>Journal Track>>J5685>>keywords"
+    },
+    {
+        "question": "The authors of paper J5685 propose a new approach to recognize general-purpose communicative functions. What type of network does this approach use and why?",
+        "answer": "They propose the use of an end-to-end hierarchical network with cascading outputs. This is to predict the communicative function at each level of the hierarchy, preserve the dependencies between the functions in the path, and decide at which level to stop.",
+        "from": "IJCAI2023>>program>>Journal Track>>J5685>>abstract"
+    },
+    {
+        "question": "What is the title of the program with the code 4961 at the IJCAI2023 Main Track?",
+        "answer": "Capturing the Long-Distance Dependency in the Control Flow Graph via Structural-Guided Attention for Bug Localization",
+        "from": "IJCAI2023>>program>>Main Track>>4961>>title"
+    },
+    {
+        "question": "Who are the authors of the program 'Capturing the Long-Distance Dependency in the Control Flow Graph via Structural-Guided Attention for Bug Localization'?",
+        "answer": [
+            "Yi-Fan Ma",
+            "Yali Du",
+            "Ming Li"
+        ],
+        "from": "IJCAI2023>>program>>Main Track>>4961>>authors"
+    },
+    {
+        "question": "What problem does the program with the code 4961 at the IJCAI2023 Main Track aim to address?",
+        "answer": "The program aims to address the issue of software maintenance, specifically bug localization, using Control Flow Graphs and tackling the challenge of information loss in long-distance dependencies.",
+        "from": "IJCAI2023>>program>>Main Track>>4961>>abstract"
+    },
+    {
+        "question": "What is the novel bug localization model proposed in the program 'Capturing the Long-Distance Dependency in the Control Flow Graph via Structural-Guided Attention for Bug Localization'?",
+        "answer": "The novel bug localization model proposed in the program is named sgAttention.",
+        "from": "IJCAI2023>>program>>Main Track>>4961>>abstract"
+    },
+    {
+        "question": "What are the research areas of the program with the code 4961, presented at the IJCAI2023 Main Track?",
+        "answer": "Data Mining -> DM: Mining codebase and software repositories",
+        "from": "IJCAI2023>>program>>Main Track>>4961>>keywords"
+    },
+    {
+        "question": "What is the title of the main track program 2099 in IJCAI 2023 conference?",
+        "answer": "Robust Reinforcement Learning via Progressive Task Sequence",
+        "from": "IJCAI2023>>program>>Main Track>>2099>>title"
+    },
+    {
+        "question": "Who are the authors of the program 2099 in the IJCAI 2023 conference?",
+        "answer": [
+            "Yike Li",
+            "Yunzhe Tian",
+            "Endong Tong",
+            "Wenjia Niu",
+            "Jiqiang Liu"
+        ],
+        "from": "IJCAI2023>>program>>Main Track>>2099>>authors"
+    },
+    {
+        "question": "What is the major challenge identified in the program 2099 at the IJCAI 2023 conference?",
+        "answer": "Robust reinforcement learning (RL) has been a challenging problem due to the gap between simulation and the real world.",
+        "from": "IJCAI2023>>program>>Main Track>>2099>>abstract"
+    },
+    {
+        "question": "What is the main idea of the solution provided for robust RL in the program 2099 at the IJCAI 2023 conference?",
+        "answer": "The main idea is to maximize the cumulative reward under the worst-possible perturbations.",
+        "from": "IJCAI2023>>program>>Main Track>>2099>>abstract"
+    },
+    {
+        "question": "What are the keywords associated with program 2099 in the IJCAI 2023 conference?",
+        "answer": [
+            "AI Ethics, Trust, Fairness -> ETF: Safety and robustness",
+            "Agent-based and Multi-agent Systems -> MAS: Agent theories and models"
+        ],
+        "from": "IJCAI2023>>program>>Main Track>>2099>>keywords"
+    },
+    {
+        "question": "What is the title of the paper with the ID 1836 in the main track at IJCAI2023?",
+        "answer": "Learning Constraint Networks over Unknown Constraint Languages",
+        "from": "IJCAI2023>>program>>Main Track>>1836>>title"
+    },
+    {
+        "question": "Who are the authors of the paper with the ID 1836 in the main track at IJCAI2023?",
+        "answer": [
+            "Christian Bessiere",
+            "Clément Carbonnel",
+            "Areski Himeur"
+        ],
+        "from": "IJCAI2023>>program>>Main Track>>1836>>authors"
+    },
+    {
+        "question": "What is the abstract of the paper with the ID 1836 in the main track at IJCAI2023?",
+        "answer": "Constraint acquisition is the task of learning a constraint network from examples of solutions and non-solutions. Existing constraint acquisition systems typically require advance knowledge of the target network’s constraint language, which significantly narrows their scope of applicability. In this paper we propose a constraint acquisition method that computes a suitable constraint language as part of the learning process, eliminating the need for any advance knowledge. We report preliminary experiments on various acquisition benchmarks.",
+        "from": "IJCAI2023>>program>>Main Track>>1836>>abstract"
+    },
+    {
+        "question": "What are the keywords of the paper with the ID 1836 in the main track at IJCAI2023?",
+        "answer": [
+            "Constraint Satisfaction and Optimization -> CSO: Constraint learning and acquisition",
+            "Constraint Satisfaction and Optimization -> CSO: Constraint programming"
+        ],
+        "from": "IJCAI2023>>program>>Main Track>>1836>>keywords"
+    },
+    {
+        "question": "What is the main topic addressed by the paper with the ID 1836 in the main track at IJCAI2023?",
+        "answer": "Learning Constraint Networks over Unknown Constraint Languages",
+        "from": "IJCAI2023>>program>>Main Track>>1836>>title"
+    },
+    {
+        "question": "What is the title of the paper presented in the Special Track on AI for Good?",
+        "answer": "GreenFlow: A Computation Allocation Framework for Building Environmentally Sound Recommendation System",
+        "from": "IJCAI2023>>program>>Special Track on AI for Good>>AI4SG5800>>title"
+    },
+    {
+        "question": "Who are the authors of the paper titled 'GreenFlow: A Computation Allocation Framework for Building Environmentally Sound Recommendation System'?",
+        "answer": [
+            "Xingyu Lu",
+            "Zhining Liu",
+            "Yanchu Guan",
+            "Hongxuan Zhang",
+            "Chenyi Zhuang",
+            "Ma Wenqi",
+            "Yize Tan",
+            "Jinjie Gu",
+            "Guannan Zhang"
+        ],
+        "from": "IJCAI2023>>program>>Special Track on AI for Good>>AI4SG5800>>authors"
+    },
+    {
+        "question": "What is the main proposal in the abstract of the paper titled 'GreenFlow: A Computation Allocation Framework for Building Environmentally Sound Recommendation System'?",
+        "answer": "The paper proposes GreenFlow, a practical computation allocation framework for Recommendation Systems (RS), that considers both accuracy and carbon emission during inference.",
+        "from": "IJCAI2023>>program>>Special Track on AI for Good>>AI4SG5800>>abstract"
+    },
+    {
+        "question": "What are the general areas of interest or keywords concerning the paper titled 'GreenFlow: A Computation Allocation Framework for Building Environmentally Sound Recommendation System'?",
+        "answer": [
+            "AI for Good -> Humans and AI",
+            "AI for Good -> Machine Learning",
+            "AI for Good -> Search"
+        ],
+        "from": "IJCAI2023>>program>>Special Track on AI for Good>>AI4SG5800>>keywords"
+    },
+    {
+        "question": "What are the environmental benefits of the proposed GreenFlow framework as per the abstract?",
+        "answer": "The proposed framework saves approximately 5000kWh of electricity and reduces 3 tons of carbon emissions per day.",
+        "from": "IJCAI2023>>program>>Special Track on AI for Good>>AI4SG5800>>abstract"
+    },
+    {
+        "question": "What is the title of the demonstration track DM5722?",
+        "answer": "mahaNLP: A Marathi Natural Language Processing Library",
+        "from": "IJCAI2023>>program>>Demonstrations Track>>DM5722>>title"
+    },
+    {
+        "question": "Who are the authors of the demonstration 'mahaNLP: A Marathi Natural Language Processing Library'?",
+        "answer": [
+            "Vidula Magdum",
+            "Omkar Dhekane",
+            "Sharayu Hiwarkhedkar",
+            "Saloni Mittal",
+            "Raviraj Joshi"
+        ],
+        "from": "IJCAI2023>>program>>Demonstrations Track>>DM5722>>authors"
+    },
+    {
+        "question": "What is the goal of the mahaNLP library?",
+        "answer": "It aims to enhance the support for the low-resource Indian language Marathi in the field of NLP.",
+        "from": "IJCAI2023>>program>>Demonstrations Track>>DM5722>>abstract"
+    },
+    {
+        "question": "What are the features and functionality of the mahaNLP library?",
+        "answer": "This toolkit houses an extensive set of NLP tasks ranging from basic preprocessing tasks to advanced NLP tasks. Additionally, it provides functionality to load datasets for supervised tasks like Marathi sentiment analysis, NER, and Hate speech detection as data frames.",
+        "from": "IJCAI2023>>program>>Demonstrations Track>>DM5722>>abstract"
+    },
+    {
+        "question": "What are the keywords associated with the DM5722 demonstration track?",
+        "answer": [
+            "Natural Language Processing -> NLP: Tools",
+            "Natural Language Processing -> NLP: Applications",
+            "Natural Language Processing -> NLP: Language models",
+            "Natural Language Processing -> NLP: Sentiment analysis, stylistic analysis, and argument mining",
+            "Natural Language Processing -> NLP: Named entities",
+            "Natural Language Processing -> NLP: Text classification",
+            "Natural Language Processing -> NLP: Information retrieval and text mining"
+        ],
+        "from": "IJCAI2023>>program>>Demonstrations Track>>DM5722>>keywords"
+    },
+    {
+        "question": "What is the title of the paper with the ID 4313 in the Main Track program?",
+        "answer": "A Rule-Based Modal View of Causal Reasoning",
+        "from": "IJCAI2023>>program>>Main Track>>4313>>title"
+    },
+    {
+        "question": "Who is the author of the paper 'A Rule-Based Modal View of Causal Reasoning'?",
+        "answer": "Emiliano Lorini",
+        "from": "IJCAI2023>>program>>Main Track>>4313>>authors"
+    },
+    {
+        "question": "What is the abstract of the paper with the ID 4313 in the Main Track program?",
+        "answer": "We present a novel rule-based semantics for causal reasoning as well as a number of modal languages interpreted over it. They enable us to represent some fundamental concepts in the theory of causality including causal necessity and possibility, interventionist conditionals and Lewisian conditionals. We provide complexity results for the satisfiability checking and model checking problem for these modal languages. Moreover, we study the relationship between our rule-based semantics and the structural equation modeling (SEM) approach to causal reasoning, as well as between our rule-based semantics for causal conditionals and the standard semantics for belief base change.",
+        "from": "IJCAI2023>>program>>Main Track>>4313>>abstract"
+    },
+    {
+        "question": "What are the keywords associated with the paper 'A Rule-Based Modal View of Causal Reasoning'?",
+        "answer": "Knowledge Representation and Reasoning -> KRR: Knowledge representation languages, Knowledge Representation and Reasoning -> KRR: Causality, Knowledge Representation and Reasoning -> KRR: Reasoning about knowledge and belief",
+        "from": "IJCAI2023>>program>>Main Track>>4313>>keywords"
+    },
+    {
+        "question": "In which area does the paper 'A Rule-Based Modal View of Causal Reasoning' fall under in terms of Knowledge Representation and Reasoning?",
+        "answer": "KRR: Knowledge representation languages, KRR: Causality, KRR: Reasoning about knowledge and belief",
+        "from": "IJCAI2023>>program>>Main Track>>4313>>keywords"
+    },
+    {
+        "question": "What is the title of the presentation under the Main Track program number 298?",
+        "answer": "3D Surface Super-resolution from Enhanced 2D Normal Images: A Multimodal-driven Variational AutoEncoder Approach",
+        "from": "IJCAI2023>>program>>Main Track>>298>>title"
+    },
+    {
+        "question": "Who are the authors of the presentation under the Main Track program number 298?",
+        "answer": [
+            "Wuyuan Xie",
+            "Tengcong Huang",
+            "Miaohui Wang"
+        ],
+        "from": "IJCAI2023>>program>>Main Track>>298>>authors"
+    },
+    {
+        "question": "What is the abstract of the presentation under the Main Track program number 298, and what field does it pertain to?",
+        "answer": "3D surface super-resolution is an important technical tool in virtual reality, and it is also a research hotspot in computer vision. Due to the unstructured and irregular nature of 3D object data, it is usually difficult to obtain high-quality surface details and geometry textures via a low-cost hardware setup. In this paper, we establish a multimodal-driven variational autoencoder (mmVAE) framework to perform 3D surface enhancement based on 2D normal images. To fully leverage the multimodal learning, we investigate a multimodal Gaussian mixture model (mmGMM) to align and fuse the latent feature representations from different modalities, and further propose a cross-scale encoder-decoder structure to reconstruct high-resolution normal images. Experimental results on several benchmark datasets demonstrate that our method delivers promising surface geometry structures and details in comparison with competitive advances.",
+        "from": "IJCAI2023>>program>>Main Track>>298>>abstract"
+    },
+    {
+        "question": "What are the keywords associated with the presentation under the Main Track program number 298?",
+        "answer": [
+            "Computer Vision -> CV: Applications",
+            "Computer Vision -> CV: 3D computer vision"
+        ],
+        "from": "IJCAI2023>>program>>Main Track>>298>>keywords"
+    },
+    {
+        "question": "What is the approach proposed by the authors of the presentation under the Main Track program number 298 to enhance 3D surface based on 2D normal images?",
+        "answer": "They are proposing a multimodal-driven variational autoencoder (mmVAE) framework.",
+        "from": "IJCAI2023>>program>>Main Track>>298>>abstract"
+    },
+    {
+        "question": "What is the title of the paper with the ID 4306 in the main track of IJCAI2023?",
+        "answer": "Unifying Core-Guided and Implicit Hitting Set Based Optimization",
+        "from": "IJCAI2023>>program>>Main Track>>4306>>title"
+    },
+    {
+        "question": "Who are the authors of the paper titled 'Unifying Core-Guided and Implicit Hitting Set Based Optimization'?",
+        "answer": [
+            "Hannes Ihalainen",
+            "Jeremias Berg",
+            "Matti Järvisalo"
+        ],
+        "from": "IJCAI2023>>program>>Main Track>>4306>>authors"
+    },
+    {
+        "question": "What is the abstract of the paper with the ID 4306 in the main track of IJCAI2023?",
+        "answer": "Two of the most central algorithmic paradigms implemented in practical solvers for maximum satisfiability (MaxSAT) and other related declarative paradigms for NP-hard combinatorial optimization are the core-guided (CG) and implicit hitting set (IHS) approaches. We develop a general unifying algorithmic framework, based on the recent notion of abstract cores, that captures both CG and IHS computations. The framework offers a unified way of establishing the correctness of variants of the approaches, and can be instantiated in novel ways giving rise to new algorithmic variants of the core-guided and IHS approaches. We illustrate the latter aspect by developing a prototype implementation of an algorithm variant for MaxSAT based on the framework.",
+        "from": "IJCAI2023>>program>>Main Track>>4306>>abstract"
+    },
+    {
+        "question": "What are the keywords associated with the paper ID 4306 in IJCAI2023?",
+        "answer": [
+            "Constraint Satisfaction and Optimization -> CSO: Constraint optimization",
+            "Constraint Satisfaction and Optimization -> CSO: Satisfiabilty",
+            "Constraint Satisfaction and Optimization -> CSO: Solvers and tools"
+        ],
+        "from": "IJCAI2023>>program>>Main Track>>4306>>keywords"
+    },
+    {
+        "question": "Is the paper titled 'Unifying Core-Guided and Implicit Hitting Set Based Optimization' related to Constraint Satisfaction and Optimization?",
+        "answer": "Yes",
+        "from": "IJCAI2023>>program>>Main Track>>4306>>keywords"
+    },
+    {
+        "question": "What is the title of the paper with id 1850 in the main track program of the IJCAI2023 conference?",
+        "answer": "MultiPar-T: Multiparty-Transformer for Capturing Contingent Behaviors in Group Conversations",
+        "from": "IJCAI2023>>program>>Main Track>>1850>>title"
+    },
+    {
+        "question": "Who are the authors of the paper 'MultiPar-T: Multiparty-Transformer for Capturing Contingent Behaviors in Group Conversations'?",
+        "answer": [
+            "Dong Won Lee",
+            "Yubin Kim",
+            "Rosalind W. Picard",
+            "Cynthia Breazeal",
+            "Hae Won Park"
+        ],
+        "from": "IJCAI2023>>program>>Main Track>>1850>>authors"
+    },
+    {
+        "question": "What is the abstract of the paper with id 1850 in the main track program of IJCAI2023 conference?",
+        "answer": "As we move closer to real-world social AI systems, AI agents must be able to deal with multiparty (group) conversations. Recognizing and interpreting multiparty behaviors is challenging, as the system must recognize individual behavioral cues, deal with the complexity of multiple streams of data from multiple people, and recognize the subtle contingent social exchanges that take place amongst group members...",
+        "from": "IJCAI2023>>program>>Main Track>>1850>>abstract"
+    },
+    {
+        "question": "In which categories does the paper 'MultiPar-T: Multiparty-Transformer for Capturing Contingent Behaviors in Group Conversations' fall under?",
+        "answer": [
+            "Machine Learning -> ML: Attention models",
+            "Computer Vision -> CV: Video analysis and understanding",
+            "Humans and AI -> HAI: Computer-aided education"
+        ],
+        "from": "IJCAI2023>>program>>Main Track>>1850>>keywords"
+    },
+    {
+        "question": "What is the main feature of the Multipar-T proposed in the 'MultiPar-T: Multiparty-Transformer for Capturing Contingent Behaviors in Group Conversations' paper?",
+        "answer": "The core component of the proposed approach is Crossperson Attention, which is specifically designed to detect contingent behavior between pairs of people.",
+        "from": "IJCAI2023>>program>>Main Track>>1850>>abstract"
+    },
+    {
+        "question": "What is the title of the paper with id 223 in the Main Track program for IJCAI2023?",
+        "answer": "Appearance Prompt Vision Transformer for Connectome Reconstruction",
+        "from": "IJCAI2023>>program>>Main Track>>223>>title"
+    },
+    {
+        "question": "Who are the authors of the paper about Connectome Reconstruction in the IJCAI2023 conference?",
+        "answer": [
+            "Rui Sun",
+            "Naisong Luo",
+            "Yuwen Pan",
+            "Huayu Mai",
+            "Tianzhu Zhang",
+            "Zhiwei Xiong",
+            "Feng Wu"
+        ],
+        "from": "IJCAI2023>>program>>Main Track>>223>>authors"
+    },
+    {
+        "question": "What are the challenges faced in neural connectivity reconstruction as discussed in the paper?",
+        "answer": "The intricate morphology and densely intertwined branches make it an extremely challenging task. Most previous best-performing methods adopt affinity learning or metric learning. Nevertheless, they either neglect to model explicit voxel semantics caused by implicit optimization or are hysteresis to spatial information. Furthermore, the inherent locality of 3D CNNs limits modeling long-range dependencies, leading to sub-optimal results.",
+        "from": "IJCAI2023>>program>>Main Track>>223>>abstract"
+    },
+    {
+        "question": "What is the proposed solution to the challenges faced in neural connectivity reconstruction in the research paper?",
+        "answer": "The authors propose a coherent and unified Appearance Prompt Vision Transformer (APViT) to integrate affinity and metric learning to exploit the complementarity by learning long-range spatial dependencies.",
+        "from": "IJCAI2023>>program>>Main Track>>223>>abstract"
+    },
+    {
+        "question": "What are the key advantages of the Appearance Prompt Vision Transformer (APViT) as discussed in the paper?",
+        "answer": "The APViT enjoys several merits. First, the extension continuity-aware attention module aims at constructing hierarchical attention customized for neuron extensibility and slice continuity to learn instance voxel semantic context from a global perspective and utilize continuity priors to enhance voxel spatial awareness. Second, the appearance prompt modulator is responsible for leveraging voxel-adaptive appearance knowledge conditioned on affinity rich in spatial information to instruct instance voxel semantics, exploiting the potential of affinity learning to complement metric learning.",
+        "from": "IJCAI2023>>program>>Main Track>>223>>abstract"
+    },
+    {
+        "question": "What is the title of the Journal J5942 in IJCAI2023?",
+        "answer": "SAT Encodings for Pseudo-Boolean Constraints Together With At-Most-One Constraints (Extended Abstract)",
+        "from": "IJCAI2023->program->Journal Track->J5942->title"
+    },
+    {
+        "question": "Who are the authors of the journal J5942 in the IJCAI2023 program?",
+        "answer": [
+            "Miquel Bofill",
+            "Jordi Coll",
+            "Peter Nightingale",
+            "Josep Suy",
+            "Felix Ulrich-Oltean",
+            "Mateu Villaret"
+        ],
+        "from": "IJCAI2023->program->Journal Track->J5942->authors"
+    },
+    {
+        "question": "What is the main subject of the journal J5942 in the IJCAI2023 program?",
+        "answer": "When solving a combinatorial problem using propositional satisfiability (SAT), the encoding of the constraints  is of vital importance. Pseudo-Boolean (PB) constraints appear frequently in a wide variety of problems. When PB constraints occur together with at-most-one (AMO) constraints over the same variables, they can be combined into PB(AMO) constraints. In this paper we present new encodings  for PB(AMO) constraints. Our experiments show that these encodings can be substantially smaller than those of PB constraints and allow many more instances to be solved within a time limit.",
+        "from": "IJCAI2023->program->Journal Track->J5942->abstract"
+    },
+    {
+        "question": "What are the keywords associated with Journal J5942 in IJCAI2023?",
+        "answer": [
+            "Constraint Satisfaction and Optimization -> CSO: Satisfiabilty",
+            "Constraint Satisfaction and Optimization -> CSO: Modeling",
+            "Constraint Satisfaction and Optimization -> CSO: Constraint satisfaction"
+        ],
+        "from": "IJCAI2023->program->Journal Track->J5942->keywords"
+    },
+    {
+        "question": "What problem are the authors addressing in Journal J5942 in IJCAI2023?",
+        "answer": "The encoding of constraints in combinatorial problem solving using propositional satisfiability (SAT), specifically when Pseudo-Boolean (PB) constraints and at-most-one (AMO) constraints occur together.",
+        "from": "IJCAI2023->program->Journal Track->J5942->abstract"
+    },
+    {
+        "question": "What is the title of the paper with the ID 1009 in the main track of the IJCAI2023 program?",
+        "answer": "Dynamic Flows on Curved Space Generated by Labeled Data",
+        "from": "IJCAI2023>>program>>Main Track>>1009>>title"
+    },
+    {
+        "question": "Who are the authors of the paper titled 'Dynamic Flows on Curved Space Generated by Labeled Data'?",
+        "answer": [
+            "Xinru Hua",
+            "Truyen Nguyen",
+            "Tam Le",
+            "Jose Blanchet",
+            "Viet Anh Nguyen"
+        ],
+        "from": "IJCAI2023>>program>>Main Track>>1009>>authors"
+    },
+    {
+        "question": "What is the abstract of the paper with the ID 1009?",
+        "answer": "The scarcity of labeled data is a long-standing challenge for many machine learning tasks. We propose our gradient flow method to leverage the existing dataset (i.e., source) to generate new samples that are close to the dataset of interest (i.e., target). We lift both datasets to the space of probability distributions on the feature-Gaussian manifold, and then develop a gradient flow method that minimizes the maximum mean discrepancy loss. To perform the gradient flow of distributions on the curved feature-Gaussian space, we unravel the Riemannian structure of the space and compute explicitly the  Riemannian gradient of the loss function induced by the optimal transport metric. For practical applications, we also propose a discretized flow, and provide conditional results guaranteeing the global convergence of the flow to the optimum. We illustrate the results of our proposed gradient flow method on several real-world datasets and show our method can improve the accuracy of classification models in transfer learning settings.",
+        "from": "IJCAI2023>>program>>Main Track>>1009>>abstract"
+    },
+    {
+        "question": "What are the keywords associated with the paper titled 'Dynamic Flows on Curved Space Generated by Labeled Data'?",
+        "answer": [
+            "Machine Learning -> ML: Optimization",
+            "Machine Learning -> ML: Multi-task and transfer learning",
+            "Computer Vision -> CV: Machine learning for vision",
+            "Machine Learning -> ML: Few-shot learning"
+        ],
+        "from": "IJCAI2023>>program>>Main Track>>1009>>keywords"
+    },
+    {
+        "question": "Does the paper with ID 1009 have a solution to the scarcity of labeled data?",
+        "answer": "Yes, it proposes a gradient flow method to generate new samples that are close to the dataset of interest.",
+        "from": "IJCAI2023>>program>>Main Track>>1009>>abstract"
+    },
+    {
+        "question": "What is the title of the paper AI4SG5788 in the special track on AI for Good at IJCAI 2023?",
+        "answer": "Balancing Social Impact, Opportunities, and Ethical Constraints of Using AI in the Documentation and Vitalization of Indigenous Languages",
+        "from": "IJCAI2023>>program>>Special Track on AI for Good>>AI4SG5788>>title"
+    },
+    {
+        "question": "Who are the authors of the paper AI4SG5788 presented at IJCAI 2023?",
+        "answer": [
+            "Claudio S. Pinhanez",
+            "Paulo Cavalin",
+            "Marisa Vasconcelos",
+            "Julio Nogima"
+        ],
+        "from": "IJCAI2023>>program>>Special Track on AI for Good>>AI4SG5788>>authors"
+    },
+    {
+        "question": "What is the abstract content of the paper coded as AI4SG5788 under the Special Track on AI for Good at IJCAI 2023?",
+        "answer": "In this paper we discuss how AI can contribute to support the documentation and vitalization of Indigenous languages and how that involves a delicate balancing of ensuring social impact, exploring technical opportunities, and dealing with ethical constraints. We start by surveying previous work on using AI and NLP to support critical activities of strengthening Indigenous and endangered languages and discussing key limitations of current technologies. After presenting basic ethical constraints of working with Indigenous languages and communities, we propose that creating and deploying language technology ethically with and for Indigenous communities forces AI researchers and engineers to address some of the main shortcomings and criticisms of current technologies. Those ideas are also explored in the discussion of a real case of development of large language models for Brazilian Indigenous languages.",
+        "from": "IJCAI2023>>program>>Special Track on AI for Good>>AI4SG5788>>abstract"
+    },
+    {
+        "question": "What are the keywords associated with the paper AI4SG5788 at IJCAI 2023?",
+        "answer": [
+            "AI for Good -> Humans and AI",
+            "AI for Good -> AI Ethics, Trust, Fairness",
+            "AI for Good -> Multidisciplinary Topics and Applications",
+            "AI for Good -> Natural Language Processing"
+        ],
+        "from": "IJCAI2023>>program>>Special Track on AI for Good>>AI4SG5788>>keywords"
+    },
+    {
+        "question": "Which indigenous language is discussed in the case study in the paper AI4SG5788 at IJCAI 2023?",
+        "answer": "Brazilian Indigenous languages",
+        "from": "IJCAI2023>>program>>Special Track on AI for Good>>AI4SG5788>>abstract"
+    },
+    {
+        "question": "What is the title of the paper with ID 547 in the Main Track program at IJCAI 2023?",
+        "answer": "Ensemble Reinforcement Learning in Continuous Spaces — A Hierarchical Multi-Step Approach for Policy Training",
+        "from": "IJCAI2023>>program>>Main Track>>547>>title"
+    },
+    {
+        "question": "Who are the authors of the paper with ID 547 in the Main Track program at IJCAI 2023?",
+        "answer": [
+            "Gang Chen",
+            "Victoria Huang"
+        ],
+        "from": "IJCAI2023>>program>>Main Track>>547>>authors"
+    },
+    {
+        "question": "What is the abstract of the paper with ID 547 in the Main Track program at IJCAI 2023?",
+        "answer": "Actor-critic deep reinforcement learning (DRL) algorithms have recently achieved prominent success in tackling various challenging reinforcement learning (RL) problems, particularly complex control tasks with high-dimensional continuous state and action spaces. Nevertheless, existing research showed that actor-critic DRL algorithms often failed to explore their learning environments effectively, resulting in limited learning stability and performance. To address this limitation, several ensemble DRL algorithms have been proposed lately to boost exploration and stabilize the learning process. However, most of existing ensemble algorithms do not explicitly train all base learners towards jointly optimizing the performance of the ensemble. In this paper, we propose a new technique to train an ensemble of base learners based on an innovative multi-step integration method. This training technique enables us to develop a new hierarchical learning algorithm for ensemble DRL that effectively promotes inter-learner collaboration through stable inter-learner parameter sharing. The design of our new algorithm is verified theoretically. The algorithm is also shown empirically to outperform several state-of-the-art DRL algorithms on multiple benchmark RL problems.",
+        "from": "IJCAI2023>>program>>Main Track>>547>>abstract"
+    },
+    {
+        "question": "What are the keywords related to the paper with ID 547 in the Main Track program at IJCAI 2023?",
+        "answer": [
+            "Machine Learning -> ML: Deep reinforcement learning",
+            "Machine Learning -> ML: Ensemble methods"
+        ],
+        "from": "IJCAI2023>>program>>Main Track>>547>>keywords"
+    },
+    {
+        "question": "What is the main conclusion of the paper with ID 547 in the Main Track program at IJCAI 2023?",
+        "answer": "The proposed method enables to develop a new hierarchical learning algorithm for ensemble DRL that effectively promotes inter-learner collaboration through stable inter-learner parameter sharing. The algorithm is also shown empirically to outperform several state-of-the-art DRL algorithms on multiple benchmark RL problems.",
+        "from": "IJCAI2023>>program>>Main Track>>547>>abstract"
+    },
+    {
+        "question": "What is the title of the study conducted in track 4482 at the IJCAI 2023 conference?",
+        "answer": "Fair Division of a Graph into Compact Bundles",
+        "from": "IJCAI2023>>program>>Main Track>>4482>>title"
+    },
+    {
+        "question": "Who is the author of the study titled 'Fair Division of a Graph into Compact Bundles' at the IJCAI 2023 conference?",
+        "answer": "Jayakrishnan Madathil",
+        "from": "IJCAI2023>>program>>Main Track>>4482>>authors"
+    },
+    {
+        "question": "What is the abstract of the study conducted by Jayakrishnan Madathil at the IJCAI 2023 conference?",
+        "answer": "We study the computational complexity of fair division of indivisible items in an enriched model: there is an underlying graph on the set of items. And we have to allocate the items (i.e., the vertices of the graph) to a set of agents in such a way that (a) the allocation is fair (for appropriate notions of fairness) and (b) each agent receives a bundle of items (i.e., a subset of vertices) that induces a subgraph with a specific “nice structure.” This model has previously been studied in the literature with the nice structure being a connected subgraph. In this paper, we propose an alternative for connectivity in fair division. We introduce compact graphs, and look for fair allocations in which each agent receives a compact bundle of items. Through compactness, we attempt to capture the idea that every agent must receive a bundle of “closely related” items. We prove a host of hardness and tractability results with respect to fairness concepts such as proportionality, envy-freeness and maximin share guarantee.",
+        "from": "IJCAI2023>>program>>Main Track>>4482>>abstract"
+    },
+    {
+        "question": "What are the keywords related to the study titled 'Fair Division of a Graph into Compact Bundles' at the IJCAI 2023 conference?",
+        "answer": [
+            "Game Theory and Economic Paradigms -> GTEP: Fair division",
+            "Agent-based and Multi-agent Systems -> MAS: Resource allocation"
+        ],
+        "from": "IJCAI2023>>program>>Main Track>>4482>>keywords"
+    },
+    {
+        "question": "What is the primary field of study for the research conducted by Jayakrishnan Madathil at the IJCAI 2023 conference?",
+        "answer": "Game Theory and Economic Paradigms -> GTEP: Fair division",
+        "from": "IJCAI2023>>program>>Main Track>>4482>>keywords"
+    },
+    {
+        "question": "What is the title of the paper J5946 in the Journal Track?",
+        "answer": "Learning to Design Fair and Private Voting Rules (Extended Abstract)",
+        "from": "IJCAI2023>>program>>Journal Track>>J5946>>title"
+    },
+    {
+        "question": "Who are the authors of the paper J5946 in the Journal Track?",
+        "answer": [
+            "Farhad Mohsin",
+            "Ao Liu",
+            "Pin-Yu Chen",
+            "Francesca Rossi",
+            "Lirong Xia"
+        ],
+        "from": "IJCAI2023>>program>>Journal Track>>J5946>>authors"
+    },
+    {
+        "question": "What is the central theme of the paper J5946?",
+        "answer": "Voting is used widely to aggregate preferences to make a collective decision. The paper evaluate and design voting rules supporting both privacy and fairness of the voting agents.",
+        "from": "IJCAI2023>>program>>Journal Track>>J5946>>abstract"
+    },
+    {
+        "question": "What is the new concept introduced in this paper J5946?",
+        "answer": "A novel notion of group fairness.",
+        "from": "IJCAI2023>>program>>Journal Track>>J5946>>abstract"
+    },
+    {
+        "question": "What are the keywords related to paper J5946?",
+        "answer": [
+            "Game Theory and Economic Paradigms -> GTEP: Computational social choice",
+            "AI Ethics, Trust, Fairness -> ETF: Fairness and diversity",
+            "Multidisciplinary Topics and Applications -> MDA: Security and privacy"
+        ],
+        "from": "IJCAI2023>>program>>Journal Track>>J5946>>keywords"
+    },
+    {
+        "question": "What is the paper J5946 proposing?",
+        "answer": "The paper proposes a machine learning and a constrained optimization approach to design new voting rules that are fair while maintaining a high level of economic efficiency.",
+        "from": "IJCAI2023>>program>>Journal Track>>J5946>>abstract"
+    },
+    {
+        "question": "According to the paper J5946, is it possible to always obtain maximal economic efficiency with high fairness?",
+        "answer": "No, it's not possible.",
+        "from": "IJCAI2023>>program>>Journal Track>>J5946>>abstract"
+    },
+    {
+        "question": "Does the paper J5946 discuss the effect of adding noise to create local differentially private voting rules?",
+        "answer": "Yes, it does.",
+        "from": "IJCAI2023>>program>>Journal Track>>J5946>>abstract"
+    },
+    {
+        "question": "What is the title of program 1560 in the Main Track of IJCAI2023?",
+        "answer": "Abstraction of Nondeterministic Situation Calculus Action Theories",
+        "from": "IJCAI2023>>program>>Main Track>>1560>>title"
+    },
+    {
+        "question": "Who are the authors of the program 1560 in the Main Track of IJCAI2023?",
+        "answer": [
+            "Bita Banihashemi",
+            "Giuseppe De Giacomo",
+            "Yves Lesperance"
+        ],
+        "from": "IJCAI2023>>program>>Main Track>>1560>>authors"
+    },
+    {
+        "question": "What is the main area of research or the keywords of the program 1560 in the Main Track of IJCAI2023?",
+        "answer": [
+            "Knowledge Representation and Reasoning -> KRR: Reasoning about actions",
+            "Agent-based and Multi-agent Systems -> MAS: Agent theories and models"
+        ],
+        "from": "IJCAI2023>>program>>Main Track>>1560>>keywords"
+    },
+    {
+        "question": "What is the abstract of the program 1560 in the Main Track of IJCAI2023?",
+        "answer": "We develop a general framework for abstracting the behavior of an agent that operates in a nondeterministic domain, i.e., where the agent does not control\nthe outcome of the nondeterministic actions, based on the nondeterministic situation calculus and the ConGolog programming language. We assume that\nwe have both an abstract and a concrete nondeterministic basic action theory, and a refinement mapping which  specifies how abstract actions, decomposed into agent actions and environment reactions, are implemented by concrete ConGolog programs. This new setting supports strategic reasoning and strategy synthesis, by allowing us to quantify separately on agent actions and environment reactions. We show that if the agent has a (strong FOND) plan/strategy to achieve a goal/complete a task at the abstract level, and it can always execute the nondeterministic abstract actions to completion at the concrete level, then there exist a refinement of it that is a (strong FOND) plan/strategy to achieve the refinement of the goal/task at the concrete level.",
+        "from": "IJCAI2023>>program>>Main Track>>1560>>abstract"
+    },
+    {
+        "question": "Can the agent always execute the nondeterministic abstract actions to completion at the concrete level in the program 1560 in the Main Track of IJCAI2023?",
+        "answer": "Yes, in program 1560's research, it is stated that the agent can always execute the nondeterministic abstract actions to completion at the concrete level.",
+        "from": "IJCAI2023>>program>>Main Track>>1560>>abstract"
+    },
+    {
+        "question": "What is the title of the paper with id 3863?",
+        "answer": "Less Learn Shortcut: Analyzing and Mitigating Learning of Spurious Feature-Label Correlation",
+        "from": "IJCAI2023>>program>>Main Track>>3863>>title"
+    },
+    {
+        "question": "Who are the authors of the paper with id 3863?",
+        "answer": [
+            "Yanrui Du",
+            "Jing Yan",
+            "Yan Chen",
+            "Jing Liu",
+            "Sendong Zhao",
+            "Qiaoqiao She",
+            "Hua Wu",
+            "Haifeng Wang",
+            "Bing Qin"
+        ],
+        "from": "IJCAI2023>>program>>Main Track>>3863>>authors"
+    },
+    {
+        "question": "What is the abstract of the paper titled 'Less Learn Shortcut: Analyzing and Mitigating Learning of Spurious Feature-Label Correlation'?",
+        "answer": "Recent research has revealed that deep neural networks often take dataset biases as a shortcut to make decisions rather than understand tasks, leading to failures in real-world applications. In this study, we focus on the spurious correlation between word features and labels that models learn from the biased data distribution of training data. In particular, we define the word highly co-occurring with a specific label as biased word, and the example containing biased word as biased example. Our analysis shows that biased examples are easier for models to learn, while at the time of prediction, biased words make a significantly higher contribution to the models’ predictions, and models tend to assign predicted labels over-relying on the spurious correlation between words and labels. To mitigate models’ over-reliance on the shortcut (i.e. spurious correlation), we propose a training strategy Less-Learn-Shortcut (LLS): our strategy quantifies the biased degree of the biased examples and down-weights them accordingly. Experimental results on Question Matching, Natural Language Inference and Sentiment Analysis tasks show that LLS is a task-agnostic strategy and can improve the model performance on adversarial data while maintaining good performance on in-domain data.",
+        "from": "IJCAI2023>>program>>Main Track>>3863>>abstract"
+    },
+    {
+        "question": "What are the keywords associated with the paper id 3863?",
+        "answer": [
+            "Natural Language Processing -> NLP: Question answering",
+            "Natural Language Processing -> NLP: Interpretability and analysis of models for NLP"
+        ],
+        "from": "IJCAI2023>>program>>Main Track>>3863>>keywords"
+    },
+    {
+        "question": "What is the proposed strategy in the study 'Less Learn Shortcut: Analyzing and Mitigating Learning of Spurious Feature-Label Correlation'?",
+        "answer": "Less-Learn-Shortcut (LLS)",
+        "from": "IJCAI2023>>program>>Main Track>>3863>>abstract"
+    },
+    {
+        "question": "What is the title of the research presented at the IJCAI2023 conference Main Track with the ID 5014?",
+        "answer": "Adaptive Path-Memory Network for Temporal Knowledge Graph Reasoning",
+        "from": "IJCAI2023>>program>>Main Track>>5014>>title"
+    },
+    {
+        "question": "Who are the authors of the research 'Adaptive Path-Memory Network for Temporal Knowledge Graph Reasoning' presented at IJCAI2023?",
+        "answer": [
+            "Hao Dong",
+            "Zhiyuan Ning",
+            "Pengyang Wang",
+            "Ziyue Qiao",
+            "Pengfei Wang",
+            "Yuanchun Zhou",
+            "Yanjie Fu"
+        ],
+        "from": "IJCAI2023>>program>>Main Track>>5014>>authors"
+    },
+    {
+        "question": "What is the abstract of the research 'Adaptive Path-Memory Network for Temporal Knowledge Graph Reasoning' presented at IJCAI2023?",
+        "answer": "Temporal knowledge graph (TKG) reasoning aims to predict the future missing facts based on historical information and has gained increasing research interest recently. Lots of works have been made to model the historical structural and temporal characteristics for the reasoning task. Most existing works model the graph structure mainly depending on entity representation. However, the magnitude of TKG entities in real-world scenarios is considerable, and an increasing number of new entities will arise as time goes on. Therefore, we propose a novel architecture modeling with relation feature of TKG, namely aDAptivE path-MemOry Network (DaeMon), which adaptively models the temporal path information between query subject and each object candidate across history time. It models the historical information without depending on entity representation. Specifically, DaeMon uses path memory to record the temporal path information derived from path aggregation unit across timeline considering the memory passing strategy between adjacent timestamps. Extensive experiments conducted on four real-world TKG datasets demonstrate that our proposed model obtains substantial performance improvement and outperforms the state-of-the-art up to 4.8% absolute in MRR.",
+        "from": "IJCAI2023>>program>>Main Track>>5014>>abstract"
+    },
+    {
+        "question": "What are the keywords associated with the research 'Adaptive Path-Memory Network for Temporal Knowledge Graph Reasoning' at IJCAI2023?",
+        "answer": [
+            "Data Mining -> DM: Knowledge graphs and knowledge base completion",
+            "Knowledge Representation and Reasoning -> KRR: Learning and reasoning",
+            "Machine Learning -> ML: Sequence and graph learning"
+        ],
+        "from": "IJCAI2023>>program>>Main Track>>5014>>keywords"
+    },
+    {
+        "question": "What is the novel architecture that the paper 'Adaptive Path-Memory Network for Temporal Knowledge Graph Reasoning' is proposing?",
+        "answer": "aDAptivE path-MemOry Network (DaeMon)",
+        "from": "IJCAI2023>>program>>Main Track>>5014>>abstract"
+    },
+    {
+        "question": "What is the title of the paper with ID 71 in the Main Track program?",
+        "answer": "Teaching What You Should Teach: A Data-Based Distillation Method",
+        "from": "IJCAI2023>>program>>Main Track>>71>>title"
+    },
+    {
+        "question": "Who are the authors of the paper with ID 71?",
+        "answer": [
+            "Shitong Shao",
+            "Huanran Chen",
+            "Zhen Huang",
+            "Linrui Gong",
+            "Shuai Wang",
+            "Xinxiao Wu"
+        ],
+        "from": "IJCAI2023>>program>>Main Track>>71>>authors"
+    },
+    {
+        "question": "What is the main idea of the paper titled 'Teaching What You Should Teach: A Data-Based Distillation Method'?",
+        "answer": "The paper introduces the strategy of teaching what one is good at but the student is not, into a knowledge distillation framework. A data-based distillation method named TST is proposed that produces suitable data samples to assist in distilling more efficiently and rationally.",
+        "from": "IJCAI2023>>program>>Main Track>>71>>abstract"
+    },
+    {
+        "question": "What are the main application areas of the method proposed in the paper 'Teaching What You Should Teach: A Data-Based Distillation Method'?",
+        "answer": [
+            "Computer Vision: Applications",
+            "Computer Vision: Recognition (object detection, categorization)",
+            "Computer Vision: Segmentation"
+        ],
+        "from": "IJCAI2023>>program>>Main Track>>71>>keywords"
+    },
+    {
+        "question": "What kind of evaluation was conducted to verify the effectiveness of the method proposed in the paper 'Teaching What You Should Teach: A Data-Based Distillation Method'?",
+        "answer": "Experiments were conducted on object recognition, detection, and segmentation tasks, on the CIFAR-100, ImageNet-1k, MS-COCO, and Cityscapes datasets. The method reportedly achieved state-of-the-art performance on almost all teacher-student pairs.",
+        "from": "IJCAI2023>>program>>Main Track>>71>>abstract"
+    },
+    {
+        "question": "Has the method proposed in the paper 'Teaching What You Should Teach: A Data-Based Distillation Method' been tested on any real datasets?",
+        "answer": "Yes, the method has been tested on the CIFAR-100, ImageNet-1k, MS-COCO, and Cityscapes datasets.",
+        "from": "IJCAI2023>>program>>Main Track>>71>>abstract"
+    },
+    {
+        "question": "What does the TST stand for in the proposed method in the paper?",
+        "answer": "TST stands for 'Teaching what you Should Teach'.",
+        "from": "IJCAI2023>>program>>Main Track>>71>>abstract"
+    },
+    {
+        "question": "What kind of tasks does the method 'Teaching What You Should Teach: A Data-Based Distillation Method' apply to?",
+        "answer": "The method applies to object recognition, detection, and segmentation tasks.",
+        "from": "IJCAI2023>>program>>Main Track>>71>>abstract"
+    },
+    {
+        "question": "What are the primary concerns of the paper with ID 71 in the Main Track program?",
+        "answer": "The paper primarily focuses on how to make learning more efficient and rational by teaching what the teacher is good at but the student is not.",
+        "from": "IJCAI2023>>program>>Main Track>>71>>abstract"
+    },
+    {
+        "question": "Where does the 'Teaching What You Should Teach: A Data-Based Distillation Method' demonstrate state-of-the-art performance?",
+        "answer": "The method demonstrates state-of-the-art performance on almost all teacher-student pairs in object recognition, detection, and segmentation tasks.",
+        "from": "IJCAI2023>>program>>Main Track>>71>>abstract"
+    },
+    {
+        "question": "What is the title of the paper in the Special Track on AI for Good in the IJCAI2023 program?",
+        "answer": "Optimizing Crop Management with Reinforcement Learning and Imitation Learning",
+        "from": "IJCAI2023->program->Special Track on AI for Good->AI4SG5611->title"
+    },
+    {
+        "question": "Who are the authors of the paper 'Optimizing Crop Management with Reinforcement Learning and Imitation Learning'?",
+        "answer": [
+            "Ran Tao",
+            "Pan Zhao",
+            "Jing Wu",
+            "Nicolas Martin",
+            "Matthew T. Harrison",
+            "Carla Ferreira",
+            "Zahra Kalantari",
+            "Naira Hovakimyan"
+        ],
+        "from": "IJCAI2023->program->Special Track on AI for Good->AI4SG5611->authors"
+    },
+    {
+        "question": "What is the main focus of the paper presented in the Special Track on AI for Good?",
+        "answer": "The paper is focused on optimizing crop management using reinforcement learning, imitation learning and crop simulations.",
+        "from": "IJCAI2023->program->Special Track on AI for Good->AI4SG5611->abstract"
+    },
+    {
+        "question": "What simulation tool does the paper 'Optimizing Crop Management with Reinforcement Learning and Imitation Learning' use?",
+        "answer": "The Decision Support System for Agrotechnology Transfer (DSSAT)",
+        "from": "IJCAI2023->program->Special Track on AI for Good->AI4SG5611->abstract"
+    },
+    {
+        "question": "What are the key techniques used in the paper 'Optimizing Crop Management with Reinforcement Learning and Imitation Learning'?",
+        "answer": "The key techniques used are Reinforcement Learning and Imitation Learning",
+        "from": "IJCAI2023->program->Special Track on AI for Good->AI4SG5611->title"
+    },
+    {
+        "question": "What is the primary aim of the system presented in the 'Optimizing Crop Management with Reinforcement Learning and Imitation Learning' paper?",
+        "answer": "The primary aim of the system is to optimize nitrogen fertilization and irrigation simultaneously.",
+        "from": "IJCAI2023->program->Special Track on AI for Good->AI4SG5611->abstract"
+    },
+    {
+        "question": "What are the main benefits of the AI system presented in 'Optimizing Crop Management with Reinforcement Learning and Imitation Learning'?",
+        "answer": "The trained policies achieved over 45% improvement in economic profit and caused less environmental impact compared to a baseline method.",
+        "from": "IJCAI2023->program->Special Track on AI for Good->AI4SG5611->abstract"
+    },
+    {
+        "question": "What advantage does the system developed in the paper 'Optimizing Crop Management with Reinforcement Learning and Imitation Learning' have for real-world applications?",
+        "answer": "The system can be directly deployed in the real world as it uses readily available information.",
+        "from": "IJCAI2023->program->Special Track on AI for Good->AI4SG5611->abstract"
+    },
+    {
+        "question": "Which crops and regions were used for the experiments in 'Optimizing Crop Management with Reinforcement Learning and Imitation Learning'?",
+        "answer": "The simulation experiments were done using the maize crop in Florida (US) and Zaragoza (Spain).",
+        "from": "IJCAI2023->program->Special Track on AI for Good->AI4SG5611->abstract"
+    },
+    {
+        "question": "What are the keywords for the paper 'Optimizing Crop Management with Reinforcement Learning and Imitation Learning'?",
+        "answer": [
+            "AI for Good -> Multidisciplinary Topics and Applications",
+            "AI for Good -> Machine Learning"
+        ],
+        "from": "IJCAI2023->program->Special Track on AI for Good->AI4SG5611->keywords"
+    },
+    {
+        "question": "What is the title of the paper with ID 621 in the Main Track of IJCAI2023?",
+        "answer": "Compositional Zero-Shot Artistic Font Synthesis",
+        "from": "IJCAI2023>>program>>Main Track>>621>>title"
+    },
+    {
+        "question": "Who are the authors of the paper 'Compositional Zero-Shot Artistic Font Synthesis'?",
+        "answer": [
+            "Xiang Li",
+            "Lei Wu",
+            "Changshuo Wang",
+            "Lei Meng",
+            "Xiangxu Meng"
+        ],
+        "from": "IJCAI2023>>program>>Main Track>>621>>authors"
+    },
+    {
+        "question": "What is the main problem the paper 'Compositional Zero-Shot Artistic Font Synthesis' aims to address?",
+        "answer": "It aims to solve the problem of envisioning and synthesizing unseen style compositions of an artistic font.",
+        "from": "IJCAI2023>>program>>Main Track>>621>>abstract"
+    },
+    {
+        "question": "What method is proposed in the paper 'Compositional Zero-Shot Artistic Font Synthesis' to solve the problem at hand?",
+        "answer": "The paper proposes a novel compositional zero-shot artistic font synthesis gan (CAFS-GAN) which disentangles style between glyph and effect.",
+        "from": "IJCAI2023>>program>>Main Track>>621>>abstract"
+    },
+    {
+        "question": "In which fields does the paper 'Compositional Zero-Shot Artistic Font Synthesis' fall?",
+        "answer": [
+            "Computer Vision -> CV: Transfer, low-shot, semi- and un- supervised learning",
+            "Computer Vision -> CV: Neural generative models, auto encoders, GANs"
+        ],
+        "from": "IJCAI2023>>program>>Main Track>>621>>keywords"
+    },
+    {
+        "question": "What is the title of the paper presented in the main track of IJCAI2023?",
+        "answer": "Artificial Agents Inspired by Human Motivation Psychology for Teamwork in Hazardous Environments",
+        "from": "IJCAI2023>>program>>Main Track>>1363>>title"
+    },
+    {
+        "question": "Who are the authors of the paper 'Artificial Agents Inspired by Human Motivation Psychology for Teamwork in Hazardous Environments'?",
+        "answer": [
+            "Anupama Arukgoda",
+            "Erandi Lakshika",
+            "Michael Barlow",
+            "Kasun Gunawardana"
+        ],
+        "from": "IJCAI2023>>program>>Main Track>>1363>>authors"
+    },
+    {
+        "question": "What are the areas of focus related to the paper 'Artificial Agents Inspired by Human Motivation Psychology for Teamwork in Hazardous Environments'?",
+        "answer": [
+            "Agent-based and Multi-agent Systems -> MAS: Agent-based simulation and emergence",
+            "Humans and AI -> HAI: Cognitive modeling",
+            "Humans and AI -> HAI: Human-AI collaboration"
+        ],
+        "from": "IJCAI2023>>program>>Main Track>>1363>>keywords"
+    },
+    {
+        "question": "What is the key methodology used in the paper presented in the main track of IJCAI2023?",
+        "answer": "The methodology is to model motivated agents that can activate different strategies depending on the circumstances. It's done by using human implicit motivation psychology theory.",
+        "from": "IJCAI2023>>program>>Main Track>>1363>>abstract"
+    },
+    {
+        "question": "According to the paper 'Artificial Agents Inspired by Human Motivation Psychology for Teamwork in Hazardous Environments', what kind of diversity is beneficial in dynamic collaborative environments?",
+        "answer": "Motivational diversity within teams is beneficial in dynamic collaborative environments, especially as the task risk level increases.",
+        "from": "IJCAI2023>>program>>Main Track>>1363>>abstract"
+    }
+]

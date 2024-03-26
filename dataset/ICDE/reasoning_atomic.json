@@ -1,0 +1,112 @@
+[
+    {
+        "question": "How frequently is the ICDE2023 conference held?",
+        "answer": "ICDE2023 is a yearly international academic conference.",
+        "from": "ICDE2023/General Info/Homepage"
+    },
+    {
+        "question": "Can I attend the conference remotely?",
+        "answer": "Yes, you can. The conference will be held in a hybrid format, with both in-person and virtual participation options.",
+        "from": "ICDE2023/Participate/Format and Registration"
+    },
+    {
+        "question": "How can I contact the conference organizers if I have further questions or concerns?",
+        "answer": "There is no contact information on the website.",
+        "from": "ICDE2023/General Info/Organizing Committee"
+    },
+    {
+        "question": "Is there any post-conference access to keynotes or talks",
+        "answer": "Yes",
+        "from": "ICDE2023/Program/Keynotes"
+    },
+    {
+        "question": "Will there be live-streamed sessions for those who can't attend in person?",
+        "answer": "Yes",
+        "from": "ICDE2023/Participate/Format and Registration"
+    },
+    {
+        "question": "Are there any keynotes talks related to graph neural networks?",
+        "answer": "No",
+        "from": "ICDE2023/Program/Keynotes"
+    },
+    {
+        "question": "Are there any keynotes talks related to database systems?",
+        "answer": "Yes, the keynote talk 'What Makes Database Systems Fast? An Ablation Study' is related to database systems.",
+        "from": "ICDE2023/Program/Keynotes"
+    },
+    {
+        "question": "Will the meeting venue provide free WiFi for participants?",
+        "answer": "Yes, the meeting venue will provide free WiFi for participants.",
+        "from": "ICDE2023/Participate/Internet"
+    },
+    {
+        "question": "Do I need to pay if I need to park at the conference hotel?",
+        "answer": "Yes, you need to pay if you need to park at the conference hotel.",
+        "from": "ICDE2023/Participate/Venue Information"
+    },
+    {
+        "question": "Do researchers need to submit an abstract first when submitting a manuscript to research track?",
+        "answer": "No.",
+        "from": "ICDE2023/Call for Contributions/Research Paper Track"
+    },
+    {
+        "question": "Are there any topics related to data mining in the research track?",
+        "answer": "Yes.",
+        "from": "ICDE2023/Call for Contributions/Research Paper Track"
+    },
+    {
+        "question": "Are there any topics related to 'AI for science' in the research track?",
+        "answer": "No.",
+        "from": "ICDE2023/Call for Contributions/Research Paper Track"
+    },
+    {
+        "question": "Can I submit a demonstration video as a supplementary material when submitting a manuscript to the demonstration track?",
+        "answer": "Yes.",
+        "from": "ICDE2023/Call for Contributions/Demonstration Track"
+    },
+    {
+        "question": "What is the value of the ICDE 2023 Travel Award?",
+        "answer": "The award value is 450 USD as a financial stipend to partially cover the expense of attending the conference in person.",
+        "from": "ICDE2023/Student Travel Award/ICDE 2023 Travel Award"
+    },
+    {
+        "question": "Are there any service requirements for the Student Travel Award recipients?",
+        "answer": "Yes, awardees are expected to volunteer at the conference activities for a number of hours during the conference week.",
+        "from": "ICDE2023/Student Travel Award/Service Requirement"
+    },
+    {
+        "question": "Is there a shuttle service available at the conference hotel?",
+        "answer": "Yes",
+        "from": "ICDE2023/Visa & Travel Info/Other Transportation"
+    },
+    {
+        "question": "Will the conference provide internet access to attendees?",
+        "answer": "Yes, the event will provide free WiFi to attendees.",
+        "from": "ICDE2023/Internet/Mobile Internet"
+    },
+    {
+        "question": "What are the main conference dates for ICDE2023?",
+        "answer": "The main conference dates for ICDE2023 are from April 4, 2023, to April 6, 2023.",
+        "from": "ICDE2023/General Info/Important Dates/deadlines/main_conference_dates"
+    },
+    {
+        "question": "Can authors decide to present their papers remotely at ICDE2023?",
+        "answer": "Yes, authors can decide to present their papers remotely, but they need to provide a valid reason to the Registration Chair by the early bird registration deadline.",
+        "from": "ICDE2023/General Info/Important Dates/deadlines/program_deadlines"
+    },
+    {
+        "question": "What is the cancellation deadline for ICDE2023 registration?",
+        "answer": "The registration cancellation deadline for ICDE2023 is March 17, 2023.",
+        "from": "ICDE2023/General Info/Important Dates/deadlines/program_deadlines"
+    },
+    {
+        "question": "When are the ICDE2023 workshops scheduled?",
+        "answer": "The ICDE2023 workshops are scheduled for April 3 and April 7, 2023.",
+        "from": "ICDE2023/General Info/Important Dates/deadlines/workshop_track_deadlines"
+    },
+    {
+        "question": "When is the last date to submit workshop proposals for ICDE2023?",
+        "answer": "The last date to submit workshop proposals for ICDE2023 was September 1, 2022.",
+        "from": "ICDE2023/General Info/Important Dates/deadlines/workshop_track_deadlines"
+    }
+]

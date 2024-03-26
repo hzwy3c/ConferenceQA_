@@ -1,0 +1,154 @@
+{
+    "QAs": [
+        {
+            "question": "Can I attend the conference remotely?",
+            "answer": "Based on feedback from our members, all papers in the program (oral or poster) must have at least one author who has registered at the appropriate rate for their presentation modality and status (e.g. virtual or in-person, student or regular, full conference or workshop only), without a fixed minimum. For exceptional reasons, if you are not able to attend in person to present, you may  register virtual conference.",
+            "from": "ACL2023/Registration/Registration/content/Introduction/content"
+        },
+        {
+            "question": "Is there any page limit of the long paper",
+            "answer": "Long papers must describe substantial, original, completed, and unpublished work. Wherever appropriate, concrete evaluation and analysis should be included. Long papers may consist of up to eight (8) pages of content, plus unlimited pages of references and appendices. Final versions of long papers will be given one additional page of content (up to nine (9) pages), so that reviewers’ comments can be taken into account. ",
+            "from": "ACL2023/Calls/CALL FOR PAPERS/Main Conference/content/Paper Types and Formats/content"
+        },
+        {
+            "question": "Is there any page limit of the short paper",
+            "answer": "Short paper submissions must describe original and unpublished work. Please note that a short paper is not a shortened long paper. Instead, short papers should have a small, focused contribution - a point that can be made in a few pages with sufficient level of detail. Short papers may consist of up to four (4) pages of content, plus unlimited pages of references and appendices. Final versions of short papers will be given one additional page of content (up to five (5) pages), so that reviewers’ comments can be taken into account.",
+            "from": "ACL2023/Calls/CALL FOR PAPERS/Main Conference/content/Paper Types and Formats/content"
+        },
+        {
+            "question": "How can I contact the conference organizers if I have further questions or concerns?",
+            "answer": "You can contact general chairs at yangliud@amazon.com.",
+            "from": "ACL2023/Committees/COMMITTEES/Organizing Committee/content/General Chair"
+        },
+        {
+            "question": "Can studnet volunteers register for the conference for free?",
+            "answer": "Yes.",
+            "from": "ACL2023/Calls/Call for Volunteers/content/introduction"
+        },
+        {
+            "question": "Is there any discounted virtual registration for the conference",
+            "answer": "Yes. Discounted/sliding scale virtual registration is intended to make ACL events accessible to researchers who otherwise would be unable to participate. The application form for discounted and free virtual registration is available June 19-28. Criteria for selection for financial aid will include your (a) country of residence, (b) employment position, (c) monthly income range, (d) available financial support from your employer/university, and (e) special circumstances. Given prioritization for those in greatest financial need, except in the case of special circumstances this additional funding is not intended for employed individuals and funded students from USA, Canada, Europe, Australia, New Zealand and higher income countries in Asia and the Middle East. Standard student registration rates (including from these regions) are already substantially discounted.",
+            "from": "ACL2023/Registration/Discounted Virtual Registration/content"
+        },
+        {
+            "question": "Can I get a full refund if I cancel my registration due to governmental travel restrictions?",
+            "answer": "Yes. Cancellation due to governmental travel restriction will be refunded the full amount paid (Minus up to $50 processing fee) regardless of when the notification is received by the ACL Office and must submit documentation supporting the above cancelation exceptions.",
+            "from": "ACL2023/Participants/Participants Information/Cancellation Policy/content"
+        },
+        {
+            "question": "Are students who are not first authors eligible to submit research papers in student research workshop?",
+            "answer": "No",
+            "from": "ACL2023/Calls/CALL FOR PAPERS/Student Research Workshop/content/General Rules for Submission"
+        },
+        {
+            "question": "Are students who are not PhD students eligible to submit thesis proposals in student research workshop?" ,
+            "answer": "No.",
+            "from": "ACL2023/Calls/CALL FOR PAPERS/Student Research Workshop/content/General Rules for Submission"
+        },
+        {
+            "question": "What is the deadline for abstract submission?",
+            "answer": "The Call for Papers was posted on 2022-10-07.",
+            "from": "ACL2023/Home/News"
+        },
+        {
+            "question": "What kind of proposals are invited for the tutorials at the EACL 2023, ACL 2023, and EMNLP 2023 conferences?",
+            "answer": "Proposals are invited for two types of tutorials: Cutting-edge and Introductory. Cutting-edge tutorials cover advances in newly emerging areas not previously covered in any ACL/EMNLP/EACL/NAACL-HLT/AACL/COLING related tutorial while Introductory tutorials provide introductions to related fields that are potentially relevant for the computational linguistics community.",
+            "from": "ACL2023>>Calls>>Call for Proposals>>Tutorials>>introduction"
+        },
+        {
+            "question": "What are some of Geoffrey Hinton's professional recognitions?",
+            "answer": "He is a fellow of the UK Royal Society, a foreign member of the US National Academy of Engineering, the US National Academy of Sciences, and the American Academy of Arts and Sciences among others. His awards include the David E. Rumelhart prize, the IJCAI award for research excellence, the Killam prize for Engineering, the Royal Society Royal Medal, the NSERC Herzberg Gold Medal, and the Turing Award among others.",
+            "from": "ACL2023>>Program>>EVENTS>>Keynotes>>content>>speakers"
+        },
+        {
+            "question": "Can a student submit a paper to SRW without participating in the pre-submission mentorship program?",
+            "answer": "Yes, a student can submit a paper at the SRW submission deadline even if they did not participate in the pre-submission mentoring.",
+            "from": "ACL2023>>Calls>>CALL FOR PAPERS>>Student Research Workshop>>content>>Pre-Submission Mentorship Program>>content"
+        },
+        {
+            "question": "Will the ACL 2023 conference be held in person?",
+            "answer": "Yes, the ACL 2023 conference will be a hybrid event, which means it will have both in-person and virtual components.",
+            "from": "ACL2023/Calls/CALL FOR PAPERS/Main Conference/content/Presentation Requirement/content"
+        },
+        {
+            "question": "What is the deadline for submitting workshop proposals for ACL 2023?",
+            "answer": "The deadline for submitting workshop proposals for ACL 2023 was November 15, 2022.",
+            "from": "ACL2023/Call for Proposals/Workshops/content/Important Dates"
+        },
+        {
+            "question": "Are there any grants available for students attending the ACL 2023 Student Research Workshop?",
+            "answer": "Yes, there are grants expected to offset some portion of students' travel, conference registration, and accommodation expenses for the ACL 2023 Student Research Workshop.",
+            "from": "ACL2023/Calls/CALL FOR PAPERS/Student Research Workshop/content/Grants"
+        },
+        {
+            "question": "Is there a mandatory section required in ACL 2023 paper submissions?",
+            "answer": "Yes, ACL 2023 requires all papers to have a clear discussion of limitations, in a dedicated section titled 'Limitations'.",
+            "from": "ACL2023/Calls/CALL FOR PAPERS/Main Conference/content/Paper Submission Policies/content/Paper Formatting"
+        },
+        {
+            "question": "How can I apply to be a student volunteer at ACL 2023?",
+            "answer": "To apply to be a student volunteer at ACL 2023, you must submit the completed application form and a one-page CV (resume).",
+            "from": "ACL2023/Calls/Call for Volunteers/content/Submission Procedure"
+        },
+        {
+            "question": "Are there any subsidies available for bandwidth or VPN expenses for ACL 2023 participants?",
+            "answer": "Yes",
+            "from": "ACL2023/Calls/Call for Subsidies/Diversity and Inclusion Program/content/Bandwidth and VPN Subsidies"
+        },
+        {
+            "question": "Can I submit a paper to ACL 2023 if I missed the abstract submission deadline?",
+            "answer": "No, if you miss the abstract submission deadline for ACL 2023, you cannot submit the full paper.",
+            "from": "ACL2023/Calls/CALL FOR PAPERS/Main Conference/content/Mandatory abstract submission/content"
+        },
+        {
+            "question": "What is the maximum number of pages for a short paper submission to the main conference of ACL 2023?",
+            "answer": "Short papers may consist of up to four (4) pages of content, plus unlimited pages of references and appendices for the main conference of ACL 2023.",
+            "from": "ACL2023/Calls/CALL FOR PAPERS/Main Conference/content/Paper Types and Formats/content"
+        },
+        {
+            "question": "What should I do if I want to change from virtual to in-person attendance for ACL2023?",
+            "answer": "If your plans change and you had selected virtual attendance but now want to attend in person, you should contact Yes Events to make the change and pay the difference owed.",
+            "from": "ACL2023/Registration/Registration/content/introduction/content/Note that"
+        },
+        {
+            "question": "How can I apply for a discounted or free virtual registration for ACL2023?",
+            "answer": "The application form for discounted and free virtual registration will be available on May 30th.",
+            "from": "ACL2023/Registration/Discounted Virtual Registration/content"
+        },
+        {
+            "question": "What are the criteria for selection for financial aid for ACL2023 virtual registration?",
+            "answer": "Criteria for selection for financial aid will include your country of residence, employment position, monthly income range, available financial support from your employer/university, and special circumstances.",
+            "from": "ACL2023/Registration/Discounted Virtual Registration/content"
+        },
+        {
+            "question": "What is the deadline to apply for an invitation letter for obtaining a VISA for ACL2023?",
+            "answer": "There is no specific deadline mentioned for applying for an invitation letter, but you must be an author (including co-authors) with a Softconf ID associated with the submission to the main conference ACL 2023.",
+            "from": "ACL2023/Participants/Participants Information/Invitation Letter/content"
+        },
+        {
+            "question": "What should I do if I experience harassment or hostile behavior at ACL2023?",
+            "answer": "If you experience harassment or hostile behavior, you may contact any member of the Professional Conduct Committee.",
+            "from": "ACL2023/Participants/Participants Information/Ethical Policies/content/ACL Code of Conduct"
+        },
+        {
+            "question": "What is the last date to cancel my registration for ACL2023 and still receive a full refund?",
+            "answer": "Cancellation of registration one month or more prior to the conference (June 09, 2023, or before), will be refunded the full amount paid (minus up to $50 processing fee).",
+            "from": "ACL2023/Participants/Participants Information/Cancellation Policy/content"
+        },
+        {
+            "question": "Will I get any refund if I cancel my registration two weeks prior to the start of ACL2023?",
+            "answer": "Cancellations 2 weeks prior to the start of Conference (June 23, 2023), and all no-shows, will not be refunded any amount.",
+            "from": "ACL2023/Participants/Participants Information/Cancellation Policy/content"
+        },
+        {
+            "question": "If I have to cancel my registration due to failure to obtain a visa, will I get a refund?",
+            "answer": "Cancellation due to failure to obtain a visa will be refunded the full amount paid (minus up to $50 processing fee) regardless of when the notification is received by the ACL Office.",
+            "from": "ACL2023/Participants/Participants Information/Cancellation Policy/content"
+        },
+        {
+            "question": "Who should I contact if I have questions about my registration or payment for ACL2023?",
+            "answer": "For questions about your registration and/or payment, you should contact Yes Events at ACLinfo@yesevents.com or call their toll-free number 800-937-872.",
+            "from": "ACL2023/Participants/Participants Information/Cancellation Policy/content"
+        }
+    ]
+}

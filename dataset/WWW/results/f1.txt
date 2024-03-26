@@ -1,0 +1,149 @@
+WWW_SentenceBERT_path_and_value_Mistral-7B: When is the registration desk available on May 01?: 25.14974793510575
+WWW_SentenceBERT_path_and_value_Mistral-7B: When is the registration desk available on May 01?: 25.14974793510575
+WWW_SentenceBERT_path_and_value_LLama2-7B: When is the registration desk available on May 01?: 10.1370789673112
+WWW_SentenceBERT_path_and_value_desc_Mistral-7B: When is the registration desk available on May 01?: 26.58033346138011
+WWW_SentenceBERT_path_and_value_desc_LLama2-7B: When is the registration desk available on May 01?: 11.244138457775986
+WWW_DPR_path_and_value_Mistral-7B: When is the registration desk available on May 01?: 24.003943965014837
+WWW_SentenceBERT_path_and_value_Mistral-7B: When is the registration desk available on May 01?: 25.14974793510575
+WWW_SentenceBERT_path_and_value_LLama2-7B: When is the registration desk available on May 01?: 10.1370789673112
+WWW_SentenceBERT_path_and_value_desc_Mistral-7B: When is the registration desk available on May 01?: 26.58033346138011
+WWW_SentenceBERT_path_and_value_desc_LLama2-7B: When is the registration desk available on May 01?: 11.244138457775986
+WWW_DPR_path_and_value_Mistral-7B: When is the registration desk available on May 01?: 24.003943965014837
+WWW_DPR_path_and_value_LLama2-7B: When is the registration desk available on May 01?: 11.578893642844681
+WWW_DPR_path_and_value_desc_Mistral-7B: When is the registration desk available on May 01?: 24.326459129648214
+WWW_DPR_path_and_value_desc_LLama2-7B: When is the registration desk available on May 01?: 13.464114980181392
+WWW_ANCE_path_and_value_Mistral-7B: When is the registration desk available on May 01?: 26.425917246998733
+WWW_ANCE_path_and_value_LLama2-7B: When is the registration desk available on May 01?: 11.045728824891226
+WWW_ANCE_path_and_value_desc_Mistral-7B: When is the registration desk available on May 01?: 29.067095762579434
+WWW_ANCE_path_and_value_desc_LLama2-7B: When is the registration desk available on May 01?: 11.733703284128326
+WWW_SentenceBERT_path_and_value_Mistral-7B: When is the registration desk available on May 01?: 25.14974793510575
+WWW_SentenceBERT_path_and_value_LLama2-7B: When is the registration desk available on May 01?: 10.1370789673112
+WWW_SentenceBERT_path_and_value_desc_Mistral-7B: When is the registration desk available on May 01?: 26.58033346138011
+WWW_SentenceBERT_path_and_value_desc_LLama2-7B: When is the registration desk available on May 01?: 11.244138457775986
+WWW_DPR_path_and_value_Mistral-7B: When is the registration desk available on May 01?: 24.003943965014837
+WWW_DPR_path_and_value_LLama2-7B: When is the registration desk available on May 01?: 11.578893642844681
+WWW_DPR_path_and_value_desc_Mistral-7B: When is the registration desk available on May 01?: 24.326459129648214
+WWW_DPR_path_and_value_desc_LLama2-7B: When is the registration desk available on May 01?: 13.464114980181392
+WWW_ANCE_path_and_value_Mistral-7B: When is the registration desk available on May 01?: 26.425917246998733
+WWW_ANCE_path_and_value_LLama2-7B: When is the registration desk available on May 01?: 11.045728824891226
+WWW_ANCE_path_and_value_desc_Mistral-7B: When is the registration desk available on May 01?: 29.067095762579434
+WWW_ANCE_path_and_value_desc_LLama2-7B: When is the registration desk available on May 01?: 11.733703284128326
+WWW_SentenceBERT_path_and_value_Mistral-7B: When is the registration desk available on May 01?: 25.14974793510575
+WWW_SentenceBERT_path_and_value_LLama2-7B: When is the registration desk available on May 01?: 10.1370789673112
+WWW_SentenceBERT_path_and_value_desc_Mistral-7B: When is the registration desk available on May 01?: 26.58033346138011
+WWW_SentenceBERT_path_and_value_desc_LLama2-7B: When is the registration desk available on May 01?: 11.244138457775986
+WWW_DPR_path_and_value_Mistral-7B: When is the registration desk available on May 01?: 24.003943965014837
+WWW_DPR_path_and_value_LLama2-7B: When is the registration desk available on May 01?: 11.578893642844681
+WWW_DPR_path_and_value_desc_Mistral-7B: When is the registration desk available on May 01?: 24.326459129648214
+WWW_DPR_path_and_value_desc_LLama2-7B: When is the registration desk available on May 01?: 13.464114980181392
+WWW_ANCE_path_and_value_Mistral-7B: When is the registration desk available on May 01?: 26.425917246998733
+WWW_ANCE_path_and_value_LLama2-7B: When is the registration desk available on May 01?: 11.045728824891226
+WWW_ANCE_path_and_value_desc_Mistral-7B: When is the registration desk available on May 01?: 29.067095762579434
+WWW_ANCE_path_and_value_desc_LLama2-7B: When is the registration desk available on May 01?: 11.733703284128326
+
+
+
+
+
+
+
+
+
+WWW_SentenceBERT_path_and_value_Mistral-7B: When is the registration desk available on May 01?: 25.14974793510575
+WWW_SentenceBERT_path_and_value_LLama2-7B: When is the registration desk available on May 01?: 10.1370789673112
+WWW_SentenceBERT_path_and_value_desc_Mistral-7B: When is the registration desk available on May 01?: 26.58033346138011
+WWW_SentenceBERT_path_and_value_desc_LLama2-7B: When is the registration desk available on May 01?: 11.244138457775986
+WWW_DPR_path_and_value_Mistral-7B: When is the registration desk available on May 01?: 24.003943965014837
+WWW_DPR_path_and_value_LLama2-7B: When is the registration desk available on May 01?: 11.578893642844681
+WWW_DPR_path_and_value_desc_Mistral-7B: When is the registration desk available on May 01?: 24.326459129648214
+WWW_DPR_path_and_value_desc_LLama2-7B: When is the registration desk available on May 01?: 13.464114980181392
+WWW_ANCE_path_and_value_Mistral-7B: When is the registration desk available on May 01?: 26.425917246998733
+WWW_ANCE_path_and_value_LLama2-7B: When is the registration desk available on May 01?: 11.045728824891226
+WWW_ANCE_path_and_value_desc_Mistral-7B: When is the registration desk available on May 01?: 29.067095762579434
+WWW_ANCE_path_and_value_desc_LLama2-7B: When is the registration desk available on May 01?: 11.733703284128326
+
+
+
+
+
+
+
+WWW_SentenceBERT_path_and_value_Mistral-7B: When is the registration desk available on May 01?: 25.14974793510575
+WWW_SentenceBERT_path_and_value_LLama2-7B: When is the registration desk available on May 01?: 10.1370789673112
+WWW_SentenceBERT_path_and_value_desc_Mistral-7B: When is the registration desk available on May 01?: 26.58033346138011
+WWW_SentenceBERT_path_and_value_desc_LLama2-7B: When is the registration desk available on May 01?: 11.244138457775986
+WWW_DPR_path_and_value_Mistral-7B: When is the registration desk available on May 01?: 24.003943965014837
+WWW_DPR_path_and_value_LLama2-7B: When is the registration desk available on May 01?: 11.578893642844681
+WWW_DPR_path_and_value_desc_Mistral-7B: When is the registration desk available on May 01?: 24.326459129648214
+WWW_DPR_path_and_value_desc_LLama2-7B: When is the registration desk available on May 01?: 13.464114980181392
+WWW_ANCE_path_and_value_Mistral-7B: When is the registration desk available on May 01?: 26.425917246998733
+WWW_ANCE_path_and_value_LLama2-7B: When is the registration desk available on May 01?: 11.045728824891226
+WWW_ANCE_path_and_value_desc_Mistral-7B: When is the registration desk available on May 01?: 29.067095762579434
+WWW_ANCE_path_and_value_desc_LLama2-7B: When is the registration desk available on May 01?: 11.733703284128326
+
+
+WWW_SentenceBERT_path_and_value_Mistral-7B: 0.215
+WWW_SentenceBERT_path_and_value_LLama2-7B: 0.0866
+WWW_SentenceBERT_path_and_value_desc_Mistral-7B: 0.2272
+WWW_SentenceBERT_path_and_value_desc_LLama2-7B: 0.0961
+WWW_DPR_path_and_value_Mistral-7B: 0.2052
+WWW_DPR_path_and_value_LLama2-7B: 0.099
+WWW_DPR_path_and_value_desc_Mistral-7B: 0.2079
+WWW_DPR_path_and_value_desc_LLama2-7B: 0.1151
+WWW_ANCE_path_and_value_Mistral-7B: 0.2259
+WWW_ANCE_path_and_value_LLama2-7B: 0.0944
+WWW_ANCE_path_and_value_desc_Mistral-7B: 0.2484
+WWW_ANCE_path_and_value_desc_LLama2-7B: 0.1003
+
+
+
+
+
+
+
+
+
+
+
+
+
+WWW_text-embedding-002_path_and_value_Mistral-7B: 0.2153
+WWW_text-embedding-002_path_and_value_LLama2-7B: 0.1121
+WWW_text-embedding-002_path_and_value_desc_Mistral-7B: 0.2653
+WWW_text-embedding-002_path_and_value_desc_LLama2-7B: 0.1151
+WWW_text-embedding-002_path_and_value_LLama2-13B: 0.2318
+WWW_text-embedding-002_path_and_value_desc_LLama2-13B: 0.239
+WWW_text-embedding-002_path_and_value_Mistral-7B: {'extraction_atomic': 0.305, 'extraction_complex': 0.1787, 'reasoning_atomic': 0.2345, 'reasoning_complex': 0.1365}
+WWW_text-embedding-002_path_and_value_Mistral-7B: {'extraction_atomic': 0.305, 'extraction_complex': 0.1787, 'reasoning_atomic': 0.2345, 'reasoning_complex': 0.1365}
+WWW_text-embedding-002_path_and_value_Mistral-7B: {'extraction_atomic': 0.305, 'extraction_complex': 0.1787, 'reasoning_atomic': 0.2345, 'reasoning_complex': 0.1365}
+WWW_text-embedding-002_path_and_value_LLama2-7B: {'extraction_atomic': 0.1039, 'extraction_complex': 0.1375, 'reasoning_atomic': 0.1181, 'reasoning_complex': 0.0955}
+WWW_text-embedding-002_path_and_value_LLama2-13B: {'extraction_atomic': 0.3312, 'extraction_complex': 0.1683, 'reasoning_atomic': 0.2764, 'reasoning_complex': 0.1518}
+WWW_text-embedding-002_path_and_value_desc_Mistral-7B: {'extraction_atomic': 0.3693, 'extraction_complex': 0.2759, 'reasoning_atomic': 0.24, 'reasoning_complex': 0.1533}
+WWW_text-embedding-002_path_and_value_desc_LLama2-7B: {'extraction_atomic': 0.1352, 'extraction_complex': 0.114, 'reasoning_atomic': 0.1269, 'reasoning_complex': 0.087}
+WWW_text-embedding-002_path_and_value_desc_LLama2-13B: {'extraction_atomic': 0.3255, 'extraction_complex': 0.211, 'reasoning_atomic': 0.2827, 'reasoning_complex': 0.1429}
+
+
+
+
+WWW_text-embedding-002_path_and_value_gpt3.5: {'extraction_atomic': 0.2598, 'extraction_complex': 0.2104, 'reasoning_atomic': 0.2792, 'reasoning_complex': 0.1501}
+WWW_text-embedding-002_path_and_value_desc_gpt3.5: {'extraction_atomic': 0.3764, 'extraction_complex': 0.2715, 'reasoning_atomic': 0.2298, 'reasoning_complex': 0.1749}
+WWW_text-embedding-002_path_and_value_gpt3.5: {'extraction_atomic': 0.2598, 'extraction_complex': 0.2104, 'reasoning_atomic': 0.2792, 'reasoning_complex': 0.1501}
+WWW_text-embedding-002_path_and_value_desc_gpt3.5: {'extraction_atomic': 0.3764, 'extraction_complex': 0.2715, 'reasoning_atomic': 0.2298, 'reasoning_complex': 0.1749}
+WWW_text-embedding-002_path_and_value_gpt3.5_F1: {'extraction_atomic': 0.249, 'extraction_complex': 0.2044, 'reasoning_atomic': 0.2148, 'reasoning_complex': 0.1729}
+WWW_text-embedding-002_path_and_value_desc_gpt3.5_F1: {'extraction_atomic': 0.3851, 'extraction_complex': 0.3058, 'reasoning_atomic': 0.1674, 'reasoning_complex': 0.1826}
+WWW_text-embedding-002_path_and_value_gpt3.5_F1: {'extraction_atomic': 0.2576, 'extraction_complex': 0.2068, 'reasoning_atomic': 0.1388, 'reasoning_complex': 0.1823}
+WWW_text-embedding-002_path_and_value_LLama2-7B_F1: {'extraction_atomic': 0.1039, 'extraction_complex': 0.1375, 'reasoning_atomic': 0.1181, 'reasoning_complex': 0.0955}
+WWW_text-embedding-002_path_and_value_Mistral-7B_F1: {'extraction_atomic': 0.3041, 'extraction_complex': 0.2254, 'reasoning_atomic': 0.2298, 'reasoning_complex': 0.1811}
+WWW_text-embedding-002_path_and_value_desc_gpt3.5_F1: {'extraction_atomic': 0.3816, 'extraction_complex': 0.315, 'reasoning_atomic': 0.1821, 'reasoning_complex': 0.1851}
+WWW_text-embedding-002_path_and_value_desc_LLama2-7B_F1: {'extraction_atomic': 0.0988, 'extraction_complex': 0.1796, 'reasoning_atomic': 0.1024, 'reasoning_complex': 0.0793}
+WWW_text-embedding-002_path_and_value_desc_Mistral-7B_F1: {'extraction_atomic': 0.386, 'extraction_complex': 0.2935, 'reasoning_atomic': 0.2778, 'reasoning_complex': 0.1649}
+WWW_text-embedding-002_path_and_value_gpt3.5_F1: {'extraction_atomic': 0.2576, 'extraction_complex': 0.2068, 'reasoning_atomic': 0.1388, 'reasoning_complex': 0.1823}
+WWW_text-embedding-002_path_and_value_LLama2-7B_F1: {'extraction_atomic': 0.1039, 'extraction_complex': 0.1375, 'reasoning_atomic': 0.1181, 'reasoning_complex': 0.0955}
+WWW_text-embedding-002_path_and_value_Mistral-7B_F1: {'extraction_atomic': 0.3041, 'extraction_complex': 0.2254, 'reasoning_atomic': 0.2298, 'reasoning_complex': 0.1811}
+WWW_text-embedding-002_path_and_value_desc_gpt3.5_F1: {'extraction_atomic': 0.3816, 'extraction_complex': 0.315, 'reasoning_atomic': 0.1821, 'reasoning_complex': 0.1851}
+WWW_text-embedding-002_path_and_value_desc_LLama2-7B_F1: {'extraction_atomic': 0.0988, 'extraction_complex': 0.1796, 'reasoning_atomic': 0.1024, 'reasoning_complex': 0.0793}
+WWW_text-embedding-002_path_and_value_desc_Mistral-7B_F1: {'extraction_atomic': 0.386, 'extraction_complex': 0.2935, 'reasoning_atomic': 0.2778, 'reasoning_complex': 0.1649}
+WWW_text-embedding-002_path_and_value_LLama2-13B_F1: {'extraction_atomic': 0.33, 'extraction_complex': 0.2121, 'reasoning_atomic': 0.2517, 'reasoning_complex': 0.1735}
+WWW_text-embedding-002_path_and_value_desc_LLama2-13B_F1: {'extraction_atomic': 0.3752, 'extraction_complex': 0.2276, 'reasoning_atomic': 0.2793, 'reasoning_complex': 0.1852}
+WWW_SentenceBERT_path_and_value_gpt3.5_F1: {'extraction_atomic': 0.2965, 'extraction_complex': 0.1734, 'reasoning_atomic': 0.0377, 'reasoning_complex': 0.1643}
+WWW_SentenceBERT_path_and_value_desc_gpt3.5_F1: {'extraction_atomic': 0.2818, 'extraction_complex': 0.2309, 'reasoning_atomic': 0.1554, 'reasoning_complex': 0.1606}

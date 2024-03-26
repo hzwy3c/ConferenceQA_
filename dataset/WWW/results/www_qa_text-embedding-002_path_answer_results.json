@@ -1,0 +1,2098 @@
+[
+    {
+        "query": "What is the URL of SIGWEB's conferences page?",
+        "output": "I don't know."
+    },
+    {
+        "query": "What is the goal of Entity-Linked Topic Extraction (ELTE) in the context of Amazon Music podcasts?",
+        "output": "I don't know."
+    },
+    {
+        "query": "What is the full name of the conference referred to as WWW2023?",
+        "output": "The Web Conference 2023"
+    },
+    {
+        "query": "What is the proposed solution in 'Zero-shot Clarifying Question Generation for Conversational Search'?",
+        "output": "I don't know."
+    },
+    {
+        "query": "What is the url of the second paper titled 'Reinforcement Learning-based Counter-Misinformation Response Generation: A Case Study of COVID-19 Vaccine Misinformation'?",
+        "output": "I don't know."
+    },
+    {
+        "query": "Who is delivering the Keynote on Wednesday May 3?",
+        "output": "Zachary Elkins"
+    },
+    {
+        "query": "When and where will 'The Web Conference' be held?",
+        "output": "The text does not provide information on when and where 'The Web Conference' will be held."
+    },
+    {
+        "query": "How should a conflict of interest be addressed when nominating a paper?",
+        "output": "The text does not provide information on how a conflict of interest should be addressed when nominating a paper."
+    },
+    {
+        "query": "How did Netflix improve video quality using neural networks?",
+        "output": "The text does not provide information on how Netflix improved video quality using neural networks."
+    },
+    {
+        "query": "What is the topic of 'Differentiable Optimized Product Quantization and Beyond'?",
+        "output": "The context does not provide information on the topic of 'Differentiable Optimized Product Quantization and Beyond'."
+    },
+    {
+        "query": "What technologies does the 'Reflex-in' installation incorporate?",
+        "output": "The text does not provide information on what technologies the 'Reflex-in' installation incorporates."
+    },
+    {
+        "query": "What are the topics included under 'Machine learning and data science for the Web'?",
+        "output": "The text does not provide information on the topics included under 'Machine learning and data science for the Web'."
+    },
+    {
+        "query": "What is the location and date of The Web Conference (WWW2023)?",
+        "output": "The text does not provide specific information on the location and date of The Web Conference (WWW2023)."
+    },
+    {
+        "query": "What is the format for the PhD Symposium Paper Submissions at WWW2023?",
+        "output": "The text does not provide information on the format for the PhD Symposium Paper Submissions at WWW2023."
+    },
+    {
+        "query": "What are the important dates for submission to the Industry Track at WWW2023?",
+        "output": "The text does not provide information on the important dates for submission to the Industry Track at WWW2023."
+    },
+    {
+        "query": "Which approach does Asara Senaratne propose for anomaly detection in Knowledge Graphs?",
+        "output": "The text does not provide information on the approach Asara Senaratne proposes for anomaly detection in Knowledge Graphs."
+    },
+    {
+        "query": "What is the theme for the WWW2023 conference?",
+        "output": "The text does not provide specific information on the theme for the WWW2023 conference."
+    },
+    {
+        "query": "When and where will the 32nd edition of The Web Conference ('formerly known as WWW') take place?",
+        "output": "The text does not provide information on when and where the 32nd edition of The Web Conference will take place."
+    },
+    {
+        "query": "What is the title of the paper authored by Dhaval Taunk and his team?",
+        "output": "The text doesn't provide information on the title of the paper authored by Dhaval Taunk and his team."
+    },
+    {
+        "query": "Who is organizing The Web Conference 2023?",
+        "output": "The text does not provide information on who is organizing The Web Conference 2023."
+    },
+    {
+        "query": "What is the title of the first paper presented in the Web & Society session at the ACM Web Conference 2023?",
+        "output": "Cashing in on Contacts: Characterizing the OnlyFans Ecosystem"
+    },
+    {
+        "query": "Which paper looks into the issue of plagiarism in language models?",
+        "output": "The context does not provide information on which paper looks into the issue of plagiarism in language models."
+    },
+    {
+        "query": "Who authored the paper titled 'Towards Fair Allocation in Social Commerce Platforms'?",
+        "output": "The text does not provide information on who authored the paper titled 'Towards Fair Allocation in Social Commerce Platforms'."
+    },
+    {
+        "query": "What is the conference formerly known as that is currently being referred to as 'The Web Conference series'?",
+        "output": "The conference formerly known as the World Wide Web Conference (WWW) is currently being referred to as 'The Web Conference series'."
+    },
+    {
+        "query": "What is the focus of Robert Melancton Metcalfe's 'CONNECTIVITY' keynote speech?",
+        "output": "The context doesn't provide information on the focus of Robert Melancton Metcalfe's 'CONNECTIVITY' keynote speech."
+    },
+    {
+        "query": "What is the theme for the submissions to the Search Track of The Web Conference (WWW2023)?",
+        "output": "The text does not provide information on the theme for the submissions to the Search Track of The Web Conference (WWW2023)."
+    },
+    {
+        "query": "What issues does Payal Arora bring forward in her keynote speech titled 'Decolonizing Creative Labor in the age of AI'?",
+        "output": "The text does not provide information on Payal Arora's keynote speech titled 'Decolonizing Creative Labor in the age of AI'."
+    },
+    {
+        "query": "What is the title of the keynote speech delivered by Zachary Elkins at the ACM Web Conference 2023?",
+        "output": "The text does not provide information on the title of the keynote speech delivered by Zachary Elkins at the ACM Web Conference 2023."
+    },
+    {
+        "query": "What is the title of the proceedings for WWW2023?",
+        "output": "The title of the proceedings for WWW2023 is \"Proceedings of the ACM Web Conference 2023\"."
+    },
+    {
+        "query": "Which paper talks about the conversion of Legal Agreements into Smart Legal Contracts using NLP?",
+        "output": "The context provided does not share information about which paper discusses the conversion of Legal Agreements into Smart Legal Contracts using NLP."
+    },
+    {
+        "query": "Who are the track chairs for the PhD Symposium at WWW2023?",
+        "output": "The text does not provide information on who the track chairs for the PhD Symposium at WWW2023 are."
+    },
+    {
+        "query": "Where will The Web Conference series, WWW2023 edition be held?",
+        "output": "The text does not provide information on where the WWW2023 edition of The Web Conference series will be held."
+    },
+    {
+        "query": "Who are some of the committee members for the Industry Track at WWW2023?",
+        "output": "The context does not provide information on the committee members for the Industry Track at WWW2023."
+    },
+    {
+        "query": "When and where will The ACM Web Conference 2023 take place?",
+        "output": "The context does not provide information on when The ACM Web Conference 2023 will take place. However, it will be located in Austin, Texas."
+    },
+    {
+        "query": "What is the URL to access the paper 'Workshops at the Web Conference 2023'?",
+        "output": "https://dl.acm.org/doi/10.1145/3543873.3589758"
+    },
+    {
+        "query": "Who are the authors of the paper discussing Sedition Hunters?",
+        "output": "The text does not provide information on the authors of the paper discussing Sedition Hunters."
+    },
+    {
+        "query": "What is the name of the award being presented at The ACM Web Conference 2023?",
+        "output": "The name of the award being presented at The ACM Web Conference 2023 is the Seoul Test of Time Award."
+    },
+    {
+        "query": "Who are the authors of the study 'A Practical Rule Learning Framework for Risk Management'?",
+        "output": "The context does not provide information on the authors of the study 'A Practical Rule Learning Framework for Risk Management'."
+    },
+    {
+        "query": "What is the maximum page limit for the PhD Symposium Paper Submissions at WWW2023?",
+        "output": "The text does not provide information on the maximum page limit for the PhD Symposium Paper Submissions at WWW2023."
+    },
+    {
+        "query": "How many workshops were introduced in the paper 'Workshops at the Web Conference 2023'?",
+        "output": "20 workshops"
+    },
+    {
+        "query": "Who is eligible to be nominated for the Seoul Test of Time award in 2023?",
+        "output": "The text does not provide information on who is eligible to be nominated for the Seoul Test of Time award in 2023."
+    },
+    {
+        "query": "What issue does the paper 'Learning Denoised and Interpretable Session Representation for Conversational Search' address?",
+        "output": "The text does not provide information on the specific issue addressed by the paper 'Learning Denoised and Interpretable Session Representation for Conversational Search'."
+    },
+    {
+        "query": "Who are the track chairs overseeing the 'Web Mining and Content Analysis Track' for The Web Conference in 2023?",
+        "output": "The text doesn't provide information on who the track chairs overseeing the 'Web Mining and Content Analysis Track' for The Web Conference in 2023 are."
+    },
+    {
+        "query": "Who proposed a new algorithm that incorporates the ontology of knowledge graphs for large-scale training?",
+        "output": "The text doesn't provide information on who proposed a new algorithm that incorporates the ontology of knowledge graphs for large-scale training."
+    },
+    {
+        "query": "In the BERT4ETH: A Pre-trained Transformer for Ethereum Fraud Detection study, what were some of the serious vulnerabilities found?",
+        "output": "The text does not provide information on the vulnerabilities found in the BERT4ETH: A Pre-trained Transformer for Ethereum Fraud Detection study."
+    },
+    {
+        "query": "Who are the track chairs for the 'Web and Society Track' at the WWW2023 conference?",
+        "output": "The text does not provide information on who the track chairs for the 'Web and Society Track' at the WWW2023 conference are."
+    },
+    {
+        "query": "Which study presents a new method for contrastive fine-tuning on few shot intent detection within a topological intent tree?",
+        "output": "The text provided does not supply information on any specific study presenting a new method for contrastive fine-tuning on few shot intent detection within a topological intent tree."
+    },
+    {
+        "query": "What is the title of a paper authored by Dongqi Fu and others that discuss fairness in social commerce platforms?",
+        "output": "The text does not provide information on a paper authored by Dongqi Fu discussing fairness in social commerce platforms."
+    },
+    {
+        "query": "Are the companion proceedings of The ACM Web Conference 2023 available on the SIGWEB website?",
+        "output": "The text does not provide information on whether the companion proceedings of The ACM Web Conference 2023 are available on the SIGWEB website."
+    },
+    {
+        "query": "Where can we find the paper 'Reflex-in: Generate Music on the Web with Real-time Brain Wave' online?",
+        "output": "The context does not provide information on where to find the paper 'Reflex-in: Generate Music on the Web with Real-time Brain Wave' online."
+    },
+    {
+        "query": "What is the problem that Gian Marco Bovenzi's research on criminal accountability for conducts in the Metaverse attempts to explore?",
+        "output": "The text does not provide information on Gian Marco Bovenzi's research on criminal accountability for conducts in the Metaverse."
+    },
+    {
+        "query": "What is the main focus of the paper 'Automated Ontology Evaluation: Evaluating Coverage and Correctness using a Domain Corpus'?",
+        "output": "The text does not provide information on the main focus of the paper 'Automated Ontology Evaluation: Evaluating Coverage and Correctness using a Domain Corpus'."
+    },
+    {
+        "query": "Which study presents an end-to-end optimization solution for Facebook Marketplace Search engine?",
+        "output": "I don't know."
+    },
+    {
+        "query": "What is the main focus of the study titled 'Learning Geolocation by Accurately Matching Customer Addresses via Graph based Active Learning'?",
+        "output": "The provided context does not contain information on the study titled 'Learning Geolocation by Accurately Matching Customer Addresses via Graph based Active Learning'."
+    },
+    {
+        "query": "Where can the full proceedings of The ACM Web Conference 2023 be accessed?",
+        "output": "The full proceedings of The ACM Web Conference 2023 can be accessed at https://dl.acm.org/doi/10.1145/3543507.3593050"
+    },
+    {
+        "query": "What is the purpose of Industry Track at The Web Conference 2023 (WWW2023)?",
+        "output": "The text doesn't provide information on the specific purpose of the Industry Track at The Web Conference 2023 (WWW2023)."
+    },
+    {
+        "query": "What is the rejection policy for submissions to the Search Track of The Web Conference (WWW2023)?",
+        "output": "The context does not provide information on the rejection policy for submissions to the Search Track of The Web Conference (WWW2023)."
+    },
+    {
+        "query": "What is the purpose of the Tutorials track at the WWW2023 conference?",
+        "output": "The purpose of the Tutorials track at the WWW2023 conference is to provide and summarize the content of the 28 tutorials that have been given at the conference."
+    },
+    {
+        "query": "What is the rejection policy for the 'Economics, Monetization, and Online Markets Track' at the WWW2023 conference?",
+        "output": "The text does not provide information on the rejection policy for the 'Economics, Monetization, and Online Markets Track' at the WWW2023 conference."
+    },
+    {
+        "query": "What was the name of the workshop held during the ACM Web Conference 2023?",
+        "output": "1st Workshop on Federated Learning Technologies"
+    },
+    {
+        "query": "What is the title of the paper authored by Ramesh Gorantla and Srividya Bansal?",
+        "output": "The information provided does not include details about a paper authored by Ramesh Gorantla and Srividya Bansal."
+    },
+    {
+        "query": "At what date and time is the Closing Ceremony of TheWebConf for WWW2023?",
+        "output": "The text does not provide information on the date and time of the Closing Ceremony of TheWebConf for WWW2023."
+    },
+    {
+        "query": "Who are the authors of the paper 'Reflex-in: Generate Music on the Web with Real-time Brain Wave'?",
+        "output": "The context doesn't provide information on the authors of the paper 'Reflex-in: Generate Music on the Web with Real-time Brain Wave'."
+    },
+    {
+        "query": "What is the main aim of the paper titled 'The Thin Ideology of Populist Advertising on Facebook during the 2019 EU Elections'?",
+        "output": "The text does not provide information on the main aim of the paper titled 'The Thin Ideology of Populist Advertising on Facebook during the 2019 EU Elections'."
+    },
+    {
+        "query": "Who are the authors of the paper 'NLP4KGC: Natural Language Processing for Knowledge Graph Construction'?",
+        "output": "The text doesn't provide information on the authors of the paper 'NLP4KGC: Natural Language Processing for Knowledge Graph Construction'."
+    },
+    {
+        "query": "What neural network technique was used in Victoria Firsanova's research for building a mobile app for people on the spectrum?",
+        "output": "The text doesn't provide information on what neural network technique Victoria Firsanova used in her research for building a mobile app for people on the spectrum."
+    },
+    {
+        "query": "What is the URL of the paper 'Atrapos: Real-time Evaluation of Metapath Query Workloads'?",
+        "output": "The information provided does not include the URL of the paper 'Atrapos: Real-time Evaluation of Metapath Query Workloads'."
+    },
+    {
+        "query": "Who are the chairs for the track 'Posters and Demos Proposals' for WWW2023?",
+        "output": "The text does not provide information on who the chairs for the track 'Posters and Demos Proposals' for WWW2023 are."
+    },
+    {
+        "query": "What are the names and affiliations of the chairs of the Security, Privacy & Trust Track at WWW2023?",
+        "output": "The text does not provide information on the names and affiliations of the chairs of the Security, Privacy & Trust Track at WWW2023."
+    },
+    {
+        "query": "What is the 'Reflex-in: Generate Music on the Web with Real-time Brain Wave' installation about?",
+        "output": "The text provided does not give information on what the 'Reflex-in: Generate Music on the Web with Real-time Brain Wave' installation is about."
+    },
+    {
+        "query": "What is the research question RQ2 in Thomas Steiner's paper 'The Capable Web'?",
+        "output": "I don't know."
+    },
+    {
+        "query": "Who is the first speaker for the Health Day at the Web Conference 2023, and what institution are they affiliated with?",
+        "output": "The first speaker for the Health Day at the Web Conference 2023 is affiliated with Weill Cornell Medicine."
+    },
+    {
+        "query": "What is the title of the paper authored by Senuri Wijenayake, Danula Hettiachchi, and Jorge Goncalves?",
+        "output": "The text does not provide information on the title of the paper authored by Senuri Wijenayake, Danula Hettiachchi, and Jorge Goncalves."
+    },
+    {
+        "query": "What is the unique feature of the web-based application presented in the paper titled 'Towards a Sustainability Index Calculator for Smart Cities'?",
+        "output": "The text does not provide information on the unique feature of the web-based application presented in the paper titled 'Towards a Sustainability Index Calculator for Smart Cities'."
+    },
+    {
+        "query": "When and where will the 32nd edition of The Web Conference series be hosted?",
+        "output": "The text does not provide information on when and where the 32nd edition of The Web Conference series will be hosted."
+    },
+    {
+        "query": "What is the title of the paper presented at the ACM Web Conference 2023's Alternate Track: Workshops session?",
+        "output": "The title of the paper presented at the ACM Web Conference 2023's Alternate Track: Workshops session is \"Workshops at the Web Conference 2023\"."
+    },
+    {
+        "query": "What is the main conclusion of the paper titled 'Reinforcement Learning-based Counter-Misinformation Response Generation: A Case Study of COVID-19 Vaccine Misinformation'?",
+        "output": "The text does not provide information on the main conclusion of the paper titled 'Reinforcement Learning-based Counter-Misinformation Response Generation: A Case Study of COVID-19 Vaccine Misinformation'."
+    },
+    {
+        "query": "What is the submission format for Industry Track at WWW2023?",
+        "output": "The provided context does not provide information on the submission format for the Industry Track at WWW2023."
+    },
+    {
+        "query": "What are the roles of Liane Lewin-Eytan, Suzan Verberne, and Michael Bendersky in The Web Conference (WWW2023) Search Track?",
+        "output": "The text doesn't provide information on the roles of Liane Lewin-Eytan, Suzan Verberne, and Michael Bendersky in The Web Conference (WWW2023) Search Track."
+    },
+    {
+        "query": "Who are the authors of the paper titled 'Optimizing Feature Set for Click-Through Rate Prediction'?",
+        "output": "The text doesn't provide information on the authors of a paper titled 'Optimizing Feature Set for Click-Through Rate Prediction'."
+    },
+    {
+        "query": "What is the consequence for out of scope submissions to the Social Network Analysis and Graph Algorithms track at WWW2023?",
+        "output": "Out of scope submissions to the Social Network Analysis and Graph Algorithms track at WWW2023 will be rejected early during the reviewing process with minimal feedback."
+    },
+    {
+        "query": "What is the main focus of the paper 'Bad Apples: Understanding the Centralized Security Risks in Decentralized Ecosystems'?",
+        "output": "The text does not provide information on the main focus of the paper 'Bad Apples: Understanding the Centralized Security Risks in Decentralized Ecosystems'."
+    },
+    {
+        "query": "What is the process to follow if there are doubts whether a paper fits the scope of the Security, Privacy & Trust Track?",
+        "output": "The text does not provide information on what is the process to follow if there are doubts whether a paper fits the scope of the Security, Privacy & Trust Track."
+    },
+    {
+        "query": "Is there a charge to access the papers from The ACM Web Conference 2023?",
+        "output": "The text doesn't provide information on whether there is a charge to access the papers from The ACM Web Conference 2023."
+    },
+    {
+        "query": "What is the main focus of the paper titled 'Scoping Fairness Objectives and Identifying Fairness Metrics for Recommender Systems: The Practitioners’ Perspective'?",
+        "output": "The text does not provide information on the main focus of the paper titled 'Scoping Fairness Objectives and Identifying Fairness Metrics for Recommender Systems: The Practitioners’ Perspective'."
+    },
+    {
+        "query": "What solution does 'Meteor' provide as per the research paper 'Ginver: Generative Model Inversion Attacks Against Collaborative Inference'?",
+        "output": "The text does not provide information on what solution 'Meteor' provides as per the research paper 'Ginver: Generative Model Inversion Attacks Against Collaborative Inference'."
+    },
+    {
+        "query": "How is the participation requirement fulfilled for the 'Web Developer and W3C' track at the Web Conference 2023?",
+        "output": "The participation requirement for the 'Web Developer and W3C' track at the Web Conference 2023 is fulfilled by the registration of at least one author for the conference."
+    },
+    {
+        "query": "Who are the track chairs for the Semantics and Knowledge Track at the 32nd edition of The Web Conference series?",
+        "output": "The track chairs for the Semantics and Knowledge Track at the 32nd edition of The Web Conference series are Eva Blomqvist, Miriam Fernandez, and Chris Welty."
+    },
+    {
+        "query": "What are the submission guidelines for the Semantics and Knowledge Track at the 32nd edition of The Web Conference series?",
+        "output": "The text does not provide information on the submission guidelines for the Semantics and Knowledge Track at the 32nd edition of The Web Conference series."
+    },
+    {
+        "query": "What does the paper titled 'A Dataset on Malicious Paper Bidding in Peer Review' focus on?",
+        "output": "The context does not provide information on what the paper titled 'A Dataset on Malicious Paper Bidding in Peer Review' focuses on."
+    },
+    {
+        "query": "For how many years has the FinWeb workshop series been organized?",
+        "output": "The text doesn't provide information on how many years the FinWeb workshop series has been organized."
+    },
+    {
+        "query": "What is the abstract of the paper 'Workshops at the Web Conference 2023'?",
+        "output": "This paper introduces the 20 workshops that were organized at The Web Conference 2023."
+    },
+    {
+        "query": "What are the main topics of interest of the Semantics and Knowledge Track at the 32nd edition of The Web Conference series?",
+        "output": "The text does not provide information on the main topics of interest of the Semantics and Knowledge Track at the 32nd edition of The Web Conference series."
+    },
+    {
+        "query": "How can a specific paper from The ACM Web Conference 2023 be accessed?",
+        "output": "A specific paper from The ACM Web Conference 2023 can be accessed via the ACM Digital Library."
+    },
+    {
+        "query": "Who are the track chairs for the 'Social Network Analysis and Graph Algorithms Track' at the 32nd edition of The Web Conference series?",
+        "output": "The track chairs for the 'Social Network Analysis and Graph Algorithms Track' at the 32nd edition of The Web Conference series are Alessandra Sala, Emilio Ferrara, and Yuxiao Dong."
+    },
+    {
+        "query": "What is the submission deadline for the PhD Symposium at WWW2023?",
+        "output": "The submission deadline for the PhD Symposium at WWW2023 is February 3, 2023."
+    },
+    {
+        "query": "What is the title of the paper authored by Mengjie Wu and others in the FinWeb workshop?",
+        "output": "The text does not provide information on a paper authored by Mengjie Wu in the FinWeb workshop."
+    },
+    {
+        "query": "Who are the track chairs for the Call for Tutorials Proposals at WWW2023?",
+        "output": "The track chairs for the Call for Tutorials Proposals at WWW2023 are Valeria Fionda and Olaf Hartig."
+    },
+    {
+        "query": "Who are the chairs for the 'History of the Web' Track of the WWW2023 Conference?",
+        "output": "The chairs for the 'History of the Web' Track of the WWW2023 Conference are Mark Schueler and Bebo White."
+    },
+    {
+        "query": "What is the research focus of Bryan Rickens and Navid Hashemi Tonekaboni's paper?",
+        "output": "The text does not provide information on the research focus of Bryan Rickens and Navid Hashemi Tonekaboni's paper."
+    },
+    {
+        "query": "What is the title of the paper written by Emyn Dean for the ACM Web Conference 2023?",
+        "output": "The text does not provide information on a paper written by Emyn Dean for the ACM Web Conference 2023."
+    },
+    {
+        "query": "What are the projected benefits of using digital twin technology in radiation oncology?",
+        "output": "The projected benefits of using digital twin technology in radiation oncology include patient-specific clinical decision-making support and the potential for large-scale virtual clinical trials. The technology can provide unique insights by predicting each patient's outcome trajectory."
+    },
+    {
+        "query": "What could be the possible duration of the 'Hands-on tutorial (H)' at the WWW2023 conference?",
+        "output": "The text doesn't provide information on the possible duration of the 'Hands-on tutorial (H)' at the WWW2023 conference."
+    },
+    {
+        "query": "What recent developments are making it possible to use digital twins in radiation oncology?",
+        "output": "Recent developments that are making it possible to use digital twins in radiation oncology include multiscale modeling techniques that estimate patient-specific cellular, molecular, and histological distributions, and modern cryptographic techniques that enable secure and efficient centralization of patient data across multiple institutions."
+    },
+    {
+        "query": "Who are the track chairs for the 'Economics, Monetization, and Online Markets Track' at the WWW2023 conference?",
+        "output": "The track chairs for the 'Economics, Monetization, and Online Markets Track' at the WWW2023 conference are Azaraksh Malekian, Moshe Babaioff, and Stefano Leonardi."
+    },
+    {
+        "query": "What is the main objective of the paper 'Aspect-based Summarization of Legal Case Files using Sentence Classification'?",
+        "output": "The context does not provide information on the main objective of the paper 'Aspect-based Summarization of Legal Case Files using Sentence Classification'."
+    },
+    {
+        "query": "What is the focus of the 'Systems and Infrastructure for Web, Mobile Web, and Web of Things Track' at 'The Web Conference'?",
+        "output": "The focus of the 'Systems and Infrastructure for Web, Mobile Web, and Web of Things Track' at 'The Web Conference' is on innovative experimental research and insightful experiences with real-world impacts."
+    },
+    {
+        "query": "How many authors contributed to the paper titled 'Hierarchical Self-Attention Embedding for Temporal Knowledge Graph Completion' and who are they?",
+        "output": "The provided context doesn't contain information about the authors who contributed to the paper titled 'Hierarchical Self-Attention Embedding for Temporal Knowledge Graph Completion'."
+    },
+    {
+        "query": "What is the title of the first presented paper in the Security, Privacy & Trust session of the ACM Web Conference 2023?",
+        "output": "Measuring and Evading Turkmenistan’s Internet Censorship: A Case Study in Large-Scale Measurements of a Low-Penetration Country"
+    },
+    {
+        "query": "Who are the authors of the paper 'Workshops at the Web Conference 2023'?",
+        "output": "The text does not provide information on the authors of the paper 'Workshops at the Web Conference 2023'."
+    },
+    {
+        "query": "What is the title of the work presented by Huanyu Li and team?",
+        "output": "The text doesn't provide information on a work presented by Huanyu Li and team."
+    },
+    {
+        "query": "What is the main improvement the authors hope to achieve with their Semantic-Oriented Hierarchical Graph in the financial domain?",
+        "output": "The text does not provide information on what the main improvement the authors hope to achieve with their Semantic-Oriented Hierarchical Graph in the financial domain."
+    },
+    {
+        "query": "What is the contact information for the Search Track of The Web Conference (WWW2023)?",
+        "output": "search-thewebconf2023@easychair.org"
+    },
+    {
+        "query": "What are the benefits of the intent-aware propensity estimation technique for training ranking models?",
+        "output": "The text does not provide information on the benefits of the intent-aware propensity estimation technique for training ranking models."
+    },
+    {
+        "query": "What is the main finding of the paper 'Hidden Indicators of Collective Intelligence in Crowdfunding'?",
+        "output": "The text does not provide information on the main finding of the paper 'Hidden Indicators of Collective Intelligence in Crowdfunding'."
+    },
+    {
+        "query": "What is the video source of ACM Turing Award Lecture by Bob Metcalfe?",
+        "output": "The text does not provide information on the video source of the ACM Turing Award Lecture by Bob Metcalfe."
+    },
+    {
+        "query": "Who is the speaker for the ACM A.M. Turing Award Lecture at The Web Conference 2023?",
+        "output": "The speaker for the ACM A.M. Turing Award Lecture at The Web Conference 2023 is Bob Metcalfe."
+    },
+    {
+        "query": "What is the name of the Knowledge Graph being built to store relevant data about Environmental Assessment reporting and practice in Denmark?",
+        "output": "The name of the Knowledge Graph being built to store relevant data about Environmental Assessment reporting and practice in Denmark is DreamsKG."
+    },
+    {
+        "query": "What are the affiliations of the co-chairs for Entrepreneurship Day at the Web Conference 2023?",
+        "output": "The affiliations of the co-chairs for Entrepreneurship Day at the Web Conference 2023 are WPEngine, General Partner at Capital Factory, and Chainhub and UT Professor."
+    },
+    {
+        "query": "What is the primary topic for the Health Day at the Web Conference 2023, and why is it important?",
+        "output": "The text doesn't provide information on the primary topic for the Health Day at the Web Conference 2023, or why it's important."
+    },
+    {
+        "query": "What are the different forms submissions can take in the 'Web Developer and W3C' track at the Web Conference 2023?",
+        "output": "Submissions can take the form of papers, which are limited to 6 pages including references, a presentation abstract limited to 1 page, links to code repositories on GitHub with sufficient description and documentation, links to recorded demos, and any other resource reachable on the web."
+    },
+    {
+        "query": "What is the FollowerSimilarity as defined in the paper 'Followers Tell Who an Influencer Is'?",
+        "output": "I don't know."
+    },
+    {
+        "query": "Who are the authors of the paper titled 'Reinforcement Learning-based Counter-Misinformation Response Generation: A Case Study of COVID-19 Vaccine Misinformation'?",
+        "output": "The information provided does not include details about a paper titled 'Reinforcement Learning-based Counter-Misinformation Response Generation: A Case Study of COVID-19 Vaccine Misinformation'."
+    },
+    {
+        "query": "What is the url for the paper 'Link Prediction on Latent Heterogeneous Graphs'?",
+        "output": "I don't know."
+    },
+    {
+        "query": "What time is the Keynote by Michalis Vazirgiannis on Thursday May 4?",
+        "output": "The text does not provide information on what time the Keynote by Michalis Vazirgiannis is on Thursday May 4."
+    },
+    {
+        "query": "What is the challenge faced by customer searches for movie and series titles in non-English speaking countries?",
+        "output": "The text does not provide information on the challenges faced by customer searches for movie and series titles in non-English speaking countries."
+    },
+    {
+        "query": "How does MEMER improve content recommendation?",
+        "output": "The text does not provide information on how MEMER improves content recommendation."
+    },
+    {
+        "query": "What is the objective of the work 'A Survey of General Ontologies for the Cross-Industry Domain of Circular Economy'?",
+        "output": "The text does not provide information on the objective of the work 'A Survey of General Ontologies for the Cross-Industry Domain of Circular Economy'."
+    },
+    {
+        "query": "What is the principle focus of the paper named 'Improving Content Retrievability in Search with Controllable Query Generation'?",
+        "output": "The text does not provide information on the principle focus of the paper named 'Improving Content Retrievability in Search with Controllable Query Generation'."
+    },
+    {
+        "query": "Who are the authors of 'The First International Workshop on Knowledge Graphs for Sustainability – KG4S Foreword'?",
+        "output": "The text does not provide information on the authors of 'The First International Workshop on Knowledge Graphs for Sustainability – KG4S Foreword'."
+    },
+    {
+        "query": "Who are the authors of 'Toward Degree Bias in Embedding-Based Knowledge Graph Completion' and what is the url for the paper?",
+        "output": "I don't know."
+    },
+    {
+        "query": "Why was it historically not feasible to use digital twin technology to model cancer patients?",
+        "output": "The text does not provide information on why it was historically not feasible to use digital twin technology to model cancer patients."
+    },
+    {
+        "query": "What is the proposed tool by Yang Peng in 'Query-Driven Knowledge Graph Construction using Question Answering and Multimodal Fusion'?",
+        "output": "The text does not provide information on the proposed tool by Yang Peng in 'Query-Driven Knowledge Graph Construction using Question Answering and Multimodal Fusion'."
+    },
+    {
+        "query": "What is the emphasis of the User Modeling and Personalization Track of WWW2023?",
+        "output": "The document does not provide information on the overall emphasis of the User Modeling and Personalization Track of WWW2023."
+    },
+    {
+        "query": "What is the abstract of the paper 'HybridEval: A Human-AI Collaborative Approach for Evaluating Design Ideas at Scale'?",
+        "output": "The text does not provide information on the abstract of the paper 'HybridEval: A Human-AI Collaborative Approach for Evaluating Design Ideas at Scale'."
+    },
+    {
+        "query": "What is the main issue with existing visualization recommendation systems that the project 'SpotLight: Visual Insight Recommendation' addresses?",
+        "output": "The text doesn't provide information on the main issue with existing visualization recommendation systems that the project 'SpotLight: Visual Insight Recommendation' addresses."
+    },
+    {
+        "query": "What is the goal of personalized search in E-Comm Groceries?",
+        "output": "The text does not provide information on the goal of personalized search in E-Comm Groceries."
+    },
+    {
+        "query": "What are some out of scope examples for the 'Systems and Infrastructure for Web, Mobile Web, and Web of Things Track' at 'The Web Conference'?",
+        "output": "Some out of scope examples for the 'Systems and Infrastructure for Web, Mobile Web, and Web of Things Track' at 'The Web Conference' are a paper on performance improvement of a general operating system without explicit discussion and evaluation of its effect on web servers, and papers that do not relate to the web or web-based infrastructures, technologies, or platforms."
+    },
+    {
+        "query": "What are some of the relevant topics for the submitted posters under the 'Posters and Demos Proposals' track?",
+        "output": "Some of the relevant topics for the submitted posters under the 'Posters and Demos Proposals' track are Crowdsourcing and Human Computation, User Modeling and Personalization, Semantics and Knowledge, Web and Society, Security, Privacy, and Trust, and Social Network Analysis and Graph Algorithms."
+    },
+    {
+        "query": "Who are the authors of this research document?",
+        "output": "The text does not specify which research document's authors are being asked for. More information is needed."
+    },
+    {
+        "query": "What is the aim of the '2nd Workshop on Personalization and Recommendations in Search'?",
+        "output": "The aim of the '2nd Workshop on Personalization and Recommendations in Search' is to bring together researchers and practitioners from industry and academia to engage in discussions of algorithmic and system challenges in search personalization and effectively recommending within search context."
+    },
+    {
+        "query": "What W3C Web APIs does WAM Studio utilize in its implementation?",
+        "output": "The text does not provide information on what W3C Web APIs WAM Studio utilizes in its implementation."
+    },
+    {
+        "query": "What is the central theme of the Web conference commencing in 2023?",
+        "output": "The central theme of the Web conference commencing in 2023 is not explicitly stated in the provided context. However, it includes discussions on evolution of the Web, standardization of its associated technologies, and their impact on society and culture. It also features satellite events like Web Sci2023 focusing on \"Inequalities in the Face of Concurrent Crises\"."
+    },
+    {
+        "query": "What is the title of the paper authored by Hao Huang, Keqi Han, Beicheng Xu, and Ting Gan?",
+        "output": "I don't know."
+    },
+    {
+        "query": "What is the submission deadline for the 'Posters and Demos Proposals' track for WWW2023?",
+        "output": "The submission deadline for the 'Posters and Demos Proposals' track for WWW2023 is February 3, 2023."
+    },
+    {
+        "query": "What is the goal of developing WAM Studio, as stated in the abstract of the paper 'WAM-studio, a Digital Audio Workstation (DAW) for the Web'?",
+        "output": "The goal of developing WAM Studio, as stated in the abstract, was to serve as an open-source technology demonstrator with the aim of showcasing the potential of the web platform, made possible by several W3C Web APIs."
+    },
+    {
+        "query": "Who are the co-chairs for the Knowledge Graph Day at the Web Conference 2023?",
+        "output": "The co-chairs for the Knowledge Graph Day at the Web Conference 2023 are Sergio Baranzini, Bogdan Arsintescu, Ying Ding, and other two chairs, which the details are not completed in the context but they have the names in the images file as Abhik Seal and Atlas Wang."
+    },
+    {
+        "query": "Who proposed a new algorithm for multilingual text clustering in the context of a large multilingual public consultation?",
+        "output": "The text doesn't provide information on who proposed a new algorithm for multilingual text clustering in the context of a large multilingual public consultation."
+    },
+    {
+        "query": "What approach does the project 'Measuring Potential Performance Gains of Python Web Applications with pyUpgradeSim' use to measure the performance of OSS projects?",
+        "output": "The text does not provide information on the approach used by the project 'Measuring Potential Performance Gains of Python Web Applications with pyUpgradeSim' to measure the performance of OSS projects."
+    },
+    {
+        "query": "What are the reasons for a desk reject of a submission for the Semantics and Knowledge Track at the 32nd edition of The Web Conference series?",
+        "output": "The reasons for a desk reject of a submission for the Semantics and Knowledge Track at the 32nd edition of The Web Conference series include: machine learning papers that simply use existing web data being out of scope, all data sets must be on the web and accessible to the community, and all empirical papers must discuss reproducibility."
+    },
+    {
+        "query": "What is the main issue addressed in the paper 'Fairly Adaptive Negative Sampling for Recommendations'?",
+        "output": "The text does not provide information on the main issue addressed in the paper 'Fairly Adaptive Negative Sampling for Recommendations'."
+    },
+    {
+        "query": "What are the 3 extraordinary examples of apps built for the Web, according to the author of 'The Capable Web'?",
+        "output": "The text does not provide information on the 3 extraordinary examples of apps built for the Web, according to the author of 'The Capable Web'."
+    },
+    {
+        "query": "What problem does the paper 'Interpreting wealth distribution via poverty map inference using multimodal data' aim to address?",
+        "output": "The text does not provide information on what problem the paper 'Interpreting wealth distribution via poverty map inference using multimodal data' aims to address."
+    },
+    {
+        "query": "What are some of the topics to be discussed in the 'Economics, Monetization, and Online Markets Track' at the WWW2023 conference?",
+        "output": "Some of the topics to be discussed in the 'Economics, Monetization, and Online Markets Track' at the WWW2023 conference include peer prediction with the aim of incentivizing truthful reports from agents in a multi-task setting, and the design of truthful Information Retrieval (IR) mechanisms, including necessary and sufficient conditions for an IR system to be truthful."
+    },
+    {
+        "query": "What is the title of the paper authored by Aisling Third and John Domingue?",
+        "output": "The context does not provide information on a paper authored by Aisling Third and John Domingue."
+    },
+    {
+        "query": "Who are the authors of the paper titled 'BeyondFacts’23: 3rd International Workshop on Knowledge Graphs for Online Discourse Analysis'?",
+        "output": "The text does not provide information on the authors of the paper titled 'BeyondFacts’23: 3rd International Workshop on Knowledge Graphs for Online Discourse Analysis'."
+    },
+    {
+        "query": "What are the key topics or examples for presentations being proposed for the 'Web Developer and W3C' track at the Web Conference 2023?",
+        "output": "The key topics for presentations being proposed for the 'Web Developer and W3C' track at the Web Conference 2023 include the development and demonstration of WAM-studio, a Digital Audio Workstation (DAW) for the web that uses several W3C Web APIs, with a description of the challenges faced during its creation, and \"The Capable Web\"."
+    },
+    {
+        "query": "What was the key focus of the research paper 'On Cohesively Polarized Communities in Signed Networks'?",
+        "output": "The text does not provide information on the key focus of the research paper 'On Cohesively Polarized Communities in Signed Networks'."
+    },
+    {
+        "query": "Who are the authors of the paper titled 'WAM-studio, a Digital Audio Workstation (DAW) for the Web'?",
+        "output": "The text does not provide information on the authors of the paper titled 'WAM-studio, a Digital Audio Workstation (DAW) for the Web'."
+    },
+    {
+        "query": "Who are the chairs for the Industry Track at WWW2023?",
+        "output": "The text does not provide information on who the chairs for the Industry Track at WWW2023 are."
+    },
+    {
+        "query": "What are the important dates for the 'The Creative Web' Track submissions at the WWW2023 Conference?",
+        "output": "The important dates for the 'The Creative Web' Track submissions at the WWW2023 Conference are Full Paper Submission on 6 February 2023, Acceptance Notification on 6 March 2023, and Camera-ready Version on 20 March 2023. The submission should be made in Anywhere on Earth (AoE) time zone."
+    },
+    {
+        "query": "How do the authors aim to facilitate the work of AFC officers within the financial industry in their paper 'Exploiting graph metrics to detect anomalies in cross-country money transfer temporal networks'?",
+        "output": "The text does not provide information on how the authors aim to facilitate the work of AFC officers within the financial industry in their paper 'Exploiting graph metrics to detect anomalies in cross-country money transfer temporal networks'."
+    },
+    {
+        "query": "What is the aim of the workshop 'Machine Learning for Streaming Media'?",
+        "output": "The aim of the workshop 'Machine Learning for Streaming Media' is to provide a unique forum for practitioners and researchers interested in Machine Learning to get together, exchange ideas and get a pulse for the state of the art in research and burning issues in the industry. It also aims to bridge the gap between academic research and industry requirements and build connections between researchers and practitioners in the field."
+    },
+    {
+        "query": "What is the main purpose of the paper titled 'Graph and Embedding based Approach for Text Clustering: Topic Detection in a Large Multilingual Public Consultation'?",
+        "output": "The text does not provide information on the main purpose of the paper titled 'Graph and Embedding based Approach for Text Clustering: Topic Detection in a Large Multilingual Public Consultation'."
+    },
+    {
+        "query": "What are the unique challenges in applying personalization to search at Netflix?",
+        "output": "The text does not provide information on the unique challenges in applying personalization to search at Netflix."
+    },
+    {
+        "query": "Who authored the paper 'Knowledge-infused Contrastive Learning for Urban Imagery-based Socioeconomic Prediction' and what is its main focus?",
+        "output": "The text doesn't provide information on who authored the paper 'Knowledge-infused Contrastive Learning for Urban Imagery-based Socioeconomic Prediction' or what its main focus is."
+    },
+    {
+        "query": "What dataset was used in the paper 'EDNet: Attention-Based Multimodal Representation for Classification of Twitter Users Related to Eating Disorders'?",
+        "output": "The text doesn't provide information on what dataset was used in the paper 'EDNet: Attention-Based Multimodal Representation for Classification of Twitter Users Related to Eating Disorders'."
+    },
+    {
+        "query": "Who are the authors of 'SINCERE: Sequential Interaction Networks representation learning on Co-Evolving RiEmannian manifolds'?",
+        "output": "The text does not provide information on the authors of 'SINCERE: Sequential Interaction Networks representation learning on Co-Evolving RiEmannian manifolds'."
+    },
+    {
+        "query": "Who are the Track chairs for the 'Systems and Infrastructure for Web, Mobile Web, and Web of Things Track' at 'The Web Conference'?",
+        "output": "The track chairs for the 'Systems and Infrastructure for Web, Mobile Web, and Web of Things Track' at 'The Web Conference' are Martin Gaedke, Wen Hu, and Michael Rabinovich."
+    },
+    {
+        "query": "What was the main finding of the study 'Learned Temporal Aggregations for Fraud Classification on E-Commerce Platforms'?",
+        "output": "The text does not provide information on the main finding of the study 'Learned Temporal Aggregations for Fraud Classification on E-Commerce Platforms'."
+    },
+    {
+        "query": "Who are the silver and bronze sponsors for the WWW2023?",
+        "output": "The silver sponsors for WWW2023 are Baidu, Megagon, Zhipu, and Amazon. The bronze sponsors are Booking, eBay, Google, and Netflix."
+    },
+    {
+        "query": "What kind of contributions are being sought for this research track at the conference?",
+        "output": "The text doesn't provide information on what kind of contributions are being sought for the research track at the conference."
+    },
+    {
+        "query": "What is the submission format and language requirement for the 'History of the Web' Track of WWW2023 Conference?",
+        "output": "The submission format for the 'History of the Web' Track of the WWW2023 Conference requires submissions for review to be in PDF format. The language requirement is that all submissions must be self-contained and written in English."
+    },
+    {
+        "query": "What are the instructions for submitting papers to the 'Fairness, Accountability, Transparency and Ethics on the Web Track'?",
+        "output": "The text does not provide information on the instructions for submitting papers to the 'Fairness, Accountability, Transparency and Ethics on the Web Track'."
+    },
+    {
+        "query": "What is the abstract of the paper 'Knowledge Graph Question Answering with Ambiguous Query'?",
+        "output": "I'm sorry, but the information provided does not include the abstract for the paper 'Knowledge Graph Question Answering with Ambiguous Query'."
+    },
+    {
+        "query": "Who are the track chairs for the User Modeling and Personalization Track of the WWW2023 Conference?",
+        "output": "The text does not provide information on who the track chairs for the User Modeling and Personalization Track of the WWW2023 Conference are."
+    },
+    {
+        "query": "What is the title of the contribution made by authors Apoorva Upadhyaya, Marco Fisichella, and Wolfgang Nejdl at the ACM Web Conference 2023?",
+        "output": "The text does not provide information on the title of the contribution made by authors Apoorva Upadhyaya, Marco Fisichella, and Wolfgang Nejdl at the ACM Web Conference 2023."
+    },
+    {
+        "query": "What is the focus of the paper titled 'Analyzing COVID-Related Social Discourse on Twitter using Emotion, Sentiment, Political Bias, Stance, Veracity and Conspiracy Theories'?",
+        "output": "The text doesn't provide information on the focus of the paper titled 'Analyzing COVID-Related Social Discourse on Twitter using Emotion, Sentiment, Political Bias, Stance, Veracity and Conspiracy Theories'."
+    },
+    {
+        "query": "How does the research 'ContrastFaux: Sparse Semi-supervised Fauxtography Detection on the Web using Multi-view Contrastive Learning' address the issue of online misinformation?",
+        "output": "The context does not provide information on how the research 'ContrastFaux: Sparse Semi-supervised Fauxtography Detection on the Web using Multi-view Contrastive Learning' addresses the issue of online misinformation."
+    },
+    {
+        "query": "What is the concept of 'Smart city hub' as introduced in the paper authored by Tsapadikou Asteria and Leonidas Anthopoulos?",
+        "output": "The text does not provide information on the concept of 'Smart city hub' as introduced in the paper authored by Tsapadikou Asteria and Leonidas Anthopoulos."
+    },
+    {
+        "query": "When is the Opening Ceremony of TheWebConf for WWW2023?",
+        "output": "The text does not provide information on when the Opening Ceremony of TheWebConf for WWW2023 is."
+    },
+    {
+        "query": "What is the abstract of the paper 'CurvDrop: A Ricci Curvature Based Approach to Prevent Graph Neural Networks from Over-Smoothing and Over-Squashing'?",
+        "output": "The text doesn't provide information about the abstract of the paper 'CurvDrop: A Ricci Curvature Based Approach to Prevent Graph Neural Networks from Over-Smoothing and Over-Squashing'."
+    },
+    {
+        "query": "Who are the track chairs of the 'Fairness, Accountability, Transparency and Ethics on the Web Track'?",
+        "output": "The track chairs of the 'Fairness, Accountability, Transparency and Ethics on the Web Track' are Krishna Gummadi, Michael Ekstrand, and Alexandra Olteanu."
+    },
+    {
+        "query": "What is the real-world problem the authors of 'Do bridges dream of water pollutants? Towards DreamsKG...' are trying to address?",
+        "output": "The text doesn't provide information on the real-world problem the authors of 'Do bridges dream of water pollutants? Towards DreamsKG...' are trying to address."
+    },
+    {
+        "query": "What is Wikidata and how it has grown since its launch according to 'Wikidata: The Making Of'?",
+        "output": "The text doesn't provide information on what Wikidata is or how it has grown since its launch according to 'Wikidata: The Making Of'."
+    },
+    {
+        "query": "What is the evolution of web browser gaming according to 'Caught in the Game: On the History and Evolution of Web Browser Gaming'?",
+        "output": "The text does not provide information on the evolution of web browser gaming according to 'Caught in the Game: On the History and Evolution of Web Browser Gaming'."
+    },
+    {
+        "query": "Who are the keynotes speakers at the WWW2023 and where are they from?",
+        "output": "The keynote speakers at the WWW2023 are Payal Arora, David Rand, Barbara Poblete, Zachary Elkins, and Michalis Vazirgiannis. The affiliation detail given is for Barbara Poblete who is from University of Chile and is a visiting academic at Amazon. The information does not provide the affiliations or origins of the other speakers."
+    },
+    {
+        "query": "What is the main focus of the International Workshop on Digital Twins for Smart Health?",
+        "output": "The main focus of the International Workshop on Digital Twins for Smart Health is on the application of digital twin technology in healthcare, particularly in modeling cancer patients for better clinical decision-making and potential for large-scale virtual clinical trials. The application involves simulating patients at a more fundamental level than conventional machine learning models, to predict each patient's outcome trajectory. The workshop discusses scientific advances, benefits, existing barriers, and potential solutions to apply digital twin technology in healthcare, specifically radiation oncology."
+    },
+    {
+        "query": "What is the theme of the W4A 2023 Conference and how is it expected to impact the digital society?",
+        "output": "The text does not provide information on the theme of the W4A 2023 Conference and how it is expected to impact the digital society."
+    },
+    {
+        "query": "What are the practical challenges of ODRL discussed in the paper by Andrea Cimmino, Juan Cano-Benito, and Raúl García-Castro?",
+        "output": "The text does not provide information on the practical challenges of ODRL discussed in the paper by Andrea Cimmino, Juan Cano-Benito, and Raúl García-Castro."
+    },
+    {
+        "query": "What are the key topics discussed by Barbara Poblete in her keynote speech?",
+        "output": "Barbara Poblete discusses the impact of social media on democratizing access to real-world news and social sentiment, the challenge of fake information, and her experiences as a computer scientist in Chile working on problems driven by local needs. She also talks about the importance of considering geographical, language, and social diversity for innovation and understanding the social Web, and the need for developing inclusive research and resources."
+    },
+    {
+        "query": "What does the ACM Publications Policy imply about research involving human participants and subjects?",
+        "output": "The text does not provide information on what the ACM Publications Policy implies about research involving human participants and subjects."
+    },
+    {
+        "query": "What is the approach described in 'Intent-Aware Propensity Estimation via Click Pattern Stratification'?",
+        "output": "The text does not provide information on the approach described in 'Intent-Aware Propensity Estimation via Click Pattern Stratification'."
+    },
+    {
+        "query": "What are the submission guidelines for the 'Crowdsourcing and Human Computation Track'?",
+        "output": "The text does not provide specific details about the submission guidelines for the 'Crowdsourcing and Human Computation Track'."
+    },
+    {
+        "query": "What would make a submission to be considered 'out of scope' for The Web Conference?",
+        "output": "A submission would be considered \"out of scope\" for The Web Conference if it does not relate to the web or web-based human computation platforms, methods, or applications; if it merely applies human computation methods in standard, previously known ways without contributing anything new; if it focuses on a dataset obtained from the web, without addressing a specific web-related scientific research challenge about fairness, accountability, transparency, ethics or without exploring their broader adverse impact; or if it discusses performance improvement of a general operating system without a specific discussion and evaluation of its effect on web servers."
+    },
+    {
+        "query": "When and where is the 20th International Web for All Conference (W4A’23) happening?",
+        "output": "The text does not provide information on when and where the 20th International Web for All Conference (W4A’23) is happening."
+    },
+    {
+        "query": "What is the core aim of the PhD Symposium at WWW2023?",
+        "output": "The core aim of the PhD Symposium at WWW2023 is to provide a platform for PhD students to present and receive feedback on their ongoing research. It's an opportunity for these students to discuss their research questions, goals, methods, and results and receive guidance from established researchers and other PhD students. The symposium also aims to enable the students to interact with other participants of The Web Conference and potential collaborators, stimulating the exchange of ideas and experiences."
+    },
+    {
+        "query": "What is the core theme of the 9th International Workshop on The Web and Smart Cities?",
+        "output": "The core theme of the 9th International Workshop on The Web and Smart Cities is the role of the web in social coherence and its impact on creating sustainable and circular cities. The workshop aims to examine how web applications and web intelligence can improve urban life, particularly in terms of social sustainability and securing humanity against social threats like poverty, hunger, and inequality in education and health opportunities. The workshop also explores the challenges and opportunities brought about by new business types and the co-existence of autonomous things and people."
+    },
+    {
+        "query": "What is the Novel Similarity Measure for Effective Data Clustering that the project 'C-Affinity: A Novel Similarity Measure for Effective Data Clustering' propose?",
+        "output": "The text does not provide information on the novel similarity measure for effective data clustering proposed by the project 'C-Affinity: A Novel Similarity Measure for Effective Data Clustering'."
+    },
+    {
+        "query": "What is the title of the paper authored by Keeley Erhardt and Dina Albassam presented at the 13th Temporal Web Analytics Workshop?",
+        "output": "The text does not provide information on a paper authored by Keeley Erhardt and Dina Albassam presented at the 13th Temporal Web Analytics Workshop."
+    },
+    {
+        "query": "What formatting and template should be followed for paper submissions in the 'Web Developer and W3C' track at the Web Conference 2023?",
+        "output": "Paper submissions for the 'Web Developer and W3C' track at the Web Conference 2023 should adhere to the ACM template and format in traditional double-column. Word users may use the Word Interim Template, and LaTeX users can use the “sample-sigconf” template. Overleaf users might prefer the ACM proceedings template available in Overleaf. All submissions should be in PDF format and need to be self-contained, written in English, and properly viewable and printable. Submissions that do not meet these guidelines may be rejected without review."
+    },
+    {
+        "query": "What is the proposed solution to privacy and ethical issues with the typically centralised approach to Predictive Learning Analytics in the paper by Audrey Ekuban and John Domingue?",
+        "output": "The text provided does not include information about a paper by Audrey Ekuban and John Domingue or a proposed solution to privacy and ethical issues with the typically centralised approach to Predictive Learning Analytics."
+    },
+    {
+        "query": "What is the main focus of the Security, Privacy & Trust Track at WWW2023?",
+        "output": "The main focus of the Security, Privacy & Trust Track at WWW2023 is to discuss and present research on various aspects of security, privacy, and trust in the digital world. This includes topics such as secure systems, vulnerability detection, web defacements, internet censorship, synthetic data preservation, browser fingerprinting techniques, web tracking detection, backdoor attacks on neural networks, and mobile app fingerprinting."
+    },
+    {
+        "query": "What is the primary focus of the 'Web and Society Track' at the WWW2023 conference?",
+        "output": "The primary focus of the 'Web and Society Track' at the WWW2023 conference is to study and understand the impact of web-based platforms and technology on society. This includes discussions about the effects of automated content moderation on user behavior on social media platforms such as Facebook, as well as the dramatic shifts in adult video-sharing platforms that now revolve around direct interconnection and monetization of content produced by often amateur producers."
+    },
+    {
+        "query": "What actions does ACM take in case of violation of its Publications Policy?",
+        "output": "In case of violation of its Publications Policy, ACM investigates the alleged violations. This may result in a full retraction of your paper, in addition to other potential penalties, as per ACM Publications Policy."
+    },
+    {
+        "query": "What is DEEP Sensorium that is introduced in 'The DEEP Sensorium: a multidimensional approach to sensory domain labelling'?",
+        "output": "DEEP Sensorium (Deep Engaging Experiences and Practices - Sensorium) is a multidimensional dataset that combines cognitive and affective features to inform systematic methodologies for augmenting exhibits with multi-sensory stimuli."
+    },
+    {
+        "query": "What is the deadline for proposal submission for the WWW2023 conference?",
+        "output": "The deadlines for proposal submissions for the WWW2023 conference vary depending on the type of proposal. Here are some of them:\n\n- Workshop Proposals: November 7, 2022\n- Tutorials Proposals: November 10, 2022\n- PhD Symposium: February 3, 2023\n- Posters and Demos Proposals: February 3, 2023\n- Web Developer and W3C: February 16, 2023\n- Special Track - The Creative Web: February 6, 2023\n- Satellite Event - Web Sci2023: November 30, 2022."
+    },
+    {
+        "query": "What are the web-related challenges related to the metaverse that will be addressed in the W4A conference?",
+        "output": "The web-related challenges related to the metaverse that will be addressed in the W4A conference include telehealth, mental health support and exposure therapy, and accessible remote work, physical workplace environment, employment, onboarding and job-training."
+    },
+    {
+        "query": "What is the main focus of the 'Web4Good (Sustainable Development and Vulnerable Populations)' Track ofWWW2023 Conference?",
+        "output": "The main focus of the 'Web4Good (Sustainable Development and Vulnerable Populations)' Track of WWW2023 Conference is to gather researchers and developers to present and debate methods for achieving a Web that is inclusive, non-discriminative, sustainable, ethical, and open. It aims to address societal challenges towards a Web for Good, particularly in relation to environmental sustainability, climate action, and vulnerable populations. The track seeks papers where web and social media technologies are investigated, developed or applied to these topics, especially among vulnerable or marginalized communities and in fostering sustainable development and healthy human societies."
+    },
+    {
+        "query": "What is the main goal of the 'Fairness, Accountability, Transparency and Ethics on the Web Track' at the 32nd edition of The Web Conference series?",
+        "output": "The main goal of the 'Fairness, Accountability, Transparency and Ethics on the Web Track' at the 32nd edition of The Web Conference series is to gather researchers and developers from academia, industry, and civil society to present and debate methods for achieving a Web that is inclusive, just, ethical, and open."
+    },
+    {
+        "query": "What are some areas of interest under 'Accessible, Fair, Inclusive, and Accountable Modeling and System Design'?",
+        "output": "Some areas of interest under 'Accessible, Fair, Inclusive, and Accountable Modeling and System Design' include Fairness-aware Retrieval and Ranking, Diversity and Fairness Metrics and Evaluation in Personalized Discovery, Explainable Methods for Personalization, Multi-Sided Fairness in Personalized Search and Recommendation, Algorithmic Bias, Fairness, and Transparency in Personalized Discovery, and Simulation Models of Personalized Systems."
+    },
+    {
+        "query": "Who are the authors of the paper '2nd International Workshop on Multisensory Data and Knowledge (MDK)'?",
+        "output": "The authors of the paper '2nd International Workshop on Multisensory Data and Knowledge (MDK)' are Simona Corciulo, Livio Bioglio, Valerio Basile, Viviana Patti, Rossana Damiano, and Enrico Daga."
+    },
+    {
+        "query": "What are the potential applications of Web-based Applications of HCOMP?",
+        "output": "The potential applications of Web-based Applications of HCOMP include delivering beyond state-of-the-art AI capabilities and enhanced services through human computation and human-in-the-loop systems. This could involve creating new applications and services that use these advanced technologies."
+    },
+    {
+        "query": "What is the conference's policy regarding research involving human subjects and ethical use of data?",
+        "output": "The conference's policy regarding research involving human subjects and ethical use of data emphasizes the inclusion of detailed sections about informed consent and ethical data use where appropriate. It mandates that all authors and co-authors are subject to all ACM Publications Policies, including their new Publications Policy on Research Involving Human Participants and Subjects. It also advises that merely getting approval from institutional ethics review body (IRB) may not always be sufficient. The programme or program committee reserves the right to raise additional concerns about the ethical implications of the research."
+    },
+    {
+        "query": "What is the title of the presentation discussed in this json file?",
+        "output": "There are multiple presentations discussed in this json file, some of them are \"Understanding and Reducing Online Misinformation\", \"Decolonizing Creative Labor in the age of AI\", \"Using diversity as a source of scientific innovation for the Web\", \"Concept Regulation in the Social Sciences\", \"GNNs and Graph Generative models for biomedical applications\", \"Is the Impression Log Beneficial to Effective Model Training in News Recommender Systems? No, It’s NOT\", \"Expressive user embedding from churn and recommendation multi-task learning\", \"Knowledge Distillation on Cross-Modal Adversarial Reprogramming for Data-Limited Attribute Inference\", \"Measuring Potential Performance Gains of Python Web Applications with pyUpgradeSim\", and \"CONNECTIVITY\"."
+    },
+    {
+        "query": "What are some of the topics included under the 'User Modeling' subtrack for WWW2023?",
+        "output": "Some of the topics included under the 'User Modeling' subtrack for WWW2023 are Qualitative Methods to Collect and Analyze User Feedback, Innovative Methods to Enhance Online Personalization, User Model Development, Log Analysis, and Offline Evaluation, User Modeling for Engagement and Interaction Models, Practical Large-scale Studies of User Experience, Experiment Design for Online Evaluation, User Modeling for Content Discovery, and User Modeling for Interactive and Conversational Systems."
+    },
+    {
+        "query": "What are some of the key topics in focus for the 'Web4Good (Sustainable Development and Vulnerable Populations)' Track at WWW2023 Conference?",
+        "output": "The key topics in focus for the 'Web4Good (Sustainable Development and Vulnerable Populations)' Track at WWW2023 Conference are societal problems related to environmental sustainability, climate action, and vulnerable populations. The track seeks papers in which web and social media technologies are investigated, developed or applied to these topics, particularly among vulnerable or marginalized communities and the fostering of sustainable development and healthy human societies."
+    },
+    {
+        "query": "What are relevant areas in the context of Privacy and Security during submissions to the Social Network Analysis and Graph Algorithms track at WWW2023?",
+        "output": "The relevant areas in the context of Privacy and Security during submissions to the Social Network Analysis and Graph Algorithms track at WWW2023 include:\n\n1. Fairness, Bias, and Transparency of Graph Mining and Learning Algorithms.\n2. Privacy-preserving Graph Algorithms.\n3. Cryptocurrency network mining and analysis.\n4. Fraud, Spam, and Malice Detection on Graph Structure.\n5. Detecting, Understanding, and Combating Fake News (especially if the focus is on a graph algorithm)."
+    },
+    {
+        "query": "What are some of the concerns surrounding AI-based systems that the 1st Workshop on Federated Learning Technologies is addressing?",
+        "output": "The 1st Workshop on Federated Learning Technologies is addressing concerns surrounding AI-based systems such as privacy issues. Users are increasingly reluctant to share their sensitive information, and there are new laws to regulate how private data is handled. Another concern is the dilemma of data collection and private data leakage in the development of the metaverse. The workshop is exploring federated learning as a solution to these problems."
+    },
+    {
+        "query": "What are some topic areas of focus within the Algorithms and Modeling category for the Social Network Analysis and Graph Algorithms track at WWW2023?",
+        "output": "Some topic areas of focus within the Algorithms and Modeling category for the Social Network Analysis and Graph Algorithms track at WWW2023 include Algorithms for Web and Social Graph Representation, Reconstruction, Graph Identification, Subgraph and Motif Discovery, Analysis of Heterogeneous, Signed, Attributed, and Annotated Networks, Deep Learning for Web Graphs and Online Social Networks, Location-aware Social Network Analysis and Mobility, Network Representation Learning and Graph Embeddings, Querying and Indexing Algorithms for Massive Graphs, Dynamic Network Analysis and Algorithms for Graph Streams, and Mining and Learning in Graphs with Missing Information and Noise."
+    },
+    {
+        "query": "What is the relevance requirement for the track 'Systems and Infrastructure for Web, Mobile Web, and Web of Things Track' at 'The Web Conference'?",
+        "output": "The relevance requirement for the track 'Systems and Infrastructure for Web, Mobile Web, and Web of Things Track' at 'The Web Conference' is that any submission for the track must make clear the relevance of the paper to the World Wide Web. Papers for which the relation to the World Wide Web is missing or unclear or implicit will be rejected. A paper that does not explicitly discuss and evaluate the effect of the proposed approaches on web servers, for example, would be out of scope. The general relevance requirements as described in the general TheWebConf'23 Call for Papers also apply."
+    },
+    {
+        "query": "What topics might be included in the 'Web and Society Track' at the WWW2023 conference?",
+        "output": "The 'Web and Society Track' at the WWW2023 conference might include a wide range of topics such as:\n\n1. Media and governance: This might include self-governance, democracy, civic engagement, collective actions via the web; filter bubbles and online polarization, conflicts or tribalization; open data and innovation in participatory methods; dealing with disinformation, misinformation, fact-checking, media manipulation, and political trolls; social-technical inequalities and diversities on the web; online opinion dynamics, trust, and reputation on the web.\n\n2. Computational social science: This could encompass humanities, arts, and culture on the web; and also novel digital data and/or computational analyses for addressing societal challenges."
+    },
+    {
+        "query": "What are the criteria for evaluating a poster or demo submitted for the ARTIFACT badge at WWW2023?",
+        "output": "The criteria for evaluating a poster or demo submitted for the ARTIFACT badge at WWW2023 are:\n\n1. Does the design of the artifact follow resource-specific best practices? For example, did the authors perform appropriate re-use or extension of suitable high-quality resources? For instance, in the case of ontologies, authors might extend upper ontologies and/or reuse ontology design patterns.\n\n2. Does the artifact provide an appropriate description (both human and machine-readable), thus encouraging the adoption of FAIR principles? For example, is there a schema diagram? For datasets, is the description available in terms of VoID/DCAT/DublinCore?\n\n3. Does it use open standards when applicable, or does it have a good reason not to?\n\n4. If the artifact proposes performance metrics, are such metrics sufficiently broad and relevant?"
+    },
+    {
+        "query": "What does 'Trusting Decentralised Knowledge Graphs and Web Data at the Web Conference' paper discuss?",
+        "output": "The 'Trusting Decentralised Knowledge Graphs and Web Data' paper at the Web Conference discusses the concept of decentralisation in the context of web data and Knowledge Graphs. It addresses concerns over the centralisation of data on the web, its problems such as siloing effects, lack of user control, limited opportunities for openness, and the negative effects on privacy and innovation. The paper questions what decentralisation really means and trades off for web data and Knowledge Graphs, and discusses diverse technologies like federated querying and distributed ledgers used for data decentralisation."
+    },
+    {
+        "query": "What is the overall conference's theme and where does the track fit in that context?",
+        "output": "The overall conference, WWW2023, does not have a specific theme mentioned in the provided context. It seems to cover a wide range of topics related to the World Wide Web, including the history and development of Web browsers, semantic data and knowledge, search techniques, and creativity on the Web. Each track focuses on a particular aspect of these broad themes. For example, the Special Track called \"History of the Web\" will majorly focus on the history and development of Web browsers. Other tracks like the \"Search Track\" focuses on topics such as adversarial machine learning in Web search and personalized, context-aware and across-device searches. The exact fit of each track can vary depending on the specific themes and topics they explore in relation to the broader context of the World Wide Web."
+    },
+    {
+        "query": "Can you explain the focus and importance of Michalis Vazirgiannis' keynote speech?",
+        "output": "Michalis Vazirgiannis' keynote speech focuses on the potential and applications of graph generative models, particularly in the biomedical domain. Key points of the speech include discussing a new architecture that generates medical records as graphs while maintaining privacy, using the MIMIC medical database to train the generative model, and modifying the graph Variational autoencoders (VAEs) architecture. The speech also highlights their development of new Graph Neural Networks for predicting antibiotic resistance, enzymes classifications, and gene ontology classification. The importance of this keynote comes from its potential contributions to the biomedical field, including how graphs can be used for medical records while maintaining privacy, and future applications of multi modal generative models."
+    },
+    {
+        "query": "What is the major intent of the 2nd International Workshop on Multisensory Data and Knowledge based on the introduction paper?",
+        "output": "The major intent of the 2nd International Workshop on Multisensory Data and Knowledge, based on the introduction paper, is to evaluate the performance of multi-class classification models for the task of sensory recognition and to describe how language technologies can enhance the accessibility of exhibits in cultural contexts. This involves exploiting knowledge about the history of our senses and the link between perception and language, and introducing a multidimensional dataset that combines cognitive and affective features."
+    },
+    {
+        "query": "What are the submission guidelines for 'Web and Society Track' at the WWW2023 conference?",
+        "output": "Submissions for the 'Web and Society Track' at the WWW2023 conference should clearly explain how they are related to the interaction between the Web and society. They must indicate how they have addressed the ethical and reproducibility dimensions of their research. Interdisciplinary research approaches involving fields such as sociology, psychology, communication and media sciences, political sciences, and health science are encouraged. Authors should consult the conference’s main Research Track CFP to ensure their submissions are aligned with the conference's expectations, scope, and theme: “Web Research with Openness, Fairness and Reproducibility”. Submissions that are out of scope or unresponsive to the call will be rejected early during the reviewing process (“desk rejected”) with minimal feedback. Papers focusing solely on the advancement of algorithmic components, or which use Web data only as an artifact (for instance, in method evaluation) are considered out of scope of this track."
+    },
+    {
+        "query": "What aspects of web accessibility does the W4A Conference focuses on?",
+        "output": "The W4A Conference focuses on aspects of web accessibility such as telehealth, mental health support, exposure therapy, accessible entertainment and media, accessible e-learning, student evaluation and assessment, accessible remote work environment, employment, onboarding, job training, enhancements for accessible communication, assistive technology like 3D printing, virtual reality, tactile graphics, and social interaction. It also explores how the Metaverse can adapt to working and learning environments to meet user needs efficiently and the implications of deploying immersive web solutions without considering accessibility."
+    },
+    {
+        "query": "What criteria should be included in the supporting case for nomination?",
+        "output": "The supporting case for nomination should include the following criteria: \n\n1. The design of the artifact should follow resource-specific best practices, with authors providing evidence of appropriate re-use or extension of suitable high-quality resources.\n\n2. The artifact should have a good sustainability and maintenance plan.\n\n3. The artifact should provide an appropriate description that is both human and machine-readable, thus encouraging the adoption of FAIR principles. This may include a schema diagram or relevant description for datasets.\n\n4. If the artifact proposes performance metrics, these metrics should be sufficiently broad and relevant.\n\n5. The artifact and its related results should be published at a persistent URI.\n\n6. The artifact should be easy to (re)use, with good-quality documentation and tutorials available.\n\n7. The artifact should provide a (preferably open) license specification.\n\n8. The artifact should use open standards when applicable, or provide a good reason for not doing so."
+    },
+    {
+        "query": "What details should be included in the 'Tutorial proposals' for the WWW2023 conference?",
+        "output": "The 'Tutorial proposals' for the WWW2023 conference should include the following details:\n\n1. General Information: This should include the title of the tutorial, names of the organizers and presenters, their affiliation, contact information, and a brief bio.\n\n2. Topic and Relevance: This section should contain a description of the tutorial topic, providing a sense of both the scope of the tutorial and depth within the scope. It should also include a statement on why the tutorial is important and timely, how it is relevant to the Web Conference, and why the presenters are qualified for a high-quality introduction of the topic.\n\nThe proposals should be submitted in English as a PDF document conforming to the ACM format acmart.cls (using the “sigconf” option) and should not be more than five (5) pages in length. Submissions must be made through the EasyChair system. A video teaser of up to 3 minutes must also be prepared as additional material of the submission."
+    },
+    {
+        "query": "What is the focus of the first workshop on Semantics in Dataspaces, SDS 2023?",
+        "output": "The focus of the first workshop on Semantics in Dataspaces, SDS 2023, is on the concepts for dataspaces, including database management systems and cross-company platforms for data and applications. It discusses the \"Solid Data Space\" (SDS), a concept for dataspaces that builds on the Web and Social Linked Data. It also compares SDS with the emerging International Data Spaces. Additionally, it presents a concept for the SPACE_DS, a data space for circular economy data, that helps in the creation of Digital Product Passports."
+    },
+    {
+        "query": "What are the guidelines for formatting the submissions for the 'Posters and Demos Proposals' track?",
+        "output": "The submissions for the 'Posters and Demos Proposals' track must adhere to the ACM template and format published in the ACM guidelines. They have to be in a traditional double-column format. Concepts and Keywords must be added. Word users may use Word Interim Template, latex users may use the sample-sigconf template, and overleaf users may use a particular template available on Overleaf. The submissions for review must be in PDF format, self-contained, and written in English. Posters and Demos papers are limited to four pages, including references. Submissions are not anonymous. The authors need to ensure that their submissions strictly adhere to the required format, without modifying the format to squeeze in more material. Non-compliant submissions will be rejected without review. Submissions will be handled via Easychair on the Poster-Demo track. It is encouraged to include external material related to the poster or demo in the submission."
+    },
+    {
+        "query": "What types of contributions are encouraged for the Social Network Analysis and Graph Algorithms track at WWW2023?",
+        "output": "The Social Network Analysis and Graph Algorithms track at WWW2023 encourages submissions that are relevant for the Web, in all areas of graph theory and algorithms, graph mining, and social network analysis, and, more broadly, work that integrates ideas from data mining, machine learning, social sciences, and computer science theory. The submission should address a Web-related scientific challenge. Topics can include algorithms for Web and Social Graph Representation, Reconstruction, Graph Identification, Subgraph and Motif Discovery, analysis of Heterogeneous, Signed, Attributed, and Annotated Networks, querying and Indexing Algorithms for Massive Graphs, deep learning for Web Graphs and Online Social Networks, and mining and learning in graphs with missing information and noise."
+    },
+    {
+        "query": "What are the topics that will be covered in the Security, Privacy & Trust Track at WWW2023?",
+        "output": "The topics that will be covered in the Security, Privacy & Trust Track at WWW2023 include:\n\n1. The benefits of vulnerability discovery and bug bounty programs with case studies of Chromium and Firefox.\n2. Measuring and evading internet censorship in Turkmenistan: A case study in large-scale measurements of a low-penetration country.\n3. Automatic discovery of emerging browser fingerprinting techniques.\n4. Shield: Secure Allegation Escrow System with stronger guarantees.\n5. Cross-modality mutual learning for enhancing smart contract vulnerability detection on bytecode.\n6. Provenance of Training without Training Data: Towards Privacy-Preserving DNN Model Ownership Verification.\n7. Training-free Lexical Backdoor Attacks on Language Models.\n8. AppSniffer: Towards Robust Mobile App Fingerprinting Against VPN.\n9. The Chameleon on the Web: an Empirical Study of the Insidious Proactive Web Defacements.\n10. Preserving Observable and Missing Data Distribution in Synthetic Data."
+    },
+    {
+        "query": "What is the current state and future potential of Federated Learning according to the workshop?",
+        "output": "Federated Learning (FL) is currently at an innovative stage that has shown significant theoretical and practical results. It has become one of the hottest topics in the machine learning community due to its ability to develop better AI systems that respect users' privacy and the legitimate interests of private companies. As described in the papers, federated learning is a privacy-preserving distributed machine learning paradigm designed for a large number of edge devices. It provides a solution for data privacy and data leakage issues. Looking into the future, applying federated learning in metaverse technologies (FL4M) holds unlimited potential. This method not only offers a high level of data privacy but also reduces the demand for high computational power from servers. Therefore, it's viewed as a promising research direction with potential to aid in building a fair, open, and secure metaverse."
+    },
+    {
+        "query": "Who are the speakers for the Health Day at the Web Conference 2023, and what are their affiliations?",
+        "output": "The speakers for the Health Day at the Web Conference 2023 and their affiliations are:\n\n- Speaker_3 from UT Austin\n- Speaker_19 from UCSF\n- Speaker_13 from MITRE\n- Speaker_18 and Speaker_1 from Weill Cornell Medicine\n- Speaker_8 from MD Anderson Cancer Center\n- Speaker_11 from IBM\n- Speaker_12 and Speaker_14 and Speaker_4 from UT Austin\n- Speaker_17 from NextSense, Inc\n- Speaker_6 from Mayo Clinic\n- Speaker_10 from University of Washington\n- Speaker_5 from University of Pittsburgh\n- Speaker_2 from Autonomize\n- Speaker_7 from UT Health\n- Speaker_9 from Google\n- Speaker_16 from ClosedLoop.ai\n- Speaker_15 from UT Arlington."
+    },
+    {
+        "query": "What are some of the challenges associated with the underlying workforce powering Web-based HCOMP?",
+        "output": "Some of the challenges associated with the underlying workforce powering Web-based Human Computation and Crowdsourcing (HCOMP) include issues related to supporting HCOMP workers, the future of work, and social and economic impacts. Specific challenges include collective action; design activism; fair work and ghost work; heteromation and invisible work; digital colonialism and its effects on the global south; the impacts of impact sourcing and responsible sourcing; regulation; worker empowerment, organization, protection and wellness; and workforce diversity, equity, and inclusion. Future work-related challenges encompass AI-assisted human coordination, team formation and work, distributed work, the freelancer economy, and hybrid, human+AI work and complementarity. Social and economic problems involve societal and methodological challenges around crowdsourcing labor and workforces; inequalities in access and representation in crowdsourcing workforces; and platform affordances and economic impact."
+    },
+    {
+        "query": "Why are hyperlinks generally colored blue according to 'Why are Hyperlinks Blue?: A deep dive into browser hyperlink color history'?",
+        "output": "I don't know."
+    },
+    {
+        "query": "What is the affiliation of the Program Chair Dr. Harsh Taneja for the Web Sci2023 event?",
+        "output": "Illinois"
+    },
+    {
+        "query": "Which organization does the second URL pertain to in the partners' list of Web Sci2023 event?",
+        "output": "ACM"
+    },
+    {
+        "query": "What is one of the satellite events of WWW2023?",
+        "output": "One of the satellite events of WWW2023 is Web Sci2023."
+    },
+    {
+        "query": "Which website provides information about WebSci23 event?",
+        "output": "https://websci23.webscience.org/"
+    },
+    {
+        "query": "What are the research areas of Barbara Poblete?",
+        "output": "The text does not provide information on the research areas of Barbara Poblete."
+    },
+    {
+        "query": "What is the name of the Proceedings Chair for the Web Sci2023 event?",
+        "output": "The name of the Proceedings Chair for the Web Sci2023 event is Kristina Gligorić."
+    },
+    {
+        "query": "Who are the authors of the paper titled 'Cashing in on Contacts: Characterizing the OnlyFans Ecosystem'?",
+        "output": "The text does not provide information on the authors of the paper titled 'Cashing in on Contacts: Characterizing the OnlyFans Ecosystem'."
+    },
+    {
+        "query": "What are the achievements of Payal Arora?",
+        "output": "The text does not provide information on the achievements of Payal Arora."
+    },
+    {
+        "query": "What is the focus of Michalis Vazirgiannis's talk at WWW2023?",
+        "output": "The text does not provide information on the focus of Michalis Vazirgiannis's talk at WWW2023."
+    },
+    {
+        "query": "What is the topic of David Rand's Keynote?",
+        "output": "Understanding and Reducing Online Misinformation"
+    },
+    {
+        "query": "How many partners are listed for the Web Sci2023 event?",
+        "output": "Four partners are listed for the Web Sci2023 event."
+    },
+    {
+        "query": "Which event has a test of time award for 2023?",
+        "output": "The ACM Web Conference 2023 has a Test of Time Award for 2023."
+    },
+    {
+        "query": "What is the title and who are the authors of the paper that proposes a Deep Survival Model for Notification Management?",
+        "output": "I don't know."
+    },
+    {
+        "query": "Who wrote the paper 'PARROT: Position-Aware Regularized Optimal Transport for Network Alignment'?",
+        "output": "The context does not provide information on who wrote the paper 'PARROT: Position-Aware Regularized Optimal Transport for Network Alignment'."
+    },
+    {
+        "query": "Who is the Best Paper Chair for the Web Sci2023 event?",
+        "output": "The Best Paper Chair for the Web Sci2023 event is Dr. Yelena Mejova."
+    },
+    {
+        "query": "Who are the track chairs for the 'Crowdsourcing and Human Computation Track' at the Web Conference 2023?",
+        "output": "The text does not provide information on who the track chairs for the 'Crowdsourcing and Human Computation Track' at the Web Conference 2023 are."
+    },
+    {
+        "query": "Which event has a best paper award announced?",
+        "output": "The text does not provide information on which event has a best paper award announced."
+    },
+    {
+        "query": "What are the authors working on as per 'Towards a Decentralized Data Hub and Query System for Federated Dynamic Data Spaces' paper?",
+        "output": "The text does not provide information on what the authors are working on as per the 'Towards a Decentralized Data Hub and Query System for Federated Dynamic Data Spaces' paper."
+    },
+    {
+        "query": "Where will the WebSci24 happen?",
+        "output": "The text does not provide information on where the WebSci24 will happen."
+    },
+    {
+        "query": "What is the fourth URL associated with the Web Sci2023 event?",
+        "output": "https://webscience.org/"
+    },
+    {
+        "query": "What solution is proposed in the paper 'A Decentralised Persistent Identification Layer for DCAT Datasets' to keep track of the datasets?",
+        "output": "The text does not provide information on the solution proposed in the paper 'A Decentralised Persistent Identification Layer for DCAT Datasets' to keep track of the datasets."
+    },
+    {
+        "query": "What is the unique aspect of the project 'WebSHAP: Towards Explaining Any Machine Learning Models Anywhere'?",
+        "output": "The text does not provide information on the unique aspect of the project 'WebSHAP: Towards Explaining Any Machine Learning Models Anywhere'."
+    },
+    {
+        "query": "What is the main idea behind the concept of Weighted Statistically Significant Pattern Mining?",
+        "output": "I don't know."
+    },
+    {
+        "query": "How many papers are there in the 'Web and Society' research track?",
+        "output": "10"
+    },
+    {
+        "query": "How has internet access changed in Cuba over the decades according to 'Those who are left behind: A chronicle of internet access in Cuba'?",
+        "output": "The text does not provide information on how internet access has changed in Cuba over the decades according to 'Those who are left behind: A chronicle of internet access in Cuba'."
+    },
+    {
+        "query": "How does the ACM plan to improve author discoverability?",
+        "output": "The text does not provide information on how the ACM plans to improve author discoverability."
+    },
+    {
+        "query": "What is the primary focus of the research paper 'Dual-grained Text-Image Olfactory Matching Model with Mutual Promotion Stages'?",
+        "output": "The information provided does not include details about the primary focus of the research paper 'Dual-grained Text-Image Olfactory Matching Model with Mutual Promotion Stages'."
+    },
+    {
+        "query": "What is the proposed solution in the paper titled 'Fairness-aware Differentially Private Collaborative Filtering' to the problem of unfair model bias?",
+        "output": "The text does not provide information on the proposed solution in the paper titled 'Fairness-aware Differentially Private Collaborative Filtering' to the problem of unfair model bias."
+    },
+    {
+        "query": "What impact of COVID-19 does the paper authored by Ke Li, Zhiwen Yu, Ying Zhang, and Bin Guo analyze?",
+        "output": "The text doesn't provide information on what impact of COVID-19 the paper authored by Ke Li, Zhiwen Yu, Ying Zhang, and Bin Guo analyzes."
+    },
+    {
+        "query": "How many workshops are accepted for the WWW2023 program?",
+        "output": "15"
+    },
+    {
+        "query": "What is the goal of the 1st Workshop on Federated Learning Technologies?",
+        "output": "The goal of the 1st Workshop on Federated Learning Technologies is to develop better AI systems without compromising users’ privacy and the legitimate interests of private companies."
+    },
+    {
+        "query": "What is the focus of the paper 'Visual-Aware Testing and Debugging for Web Performance Optimization'?",
+        "output": "The text does not provide specific information on the focus of the paper 'Visual-Aware Testing and Debugging for Web Performance Optimization'."
+    },
+    {
+        "query": "Who are the authors of the paper 'GROUP: An End-to-end Multi-step-ahead Workload Prediction Approach Focusing on Workload Group Behavior'?",
+        "output": "The text does not provide information on the authors of the paper titled 'GROUP: An End-to-end Multi-step-ahead Workload Prediction Approach Focusing on Workload Group Behavior'."
+    },
+    {
+        "query": "What new algorithm is proposed in the paper 'Robust Stochastic Multi-Armed Bandits with Historical Data'?",
+        "output": "The text does not provide information on what new algorithm is proposed in the paper 'Robust Stochastic Multi-Armed Bandits with Historical Data'."
+    },
+    {
+        "query": "What is the current state of diversity at The WebConference according to 'A History of Diversity in The Web (Conference)'?",
+        "output": "The text does not provide information on the current state of diversity at The Web Conference according to 'A History of Diversity in The Web (Conference)'."
+    },
+    {
+        "query": "Who were the authors of the research paper titled 'Detecting Social Media Manipulation in Low-Resource Languages'?",
+        "output": "The context does not provide information on the authors of the research paper titled 'Detecting Social Media Manipulation in Low-Resource Languages'."
+    },
+    {
+        "query": "What is the title of the paper authored by Gabriel Magno and Virgilio Almeida in the 'Web and Society' research track?",
+        "output": "The context doesn't provide information on a paper authored by Gabriel Magno and Virgilio Almeida in the 'Web and Society' research track."
+    },
+    {
+        "query": "Which paper was co-authored by Fabian Spaeh and Charalampos Tsourakakis?",
+        "output": "The information provided does not include any paper co-authored by Fabian Spaeh and Charalampos Tsourakakis."
+    },
+    {
+        "query": "What is the title of the paper by authors Huang Fang, Yang Liu, Yunfeng Cai, and Mingming Sun?",
+        "output": "The context does not provide information on the title of the paper by authors Huang Fang, Yang Liu, Yunfeng Cai, and Mingming Sun."
+    },
+    {
+        "query": "Who are the authors of the paper 'The Harmonic Memory: a Knowledge Graph of harmonic patterns as a trustworthy framework for computational creativity' at the ACM Web Conference 2023?",
+        "output": "The text doesn't provide information on the authors of the paper 'The Harmonic Memory: a Knowledge Graph of harmonic patterns as a trustworthy framework for computational creativity' at the ACM Web Conference 2023."
+    },
+    {
+        "query": "What is the first partner for the Web Sci2023 event at WWW2023?",
+        "output": "Northwestern University"
+    },
+    {
+        "query": "What is the aim and significance of the paper 'Robust Preference-Guided Denoising for Graph based Social Recommendation'?",
+        "output": "The text does not provide information on the aim and significance of the paper 'Robust Preference-Guided Denoising for Graph based Social Recommendation'."
+    },
+    {
+        "query": "Does the paper 'Unsupervised Anomaly Detection on Microservice Traces through Graph VAE' suggest any methods to mitigate the entropy gap in trace anomaly detection?",
+        "output": "The provided context does not contain any information regarding the paper 'Unsupervised Anomaly Detection on Microservice Traces through Graph VAE' or any methods to mitigate the entropy gap in trace anomaly detection."
+    },
+    {
+        "query": "What is the goal of the work 'Show me your NFT and I tell you how it will perform: Multimodal representation learning for NFT selling price prediction' by Davide Costa, Lucio La Cava, and Andrea Tagarelli?",
+        "output": "The text does not provide information on the goal of the work 'Show me your NFT and I tell you how it will perform: Multimodal representation learning for NFT selling price prediction' by Davide Costa, Lucio La Cava, and Andrea Tagarelli."
+    },
+    {
+        "query": "What does Behrooz Mansouri, Ricardo Campos, and Adam Jatowt's paper 'Towards Timeline Generation with Abstract Meaning Representation' propose for timeline summarization?",
+        "output": "The text does not provide information on what Behrooz Mansouri, Ricardo Campos, and Adam Jatowt's paper 'Towards Timeline Generation with Abstract Meaning Representation' proposes for timeline summarization."
+    },
+    {
+        "query": "What is the proposed solution by the authors of the paper 'Confident Action Decision via Hierarchical Policy Learning for Conversational Recommendation' in regards to reading large tables on small mobile screens?",
+        "output": "The text does not provide information on the proposed solution by the authors of the paper 'Confident Action Decision via Hierarchical Policy Learning for Conversational Recommendation' in regards to reading large tables on small mobile screens."
+    },
+    {
+        "query": "What is the expected outcome for papers that do not relate to the web or web-based infrastructures?",
+        "output": "The context does not provide information on the expected outcome for papers that do not relate to the web or web-based infrastructures."
+    },
+    {
+        "query": "What is the purpose of the 'Psychotherapy AI Companion with Reinforcement Learning Recommendations and Interpretable Policy Dynamics' paper?",
+        "output": "The text does not provide information on the purpose of the 'Psychotherapy AI Companion with Reinforcement Learning Recommendations and Interpretable Policy Dynamics' paper."
+    },
+    {
+        "query": "What challenge does the work 'Active Learning from the Web' by Ryoma Sato aim to address?",
+        "output": "The provided context does not contain information on the work 'Active Learning from the Web' by Ryoma Sato."
+    },
+    {
+        "query": "Which organization is connected with the Web Sci2023 event under the third URL?",
+        "output": "The organization connected with the Web Sci2023 event under the third URL is https://webscience.org/."
+    },
+    {
+        "query": "What is the topic of the paper authored by Bing He, Mustaque Ahamad and Srijan Kumar?",
+        "output": "The context does not provide information on the topic of the paper authored by Bing He, Mustaque Ahamad and Srijan Kumar."
+    },
+    {
+        "query": "What is the name of the proposed system in the paper 'Learning Cooperative Oversubscription for Cloud by Chance-Constrained Multi-Agent Reinforcement Learning'?",
+        "output": "The text provided does not include information about the name of the proposed system in the paper 'Learning Cooperative Oversubscription for Cloud by Chance-Constrained Multi-Agent Reinforcement Learning'."
+    },
+    {
+        "query": "What is the topic discussed in the work 'Toward Open-domain Slot Filling via Self-supervised Co-training' by Adib Mosharrof, Moghis Fereidouni, and A.B. Siddique?",
+        "output": "The text does not provide information on the topic discussed in the work 'Toward Open-domain Slot Filling via Self-supervised Co-training' by Adib Mosharrof, Moghis Fereidouni, and A.B. Siddique."
+    },
+    {
+        "query": "What is the Keynote event on Monday May 1 for the WWW2023 conference?",
+        "output": "The Keynote event on Monday May 1 for the WWW2023 conference is \"Keynote: David Rand\"."
+    },
+    {
+        "query": "What is the title of the paper authored by Junaid Rashid, Jungeun Kim, and Usman Naseem in the 'The Creative Web' session at the ACM Web Conference 2023?",
+        "output": "The text does not provide information on a paper authored by Junaid Rashid, Jungeun Kim, and Usman Naseem in the 'The Creative Web' session at the ACM Web Conference 2023."
+    },
+    {
+        "query": "What is the focus of the paper 'Meta-Learning Based Knowledge Extrapolation for Temporal Knowledge Graph'?",
+        "output": "The text does not provide information on the focus of the paper 'Meta-Learning Based Knowledge Extrapolation for Temporal Knowledge Graph'."
+    },
+    {
+        "query": "What qualitative analysis does Brenda Reyes Ayala present in her paper at the 13th Temporal Web Analytics Workshop?",
+        "output": "The text does not provide information on any qualitative analysis presented by Brenda Reyes Ayala in her paper at the 13th Temporal Web Analytics Workshop."
+    },
+    {
+        "query": "What are the authors of the paper 'Testing Cluster Properties of Signed Graphs'?",
+        "output": "The text does not provide information on the authors of the paper 'Testing Cluster Properties of Signed Graphs'."
+    },
+    {
+        "query": "What is the name of the paper that was written by Ke Zhang, Xiaoqing Wang, and Gong Cheng?",
+        "output": "The context does not provide information on the name of the paper that was written by Ke Zhang, Xiaoqing Wang, and Gong Cheng."
+    },
+    {
+        "query": "What topic did Lianghao Xia, Chao Huang, Jiao Shi, and Yong Xu research on?",
+        "output": "The text does not provide information on what topic Lianghao Xia, Chao Huang, Jiao Shi, and Yong Xu researched on."
+    },
+    {
+        "query": "Who is the speaker for the 'Concept Regulation in the Social Sciences' keynote at WWW2023?",
+        "output": "The provided context doesn't provide information on who the speaker for the 'Concept Regulation in the Social Sciences' keynote at WWW2023 is."
+    },
+    {
+        "query": "What was the focus of the 3rd International Workshop on Deep Learning for the Web of Things?",
+        "output": "The text does not provide specific information on the focus of the 3rd International Workshop on Deep Learning for the Web of Things."
+    },
+    {
+        "query": "What should participants do if they fall victim to unacceptable behavior according to the ACM Policy?",
+        "output": "Any participant who experiences unacceptable behavior may contact the General Chairs at chairs2023@thewebconf.org. If a participant is involved in or witnesses any such incident, they should inform the event organizers."
+    },
+    {
+        "query": "Which paper deals with the topic of 'Hierarchy-Aware Multi-Hop Question Answering over Knowledge Graphs'?",
+        "output": "The provided context does not include information about a paper that deals with the topic of 'Hierarchy-Aware Multi-Hop Question Answering over Knowledge Graphs'."
+    },
+    {
+        "query": "What is the importance of a human-centric approach in the concept of a Metaverse?",
+        "output": "The context provided does not contain specific information on the importance of a human-centric approach in the concept of a Metaverse."
+    },
+    {
+        "query": "What is the purpose of DSNet in video salient object detection for IoT and WoT applications?",
+        "output": "The text does not provide specific information on the purpose of DSNet in video salient object detection for IoT and WoT applications."
+    },
+    {
+        "query": "Who are the General Chairs for the Satellite Event Web Sci2023?",
+        "output": "The General Chairs for the Satellite Event Web Sci2023 are Prof. Dame Wendy Hall, Prof. Noshir Contractor, and Dr. Ágnes Horvát."
+    },
+    {
+        "query": "Who are the keynote speakers for Thursday, May 4 at the WWW2023 conference?",
+        "output": "The program does not provide specific information on the keynote speakers for Thursday, May 4 at the WWW2023 conference."
+    },
+    {
+        "query": "What is the abstract of the research titled 'Tangible Web: An Interactive Immersion Virtual Reality Creativity System that Travels Across Reality' at the ACM Web Conference 2023?",
+        "output": "The text does not provide information on the abstract of the research titled 'Tangible Web: An Interactive Immersion Virtual Reality Creativity System that Travels Across Reality' at the ACM Web Conference 2023."
+    },
+    {
+        "query": "What are the aspects of Web 3.0 and its implications on the internet?",
+        "output": "The text does not provide information on the aspects of Web 3.0 and its implications on the internet."
+    },
+    {
+        "query": "What is the main topic discussed in the paper titled 'On Modeling Long-Term User Engagement from Stochastic Feedback'?",
+        "output": "The text does not provide information on the main topic discussed in the paper titled 'On Modeling Long-Term User Engagement from Stochastic Feedback'."
+    },
+    {
+        "query": "Who are the organizers of the International Workshop on Digital Twins for Smart Health?",
+        "output": "The text does not provide information on who the organizers of the International Workshop on Digital Twins for Smart Health are."
+    },
+    {
+        "query": "What are the problems faced by commercial search engines as mentioned in 'Knowledge Graph-Enhanced Neural Query Rewriting'?",
+        "output": "I don't know."
+    },
+    {
+        "query": "Who are the organizers of the 13th Temporal Web Analytics Workshop (TempWeb)?",
+        "output": "The text does not provide information on who the organizers of the 13th Temporal Web Analytics Workshop (TempWeb) are."
+    },
+    {
+        "query": "Who are the authors of the paper 'Active Learning from the Web'?",
+        "output": "The text doesn't provide information on the authors of the paper 'Active Learning from the Web'."
+    },
+    {
+        "query": "Who are the authors of the paper titled 'Link Prediction with Attention Applied on Multiple Knowledge Graph Embedding Models'?",
+        "output": "The context doesn't provide information on the authors of the paper titled 'Link Prediction with Attention Applied on Multiple Knowledge Graph Embedding Models'."
+    },
+    {
+        "query": "How many Senior PC Members are there for the Web Sci2023 event?",
+        "output": "12"
+    },
+    {
+        "query": "What is the maximum support provided by the Travel Grant Program for WebSci'23?",
+        "output": "The maximum support provided by the Travel Grant Program for WebSci'23 is up to US$1000."
+    },
+    {
+        "query": "Who authored the paper titled 'Zero-shot Clarifying Question Generation for Conversational Search'?",
+        "output": "The context doesn't provide information on who authored the paper titled 'Zero-shot Clarifying Question Generation for Conversational Search'."
+    },
+    {
+        "query": "What is the title of the paper authored by Zhongjie Duan, Chengyu Wang, Cen Chen, Wenmeng Zhou, Jun Huang and Weining Qian?",
+        "output": "The context does not provide information on the title of the paper authored by Zhongjie Duan, Chengyu Wang, Cen Chen, Wenmeng Zhou, Jun Huang and Weining Qian."
+    },
+    {
+        "query": "What are the guidelines for workshop paper submissions in terms of formatting and length?",
+        "output": "The text doesn't provide specific guidelines for workshop paper submissions in terms of formatting and length."
+    },
+    {
+        "query": "What does the paper 'Claim Extraction and Dynamic Stance Detection in COVID-19 Tweets' propose to do?",
+        "output": "The text does not provide information on what the paper 'Claim Extraction and Dynamic Stance Detection in COVID-19 Tweets' proposes to do."
+    },
+    {
+        "query": "What is the main research focus of the 'Fairness, Accountability, Transparency and Ethics on the Web Track'?",
+        "output": "The main research focus of the 'Fairness, Accountability, Transparency and Ethics on the Web Track' is concerned with the fairness and equity, justice, inclusivity, transparency, accountability, and ethics of web infrastructure, systems, and ecosystems."
+    },
+    {
+        "query": "What was the approach of the study titled 'Cultural Differences in Signed Ego Networks on Twitter: An Investigatory Analysis'?",
+        "output": "The text does not provide information on the approach of the study titled 'Cultural Differences in Signed Ego Networks on Twitter: An Investigatory Analysis'."
+    },
+    {
+        "query": "Who authored the paper on 'Automated WebAssembly Function Purpose Identification With Semantics-Aware Analysis'?",
+        "output": "The text does not provide information on who authored the paper on 'Automated WebAssembly Function Purpose Identification With Semantics-Aware Analysis'."
+    },
+    {
+        "query": "What improvements were found in the study 'LLMs to the Moon? Reddit Market Sentiment Analysis with Large Language Models'?",
+        "output": "The text does not provide information on the improvements found in the study 'LLMs to the Moon? Reddit Market Sentiment Analysis with Large Language Models'."
+    },
+    {
+        "query": "What is FedEdge as proposed in the paper 'CausIL: Causal Graph for Instance Level Microservice Data'?",
+        "output": "The text provided does not provide information on what FedEdge is as proposed in the paper 'CausIL: Causal Graph for Instance Level Microservice Data'."
+    },
+    {
+        "query": "Who are the authors of the research named 'SA-Fusion: Multimodal Fusion Approach for Web-based Human-Computer Interaction in the Wild' at the ACM Web Conference 2023?",
+        "output": "The text does not provide information on the authors of the research named 'SA-Fusion: Multimodal Fusion Approach for Web-based Human-Computer Interaction in the Wild' at the ACM Web Conference 2023."
+    },
+    {
+        "query": "When is the submission deadline for Web Sci2023 conference?",
+        "output": "November 30, 2022"
+    },
+    {
+        "query": "What is the goal of the PLASMA Framework as per 'The PLASMA Framework: Laying the Path to Domain-Specific Semantics in Dataspaces' paper?",
+        "output": "The text does not provide information on the goal of the PLASMA Framework as per 'The PLASMA Framework: Laying the Path to Domain-Specific Semantics in Dataspaces' paper."
+    },
+    {
+        "query": "What is the primary contribution of the paper 'Personalized Graph Signal Processing for Collaborative Filtering'?",
+        "output": "The text does not provide information on the primary contribution of the paper 'Personalized Graph Signal Processing for Collaborative Filtering'."
+    },
+    {
+        "query": "What is the event timezone?",
+        "output": "The event timezone is 9:32 PM CDT."
+    },
+    {
+        "query": "How can Federated Learning be utilized in the metaverse, as suggested in the papers presented during the workshop?",
+        "output": "The text does not provide information on how Federated Learning can be utilized in the metaverse."
+    },
+    {
+        "query": "How can one get a Visa Letter for Web Sci2023?",
+        "output": "The text doesn't provide information on how to get a Visa Letter for Web Sci2023."
+    },
+    {
+        "query": "What is the work of Xinhang Li, Xiangyu Zhao, Jiaxing Xu, Yong Zhang, and Chunxiao Xing focusing on?",
+        "output": "The text does not provide information on the work of Xinhang Li, Xiangyu Zhao, Jiaxing Xu, Yong Zhang, and Chunxiao Xing."
+    },
+    {
+        "query": "What are the observed limitations of embedding-based methods in recommender systems as stated in the paper 'Adap-τ : Adaptively Modulating Embedding Magnitude for Recommendation'?",
+        "output": "The text provided does not give any information on the observed limitations of embedding-based methods in recommender systems as stated in the paper 'Adap-τ : Adaptively Modulating Embedding Magnitude for Recommendation'."
+    },
+    {
+        "query": "What is the area of research of the paper authored by Gustavo Penha, Enrico Palumbo, Maryam Aziz, Alice Wang and Hugues Bouchard?",
+        "output": "The text does not provide information on the area of research of the paper authored by Gustavo Penha, Enrico Palumbo, Maryam Aziz, Alice Wang and Hugues Bouchard."
+    },
+    {
+        "query": "What information should be provided in the workshop proposals for The Web Conference 2023?",
+        "output": "The text does not provide specific information on what should be included in the workshop proposals for The Web Conference 2023."
+    },
+    {
+        "query": "Who are the authors of the paper 'Geographic Information Retrieval Using Wikipedia Articles'?",
+        "output": "The text does not provide information on the authors of the paper 'Geographic Information Retrieval Using Wikipedia Articles'."
+    },
+    {
+        "query": "What is the workshop name of the workshop organized by Eva Blomqvist, María Poveda-Villalón, Raúl García-Castro, Pascal Hitzler?",
+        "output": "The text does not provide information on the workshop organized by Eva Blomqvist, María Poveda-Villalón, Raúl García-Castro, Pascal Hitzler."
+    },
+    {
+        "query": "What are the facilities for accommodation provided by the conference?",
+        "output": "The conference has provided room blocks at the AT&T Hotel and Conference Center and Hilton Garden Inn Austin University Capitol District. These rooms are offered at discounted rates for the attendees."
+    },
+    {
+        "query": "What is the aim of the study titled 'I’m out of breath from laughing! I think? A dataset of COVID-19 Humor and its toxic variants'?",
+        "output": "The text doesn't provide information on the aim of the study titled 'I’m out of breath from laughing! I think? A dataset of COVID-19 Humor and its toxic variants'."
+    },
+    {
+        "query": "What significant discoveries were made about using pretrained embeddings in e-commerce applications?",
+        "output": "The text does not provide information on any significant discoveries made about using pretrained embeddings in e-commerce applications."
+    },
+    {
+        "query": "At what given time in CDT does the event happen?",
+        "output": "The text does not provide information on what time in CDT the event happens."
+    },
+    {
+        "query": "What are the authors Daniele De Vinco, Alessia Antelmi, Gennaro Cordasco and Carmine Spagnuolo investigating in their paper 'The Age of Snippet Programming: Toward Understanding Developer Communities in Stack Overflow and Reddit'?",
+        "output": "The text does not provide information on what the authors Daniele De Vinco, Alessia Antelmi, Gennaro Cordasco and Carmine Spagnuolo are investigating in their paper 'The Age of Snippet Programming: Toward Understanding Developer Communities in Stack Overflow and Reddit'."
+    },
+    {
+        "query": "What is the website for the 1st Workshop on Federated Learning Technologies?",
+        "output": "The specific website for the 1st Workshop on Federated Learning Technologies is not provided in the given context. However, various URLs to different sessions of the workshop are given, all of which direct to the domain https://dl.acm.org/."
+    },
+    {
+        "query": "Is there a timezone associated with the program mentioned?",
+        "output": "Yes, the program agenda is displayed in the event timezone of 9:32 PM CDT."
+    },
+    {
+        "query": "What is the aim of the development of the universal model in 'Universal Model in Online Customer Service'?",
+        "output": "The text does not provide information on the aim of the development of the universal model in 'Universal Model in Online Customer Service'."
+    },
+    {
+        "query": "What is the role of the peer prediction mechanism in a crowdsourcing setting?",
+        "output": "The text does not provide information on the role of the peer prediction mechanism in a crowdsourcing setting."
+    },
+    {
+        "query": "What is the title of the paper by the authors Simona Corciulo, Livio Bioglio, Valerio Basile, Viviana Patti and Rossana Damiano in 2nd International Workshop on Multisensory Data and Knowledge (MDK)?",
+        "output": "The text does not provide information on the title of the paper by the authors Simona Corciulo, Livio Bioglio, Valerio Basile, Viviana Patti and Rossana Damiano in 2nd International Workshop on Multisensory Data and Knowledge (MDK)."
+    },
+    {
+        "query": "What is the paper 'Know Your Transactions: Real-time and Generic Transaction Semantic Representation on Blockchain & Web3 Ecosystem' about?",
+        "output": "I don't know."
+    },
+    {
+        "query": "What is the title of the paper authored by 'Jiazheng Zhang and Bang Wang'?",
+        "output": "The text does not provide information on the title of the paper authored by 'Jiazheng Zhang and Bang Wang'."
+    },
+    {
+        "query": "What is the final date for the conference material to be camera-ready?",
+        "output": "April 12, 2023"
+    },
+    {
+        "query": "Who authored the paper titled 'Migration Reframed? A multilingual analysis on the stance shift in Europe during the Ukrainian crisis'?",
+        "output": "The text doesn't provide information on who authored the paper titled 'Migration Reframed? A multilingual analysis on the stance shift in Europe during the Ukrainian crisis'."
+    },
+    {
+        "query": "What is the main focus of the work 'A Multi-view Meta-learning Approach for Multi-modal Response Generation' by Zhiliang Tian, Zheng Xie, Fuqiang Lin, Yiping Song?",
+        "output": "The text does not provide information on the main focus of the work 'A Multi-view Meta-learning Approach for Multi-modal Response Generation' by Zhiliang Tian, Zheng Xie, Fuqiang Lin, Yiping Song."
+    },
+    {
+        "query": "Where will both the WebConf2023 and WebSci'23 take place?",
+        "output": "Both the WebConf2023 and WebSci'23 will take place at the AT&T Hotel and Conference Center at The University of Texas at Austin, located at 1900 University Ave, Austin, TX 78705."
+    },
+    {
+        "query": "What is the function of the Decision Assistant developed in 'Social Re-Identification Assisted RTO Detection for E-Commerce'?",
+        "output": "The text does not provide information on the function of the Decision Assistant developed in 'Social Re-Identification Assisted RTO Detection for E-Commerce'."
+    },
+    {
+        "query": "What are the benefits of the WebSci free online tickets?",
+        "output": "The text does not provide information on the benefits of the WebSci free online tickets."
+    },
+    {
+        "query": "What are the key objectives in designing payment mechanisms in crowdsourcing contexts according to the research presented at the WWW2023 conference?",
+        "output": "The text does not provide information on the key objectives in designing payment mechanisms in crowdsourcing contexts according to the research presented at the WWW2023 conference."
+    },
+    {
+        "query": "How many papers were presented in Economics, Monetization, and Online Markets research track under the Program?",
+        "output": "4"
+    },
+    {
+        "query": "Why is there a need to improve Season-Aware Query-Product Semantic Similarity in product search for online shopping?",
+        "output": "The text does not provide information on why there is a need to improve Season-Aware Query-Product Semantic Similarity in product search for online shopping."
+    },
+    {
+        "query": "What approaches are welcomed by the Web Sci2023 conference?",
+        "output": "The text does not provide information on what approaches are welcomed by the Web Sci2023 conference."
+    },
+    {
+        "query": "How does cost-per-acquisition bidding impact the profit of bidders in online ad auctions according to the WWW2023 research?",
+        "output": "The context provided does not include information on how cost-per-acquisition bidding impacts the profit of bidders in online ad auctions according to the WWW2023 research."
+    },
+    {
+        "query": "Who are the authors of the paper titled 'Automatic Discovery of Emerging Browser Fingerprinting Techniques'?",
+        "output": "The provided context does not include information about the authors of the paper titled 'Automatic Discovery of Emerging Browser Fingerprinting Techniques'."
+    },
+    {
+        "query": "What is the main result of the research titled Autobidding Auctions in the Presence of User Costs presented at the WWW2023 conference?",
+        "output": "The text does not provide information on the main result of the research titled Autobidding Auctions in the Presence of User Costs presented at the WWW2023 conference."
+    },
+    {
+        "query": "What is the impact of context on bidding in repeated contextual first price auctions according to the study presented at WWW2023?",
+        "output": "The text does not provide information on the impact of context on bidding in repeated contextual first price auctions according to the study presented at WWW2023."
+    },
+    {
+        "query": "What could potentially be the subject matter of 'The Internet with Privacy Policies: Measuring The Web Upon Consent'?",
+        "output": "The text does not provide information on the subject matter of 'The Internet with Privacy Policies: Measuring The Web Upon Consent'."
+    },
+    {
+        "query": "What is the event program for Sunday April 30 at the WWW2023 conference?",
+        "output": "The event program for Sunday April 30 at the WWW2023 conference includes the following events: \"W4A\", \"Tutorials\", \"Knowledge Graph Day\", \"Entrepreneur Day\", \"Workshops\", \"WebSci\", \"Keynote: Bob Metcalfe\", and \"Provenance Week\"."
+    },
+    {
+        "query": "What is the title of the poster with number 75 at WWW2023?",
+        "output": "Lower Risks, Better Choices"
+    },
+    {
+        "query": "Who are the authors of the paper titled 'Robust Recommendation with Adversarial Gaussian Data Augmentation'?",
+        "output": "The text doesn't provide information on the authors of the paper titled 'Robust Recommendation with Adversarial Gaussian Data Augmentation'."
+    },
+    {
+        "query": "What is the process for organizing a workshop at The Web Conference 2023 and the support provided by the conference?",
+        "output": "The text does not provide information on the process for organizing a workshop at The Web Conference 2023 or the support provided by the conference."
+    },
+    {
+        "query": "What is the title of the paper authored by Lin Tian, Xiuzhen Zhang, and Jey Han Lau?",
+        "output": "The context does not provide information on a paper authored by Lin Tian, Xiuzhen Zhang, and Jey Han Lau."
+    },
+    {
+        "query": "What is the title of the paper authored by Omer Ben-Porat and Rotem Torkan?",
+        "output": "I don't know. The provided context does not include information about the authors of the papers."
+    },
+    {
+        "query": "What is the research about in the paper titled 'RICC: Robust Collective Classification of Sybil Accounts'?",
+        "output": "The text does not provide information on what the research is about in the paper titled 'RICC: Robust Collective Classification of Sybil Accounts'."
+    },
+    {
+        "query": "What is the concept explained in 'The First International Workshop on Semantics in Dataspaces' paper?",
+        "output": "The paper from 'The First International Workshop on Semantics in Dataspaces' explains the concept of using a Semantic Web approach to exchange Model/Data Cards as Linked Data or knowledge graphs in a dataspace, making them machine-readable. It discusses the basic concepts and proposes a schema for linking Data Cards and Model Cards within a dataspace. It introduces the concept of a dataspace card which can be a starting point for extracting knowledge about models and datasets in a dataspace, which helps in building trust and reuse of models and data among companies and individuals participating as publishers or consumers of these assets."
+    },
+    {
+        "query": "What was the key finding in the study titled 'Don’t Trust, Verify: The Case of Slashing from a Popular Ethereum Explorer'?",
+        "output": "I don't know."
+    },
+    {
+        "query": "Who are the authors of the paper 'Code Recommendation for Open Source Software Developers' presented at the ACM Web Conference 2023, and what are their main findings?",
+        "output": "I'm sorry, but the context provided does not include information on the authors of a paper titled 'Code Recommendation for Open Source Software Developers' presented at the ACM Web Conference 2023, or their main findings."
+    },
+    {
+        "query": "What is the main theme of the Web Sci2023 conference?",
+        "output": "The main theme of the Web Sci2023 conference is understanding the complex and multiple impacts of the Web on society and vice versa. The conference will incorporate various scientific approaches including quantitative, qualitative and mixed methods research. There is a special emphasis on \"Inequalities in the Face of Concurrent Crises\"."
+    },
+    {
+        "query": "Who authored the paper 'Towards Understanding Consumer Healthcare Questions on the Web with Semantically Enhanced Contrastive Learning'?",
+        "output": "The context does not provide information on who authored the paper 'Towards Understanding Consumer Healthcare Questions on the Web with Semantically Enhanced Contrastive Learning'."
+    },
+    {
+        "query": "What is the detailed program information regarding timezone?",
+        "output": "The detailed program is being displayed in the event timezone which is 9:32 PM CDT. For the Web Developer and W3C calls, the timezone is Anywhere on Earth (AoE)."
+    },
+    {
+        "query": "Who are the authors of the paper titled 'Online Bidding Algorithms for Return-on-Spend Constrained Advertisers'?",
+        "output": "The context doesn't provide information on the authors of the paper titled 'Online Bidding Algorithms for Return-on-Spend Constrained Advertisers'."
+    },
+    {
+        "query": "What is the title of the poster number 6 and who are the authors?",
+        "output": "The provided context does not include information on the title or authors of poster number 6 at WWW2023."
+    },
+    {
+        "query": "How many papers were accepted for the 'User Modeling and Personalization' Research Track in WWW2023",
+        "output": "The context does not provide enough information to determine the total number of papers accepted for the 'User Modeling and Personalization' Research Track in WWW2023."
+    },
+    {
+        "query": "What are the main features of the PLASMA Framework according to 'Towards a Semantic Approach for Linked Dataspace, Model and Data Cards' paper?",
+        "output": "The text does not provide information on the main features of the PLASMA Framework according to the 'Towards a Semantic Approach for Linked Dataspace, Model and Data Cards' paper."
+    },
+    {
+        "query": "What is the topic of the paper written by authors Allen Lin, Ziwei Zhu, Jianling Wang and James Caverlee?",
+        "output": "The context provided does not give information on the topic of the paper written by authors Allen Lin, Ziwei Zhu, Jianling Wang and James Caverlee."
+    },
+    {
+        "query": "What is the focus of the paper authored by Zhang, Feng, and Guruganesh?",
+        "output": "The text does not provide information on the focus of the paper authored by Zhang, Feng, and Guruganesh."
+    },
+    {
+        "query": "What are the names of the papers that Dongwon Lee co-authored?",
+        "output": "The text does not provide information on any papers co-authored by Dongwon Lee."
+    },
+    {
+        "query": "Who is the author of the poster titled 'GAT-DNS' and what's their affiliation?",
+        "output": "The text does not provide information on who is the author of the poster titled 'GAT-DNS' or their affiliation."
+    },
+    {
+        "query": "What is the affiliation of the author Alexander Brinkmann who presented a poster at WWW2023?",
+        "output": "The text does not provide information on the affiliation of the author Alexander Brinkmann who presented a poster at WWW2023."
+    },
+    {
+        "query": "What is the title of the paper that authors Liuyi Yao, Yaliang Li, Bolin Ding, Jingren Zhou, Jinduo Liu, Mengdi Huai and Jing Gao worked on?",
+        "output": "I don't know. The information provided doesn't include the authors of the papers."
+    },
+    {
+        "query": "What is the research topic discussed in the paper 'Interaction-level Membership Inference Attack Against Federated Recommender Systems' and who are its authors?",
+        "output": "The provided context does not contain information on a research paper titled 'Interaction-level Membership Inference Attack Against Federated Recommender Systems' or its authors."
+    },
+    {
+        "query": "How many papers are presented under the 'Systems and Infrastructure for Web, Mobile, and WoT' research track?",
+        "output": "8"
+    },
+    {
+        "query": "What is the title of the paper written by authors Sunjae Kim and Wonjun Lee for the 'Systems and Infrastructure for Web, Mobile, and WoT' research track?",
+        "output": "The provided context does not mention a paper authored by Sunjae Kim and Wonjun Lee for the 'Systems and Infrastructure for Web, Mobile, and WoT' research track."
+    },
+    {
+        "query": "Are there any papers presented by Ioannis Caragiannis in the Research Track: Economics, Monetization, and Online Markets?",
+        "output": "The information provided does not mention any papers presented by Ioannis Caragiannis in the Research Track: Economics, Monetization, and Online Markets."
+    },
+    {
+        "query": "Who is the speaker for the Turing Lecture at the Web Conference?",
+        "output": "Bob Metcalfe"
+    },
+    {
+        "query": "What is the last event scheduled for November 2022?",
+        "output": "Workshop notification"
+    },
+    {
+        "query": "Name one paper that includes 'Collaborative Filtering' in its title and provide its authors.",
+        "output": "I'm sorry, but the information provided does not include any papers with 'Collaborative Filtering' in their titles."
+    },
+    {
+        "query": "What is the main objective of the project 'Templet: A Collaborative System for Knowledge Graph Question Answering over Wikidata'?",
+        "output": "The text does not provide information on the main objective of the project 'Templet: A Collaborative System for Knowledge Graph Question Answering over Wikidata'."
+    },
+    {
+        "query": "What types of submissions are accepted for the W4A Conference and what are the submission formats?",
+        "output": "The W4A Conference is accepting submissions from those who have an accepted Technical or Communication Paper, are participating in the Accessibility Challenge, or the Doctoral Consortium. The submissions will be published in the ACM Digital Library. The submission format must adhere to the ACM template and format which includes Concepts and Keywords and use of the template in traditional double-column format. Word users can use the Word Interim Template, while latex users may use the sample-sigconf template, and overleaf users may use a specific ACM template available on Overleaf. Importantly, submissions for review must be in PDF format and be self-contained and written in English."
+    },
+    {
+        "query": "What contribution does the work  'Catch: Collaborative Feature Set Search for Automated Feature Engineering' by Guoshan Lu, Haobo Wang, Saisai Yang, Jing Yuan, Guozheng Yang, Cheng Zang, Gang Chen, and Junbo Zhao make to the field?",
+        "output": "The text does not provide information on the contribution of the work 'Catch: Collaborative Feature Set Search for Automated Feature Engineering' by Guoshan Lu, Haobo Wang, Saisai Yang, Jing Yuan, Guozheng Yang, Cheng Zang, Gang Chen, and Junbo Zhao to the field."
+    },
+    {
+        "query": "What is the name of the paper authored by Zhiying Wu, Jieli Liu, Jiajing Wu, Zibin Zheng, Xiapu Luo, and Ting Chen?",
+        "output": "The context does not provide information on the name of the paper authored by Zhiying Wu, Jieli Liu, Jiajing Wu, Zibin Zheng, Xiapu Luo, and Ting Chen."
+    },
+    {
+        "query": "When is the deadline for early bird registration?",
+        "output": "The deadline for early bird registration is March 15."
+    },
+    {
+        "query": "Who are the authors of the paper 'Towards Explainable Collaborative Filtering with Taste Clusters Learning'?",
+        "output": "The context does not provide information on the authors of the paper 'Towards Explainable Collaborative Filtering with Taste Clusters Learning'."
+    },
+    {
+        "query": "What is the main idea of the paper titled 'Identifying Creative Harmful Memes via Prompt based Approach' presented in the 'The Creative Web' session at the ACM Web Conference 2023?",
+        "output": "The main idea of the paper 'Identifying Creative Harmful Memes via Prompt based Approach' is introducing a new approach to identify harmful memes on the Internet. Traditional methods of meme analysis suffer from data deficiency and a semantic gap using conventional pretrained encoders, leading to low effectiveness. To address these issues, the paper presents a prompt-based method which transforms multimodal data into a single, textual modality by generating captions and attributes of the visual data. This method then uses the textual data in a prompt-based pre-trained language model. The paper reports that experimental results show this method outperforming other state-of-the-art methods in the identification of harmful memes."
+    },
+    {
+        "query": "What is the purpose of the Test of Time Award Committee?",
+        "output": "The text does not provide information on the purpose of the Test of Time Award Committee."
+    },
+    {
+        "query": "What is the title of the paper that Kate Donahue and Jon Kleinberg authored?",
+        "output": "The information provided does not include any details about a paper authored by Kate Donahue and Jon Kleinberg."
+    },
+    {
+        "query": "Are there any artifacts presented in WWW2023, if yes, can you name one?",
+        "output": "The context doesn't provide information on any artifacts presented in WWW2023."
+    },
+    {
+        "query": "What is the primary area of research interest for Vanessa Braganholo?",
+        "output": "The text does not provide information on the primary area of research interest for Vanessa Braganholo."
+    },
+    {
+        "query": "What are the expected behaviors for participants according to the ACM Policy?",
+        "output": "The expected behaviors for participants according to the ACM Policy include adhering to the ACM Code of Ethics and ACM Policy Against Harassment. The participants should not engage in any form of sexual harassment, racism, homophobia, and any other discriminatory behavior. They are also not allowed to exhibit abusive actions directed at an individual, such as threats, intimidation, or bullying. If a participant is involved in or witnesses any such incident, they are required to inform the event organizers. Additionally, if the participants are co-authors of a publication, they are required to obtain an ORCID ID to complete the publishing process for their accepted paper."
+    },
+    {
+        "query": "What is the location of the 'Special Day: Entrepreneur Day'?",
+        "output": "The text does not provide information on the location of the 'Special Day: Entrepreneur Day'."
+    },
+    {
+        "query": "What are the names of the authors of the paper titled 'A Deep Behavior Path Matching Network for Click-Through Rate Prediction'?",
+        "output": "The context does not provide information on the authors of the paper titled 'A Deep Behavior Path Matching Network for Click-Through Rate Prediction'."
+    },
+    {
+        "query": "What is the URL of the paper titled 'Provenance for Lattice QCD workflows'?",
+        "output": "The information provided does not include a paper titled 'Provenance for Lattice QCD workflows'."
+    },
+    {
+        "query": "Who are the authors of the paper 'A Method to Assess and Explain Disparate Impact in Online Retailing'?",
+        "output": "The context does not provide information on the authors of the paper 'A Method to Assess and Explain Disparate Impact in Online Retailing'."
+    },
+    {
+        "query": "What is the last deadline for submitting papers for ProvenanceWeek2023?",
+        "output": "The text does not provide information on the last deadline for submitting papers for ProvenanceWeek2023."
+    },
+    {
+        "query": "When does the WWW2023 conference start and end?",
+        "output": "The WWW2023 conference starts on April 30, 2023, and ends on May 4, 2023."
+    },
+    {
+        "query": "What is the paper written by authors Klaus-Tycho Foerster, Thibault Marette, Stefan Neumann, Claudia Plant, Ylli Sadikaj, Stefan Schmid and Yllka Velaj about?",
+        "output": "The text does not provide information on what the paper written by authors Klaus-Tycho Foerster, Thibault Marette, Stefan Neumann, Claudia Plant, Ylli Sadikaj, Stefan Schmid and Yllka Velaj is about."
+    },
+    {
+        "query": "How does the 'Regime-based Implied Stochastic Volatility Model for Crypto Option Pricing' contribute to the field of digital asset options?",
+        "output": "The text does not provide information on how the 'Regime-based Implied Stochastic Volatility Model for Crypto Option Pricing' contributes to the field of digital asset options."
+    },
+    {
+        "query": "What is the primary focus subject of Keynote Vanessa Braganholo at ProvenanceWeek2023?",
+        "output": "The text does not provide information on the primary focus subject of Keynote Vanessa Braganholo at ProvenanceWeek2023."
+    },
+    {
+        "query": "What are the events at AT&T Hotel and Conference Center - Classroom #108 on Sun Apr 30?",
+        "output": "The text does not provide information on what events are happening at AT&T Hotel and Conference Center - Classroom #108 on Sun Apr 30."
+    },
+    {
+        "query": "What time does the Registration/Information Desk open on May 2nd?",
+        "output": "The text does not provide information on what time the Registration/Information Desk opens on May 2nd."
+    },
+    {
+        "query": "Who are the authors of the paper titled 'ProSA: A provenance system for reproducing query results'?",
+        "output": "The text doesn't provide information on the authors of the paper titled 'ProSA: A provenance system for reproducing query results'."
+    },
+    {
+        "query": "Who are the authors of the paper titled 'Integrated Ranking for News Feed with Reinforcement Learning'?",
+        "output": "The text provided does not contain information about the authors of the paper titled 'Integrated Ranking for News Feed with Reinforcement Learning'."
+    },
+    {
+        "query": "What are the different events on Tuesday May 2 on the WWW2023 conference?",
+        "output": "The different events on Tuesday May 2 on the WWW2023 conference are:\n\n1. Poster and Demo\n2. Research Track\n3. Special Track\n4. Keynote: Barbara Poblete\n5. Industry\n6. Web Developer and W3C\n7. Sponsor Table Top Booths\n8. Breakfast\n9. Semantics and Knowledge 1: Structures and Taxonomies\n10. Presented Remotely: Industry 1: e-commerce and Click-Through Rate Prediction( Session Chair: Khushhall Chandra Mahajan, Meta)\n11. Registration/Information Desk"
+    },
+    {
+        "query": "Who is the Chair and Co-Chair for the ProvenanceWeek2023 event?",
+        "output": "The Chair for the ProvenanceWeek2023 event is Yuval Moskovich and the Co-Chair is Daniel Deutch."
+    },
+    {
+        "query": "What is the abstract of the paper titled 'Hybrid Query and Instance Explanations and Repairs'?",
+        "output": "I don't know. The provided context does not give any information on the abstract of the paper titled 'Hybrid Query and Instance Explanations and Repairs'."
+    },
+    {
+        "query": "Who are the programme committee chair of the Web Science Conference 2023?",
+        "output": "The program committee chairs of the Web Science Conference 2023 are Dr. Ingmar Weber, Dr. Katya Ognyanova, and Dr. Harsh Taneja."
+    },
+    {
+        "query": "What is the rationale behind organizing the 1st Workshop on Federated Learning Technologies at ACM Web Conference 2023?",
+        "output": "The rationale behind organizing the 1st Workshop on Federated Learning Technologies at ACM Web Conference 2023 is the increasing importance of AI-based systems and machine learning technologies in modern societies and the accompanying privacy issues these technologies pose. The workshop is proposed in light of the growing reluctance of users to share their sensitive data, the legal regulations in place for handling private data, and the emergence of Federated Learning as a solution to develop better AI systems without compromising users' privacy. This field, although still in its infancy, has shown significant results, making it one of the hot topics in the machine learning community. The proposed workshop aims to explore the considerable potential of Federated Learning Technologies in overcoming the challenges of protecting users' privacy while making the most of the available data."
+    },
+    {
+        "query": "What is the title of the paper written by 'Cheng Li, Yaping Qi, Hayk Zakaryan, Mingyang Zhang, Michael Bendersky, Yonghua Wu and Marc Najork'?",
+        "output": "The context does not provide information on a paper written by 'Cheng Li, Yaping Qi, Hayk Zakaryan, Mingyang Zhang, Michael Bendersky, Yonghua Wu and Marc Najork'."
+    },
+    {
+        "query": "In which session of the ACM Web Conference 2023 was the research paper 'Tutorials at The Web Conference 2023' presented?",
+        "output": "The context does not provide information on the session of the ACM Web Conference 2023 where the research paper 'Tutorials at The Web Conference 2023' was presented."
+    },
+    {
+        "query": "What is the subject of the first subsession in the History of the Web track on May 2nd?",
+        "output": "The subject of the first subsession in the History of the Web track on May 2nd is \"Caught in the Game: On the History and Evolution of Web Browser Gaming.\""
+    },
+    {
+        "query": "What are the accepted papers under the 'Crowdsourcing and Human Computation' research track in WWW2023?",
+        "output": "The context does not provide specific titles of accepted papers under the 'Crowdsourcing and Human Computation' research track in WWW2023. It only lists names of some authors who have papers accepted in that track."
+    },
+    {
+        "query": "What is Web Science?",
+        "output": "Web Science is an interdisciplinary field dedicated to understanding the complex and multiple impacts of the Web on society and vice versa. The discipline addresses pressing issues of our time by incorporating various scientific approaches, including quantitative, qualitative and mixed methods research. It incorporates techniques from the social sciences and computer science and is interested in work exploring Web-based data collection and research ethics. The field also encourages studies that combine analyses of Web data and other types of data, such as surveys or interviews, to better understand user behaviour online and offline."
+    },
+    {
+        "query": "What is the content summary of the research paper 'Tutorials at The Web Conference 2023'?",
+        "output": "The text does not provide information on the content summary of the research paper 'Tutorials at The Web Conference 2023'."
+    },
+    {
+        "query": "Who are the panelists for The Future of Web Science Panel?",
+        "output": "The text does not provide information on who the panelists for The Future of Web Science Panel are."
+    },
+    {
+        "query": "Who authored the paper titled 'Transferring Audio Deepfake Detection Capability across Languages'?",
+        "output": "The text does not provide information on who authored the paper titled 'Transferring Audio Deepfake Detection Capability across Languages'."
+    },
+    {
+        "query": "What is the main objective of the 11th International Workshop on Natural Language Processing for Social Media?",
+        "output": "The main objective of the 11th International Workshop on Natural Language Processing for Social Media (SocialNLP 2023) is to explore the inter-disciplinary area of natural language processing (NLP) and social computing. It focuses on three directions: addressing issues in social computing using NLP techniques; solving NLP problems using information from social networks or social media; and handling new problems related to both social computing and natural language processing."
+    },
+    {
+        "query": "When is the deadline for the research track full papers submission?",
+        "output": "The text does not provide information on the deadline for the research track full papers submission."
+    },
+    {
+        "query": "How many papers were accepted for the Industry Track at WWW2023?",
+        "output": "The text does not provide information on the total number of papers accepted for the Industry Track at WWW2023."
+    },
+    {
+        "query": "What is the title of the paper by Fuyuan Lyu, Xing Tang, Dugang Liu, Liang Chen, Xiuqiang He and Xue Liu?",
+        "output": "The text does not provide information on the title of the paper by Fuyuan Lyu, Xing Tang, Dugang Liu, Liang Chen, Xiuqiang He and Xue Liu."
+    },
+    {
+        "query": "What is the location for the PhD Symposium event?",
+        "output": "The location for the PhD Symposium event is Austin, TX, US."
+    },
+    {
+        "query": "What are the timings for the 'Satelite Event: Provenance Week'?",
+        "output": "The text doesn't provide specific timing details for the 'Satellite Event: Provenance Week'."
+    },
+    {
+        "query": "Which authors have written the paper titled 'Are Mobile Advertisements in Compliance with App's Age Group?' for the 'Systems and Infrastructure for Web, Mobile, and WoT' research track?",
+        "output": "The context does not provide information on who the authors of the paper titled 'Are Mobile Advertisements in Compliance with App's Age Group?' for the 'Systems and Infrastructure for Web, Mobile, and WoT' research track are."
+    },
+    {
+        "query": "What could be the focus of the research paper titled 'Efficient and Low Overhead Website Fingerprinting Attacks and Defenses based on TCP/IP Traffic'?",
+        "output": "The research paper titled 'Efficient and Low Overhead Website Fingerprinting Attacks and Defenses based on TCP/IP Traffic' could likely focus on developing or improving methods of attacking and defending against website fingerprinting techniques that utilize TCP/IP traffic patterns, with an emphasis on approaches that are effective but not resource-intensive."
+    },
+    {
+        "query": "What insights did the research paper titled 'Towards Automated Detection of Risky Images Shared by Youth on Social Media' provide?",
+        "output": "The text does not provide information on the insights the research paper titled 'Towards Automated Detection of Risky Images Shared by Youth on Social Media' provided."
+    },
+    {
+        "query": "Who are the authors of the paper 'ELASTIC: Edge Workload Forecasting based on Collaborative Cloud-Edge Deep Learning' presented under the 'Systems and Infrastructure for Web, Mobile, and WoT' research track?",
+        "output": "The text does not provide information on the authors of the paper 'ELASTIC: Edge Workload Forecasting based on Collaborative Cloud-Edge Deep Learning' presented under the 'Systems and Infrastructure for Web, Mobile, and WoT' research track."
+    },
+    {
+        "query": "Who is delivering the Turing Award Lecture at the ACM Web Conference and which event is held in his honor?",
+        "output": "Bob Metcalfe is delivering the Turing Award Lecture at the ACM Web Conference and the event held in his honor is the \"ACM A.M. Turing Award Lecture by Bob Metcalfe\"."
+    },
+    {
+        "query": "What topics will be covered in the Fairness and Bias paper session?",
+        "output": "The topics that will be covered in the Fairness and Bias paper session are:\n\n1. The Impact of Data Persistence Bias on Social Media Studies.\n2. Qbias – A Dataset on Media Bias in Search Queries and Query Suggestions.\n3. Monitoring Gender Gaps via Linkedin Advertising Estimates: the case study of Italy.\n4. Tracking Machine Learning Bias Creep in Traditional and Online Lending Systems with Covariance Analysis.\n5. Diversity matters: Robustness of bias measurements in Wikidata.\n6. Fair Link Prediction with Multi-Armed Bandit Algorithms."
+    },
+    {
+        "query": "What special event is being organised at the WWW2023 conference on Wednesday May 3?",
+        "output": "Several special events are being organised at the WWW2023 conference on Wednesday May 3, including a Poster and Demo session, a Research Track, a Special Track, a Keynote by Zachary Elkins, a Web Developer and W3C session, an Industry session, a Conference Party at Stubbs, Security 3: Applications of cryptography and AI, BBQ and Concert at Stubbs BBQ, economics panel on Auction Design, an industry panel on Recommender Systems, a Web4Good: Health session, and Sponsor Table Top Booths."
+    },
+    {
+        "query": "What is the relevance of 'Human-centered explainability' in the context of the 'Crowdsourcing and Human Computation Track' and which related conference track is also mentioned?",
+        "output": "In the context of the 'Crowdsourcing and Human Computation Track', 'Human-centered explainability' is relevant as it addresses the need for algorithmic/model explanations, interpretability, and transparency to enhance human success in using AI in decision-making, model and data debugging, task performance, trust in AI systems, and appropriate reliance. The related conference track that is also mentioned is the “Fairness, Accountability, Transparency, and Ethics” track."
+    },
+    {
+        "query": "Who is the speaker for Keynote Presentation on Understanding and Reducing Online Misinformation?",
+        "output": "The information provided does not specify who the speaker for the Keynote Presentation on Understanding and Reducing Online Misinformation is."
+    },
+    {
+        "query": "What is the event scheduled at 9:00 AM – 10:30 AM in AT&T Hotel and Conference Center- Classroom #101?",
+        "output": "The text does not provide information on what event is scheduled at 9:00 AM – 10:30 AM in AT&T Hotel and Conference Center- Classroom #101."
+    },
+    {
+        "query": "What is the topic of the tutorial happening in AT&T Hotel and Conference Center Classroom #108, 1:30 PM – 3:00 PM?",
+        "output": "The text does not provide information about the topic of the tutorial happening in AT&T Hotel and Conference Center Classroom #108, 1:30 PM – 3:00 PM."
+    },
+    {
+        "query": "Who is the keynote speaker for WWW2023 on May 2nd?",
+        "output": "The context does not provide information on who the keynote speaker for WWW2023 on May 2nd is."
+    },
+    {
+        "query": "What is the URL for the research paper 'Tutorials at The Web Conference 2023'?",
+        "output": "The context does not provide a URL for the research paper 'Tutorials at The Web Conference 2023'."
+    },
+    {
+        "query": "What are the key dates for Workshop Organizers for the Web Conference 2023?",
+        "output": "The key dates for Workshop Organizers for the Web Conference 2023 are as follows:\n\n1. Proposal submission deadline: November 7, 2022\n2. Workshop notification: November 28, 2022\n3. Workshop paper submission deadline: February 6, 2023\n4. Workshops will take place from April 30 to May 4, 2023.\n\nAll submission deadlines are end-of-day in the Anywhere on Earth (AoE) time zone."
+    },
+    {
+        "query": "What are some of the topics covered in the accepted papers of the Research Track?",
+        "output": "Some of the topics covered in the accepted papers of the Research Track include reinforcement learning for recommender systems, adversarial training for deep hashing-based retrieval, learning to rank resources with Graph Neural Network (GNN), a model for passage-level reading behavior in mobile search, progressive distillation for dense retrieval, weakly supervised text classification in continual learning, efficient top-N search in Hamming space with bipartite graph convolutional hashing, text-video retrieval, click-through rate prediction, forecasting long-term workloads of microservices, and detecting socially abnormal highway driving behaviors via recurrent graph attention networks."
+    },
+    {
+        "query": "What was the main theme of the 2nd International Cryptoasset Analytics Workshop at the ACM Web Conference 2023?",
+        "output": "The main theme of the 2nd International Cryptoasset Analytics Workshop at the ACM Web Conference 2023 was to allow researchers from different disciplines to present their newest findings related to cryptoassets. The workshop aimed at integrating fundamental concepts of cryptoassets with Web technologies and understanding the formation of socio-technical cryptoasset ecosystems. The program featured a mix of invited talks and a selection of peer-reviewed submissions on a range of topics, from empirical studies and analytics methods/tools to case studies, datasets, legal and ethical aspects."
+    },
+    {
+        "query": "What are the ACM Policies for the article submission to the conference?",
+        "output": "The ACM Policies for article submission to the conference include the following: All accepted papers will be published by ACM. Authors are required to obtain an ORCID ID to complete the publishing process, as ACM is committed to collect ORCID IDs from all authors as a part of their effort to improve author discoverability and ensure proper attribution. Authors are subject to all ACM Publications Policies, including the ACM’s new Publications Policy on Research Involving Human Participants and Subjects. Any violations of ACM Publications Policy may result in a full retraction of the paper, in addition to other potential penalties. For formatting the submissions, authors should use the ACM double-column SIG Conference Proceedings template, with specific templates available for Overleaf, Latex, and Microsoft Word users."
+    },
+    {
+        "query": "Who is Dhiraj Murthy and when is the Dhiraj Murthy Keynote?",
+        "output": "Dhiraj Murthy is a Professor of Journalism and Media Studies at the Moody College of Communication, and holds courtesy titles in Sociology and in the School of Information. He completed his Ph.D. in Sociology from the University of Cambridge. His research delves into various fields like social media, digital research methods, race/ethnicity, qualitative/mixed methods, big data quantitative analysis, diversity and community inclusion, and virtual organizations. Prof. Murthy has authored over 80 publications and wrote the first scholarly book about Twitter. He is the founder and director of the Computational Media Lab at UT Austin and serves as the co-editor of the journal Big Data & Society. He has chaired numerous international social media conferences and serves on the advisory board of MediaWell, an initiative by the SSRC. However, the text doesn't provide information on when the Dhiraj Murthy's keynote is scheduled."
+    },
+    {
+        "query": "What is the title of the paper presented at the ACM Web Conference 2023?",
+        "output": "There are multiple papers presented at the ACM Web Conference 2023, including:\n\n1. \"Automated Content Moderation Increases Adherence to Community Guidelines\"\n2. \"Cashing in on Contacts: Characterizing the OnlyFans Ecosystem\"\n3. \"Learning Social Meta-knowledge for Nowcasting Human Mobility in Disaster\"\n4. \"Large-Scale Analysis of New Employee Network Dynamics\"\n5. \"Reinforcement Learning-based Counter-Misinformation Response Generation: A Case Study of COVID-19 Vaccine Misinformation\"\n6. \"Concept Regulation in the Social Sciences\"\n7. \"The Thin Ideology of Populist Advertising on Facebook during the 2019 EU Elections\"\n8. \"Who Funds Misinformation? A Systematic Analysis of the Ad-related Profit Routines of Fake News Sites\"\n9. \"Mental Health Coping Stories on Social Media: A Causal-Inference Study of Papageno Effect\"\n10. \"Longitudinal Assessment of Reference Quality on Wikipedia\""
+    },
+    {
+        "query": "How many tutorials have been accepted for the WWW2023 program?",
+        "output": "12"
+    },
+    {
+        "query": "What is the abstract of the paper titled 'Implementing an Environmental Management System Using Provenance-By-Design'?",
+        "output": "I don't know."
+    },
+    {
+        "query": "What registration fees apply for ACM Members for the full conference and when are the deadlines for early bird and standard?",
+        "output": "I don't know."
+    },
+    {
+        "query": "What type of music does the band Money Chicha play?",
+        "output": "The text does not provide information on what type of music the band Money Chicha plays."
+    },
+    {
+        "query": "At what time does the event 'BBQ and Live Music' end?",
+        "output": "The event 'BBQ and Live Music' ends at 10:00pm."
+    },
+    {
+        "query": "What is the topic of the first session in the Industry track and who is the Session Chair?",
+        "output": "The text does not provide information on the topic of the first session in the Industry track or who the Session Chair is."
+    },
+    {
+        "query": "Who are the authors of the paper 'NASA Science Mission Directorate Knowledge Graph Discovery'?",
+        "output": "The text does not provide information on the authors of the paper 'NASA Science Mission Directorate Knowledge Graph Discovery'."
+    },
+    {
+        "query": "What is the website link for the tutorial 'Never-Ending Learning, Lifelong Learning and Continual Learning in the Era of Large Pre-Trained Language Models'?",
+        "output": "I don't know."
+    },
+    {
+        "query": "What is the location of the event 'BBQ and Live Music'?",
+        "output": "The location of the event 'BBQ and Live Music' is Stubbs BBQ."
+    },
+    {
+        "query": "What benefits are discussed in the work 'Graph Embedding for Mapping Interdisciplinary Research Networks' by Eoghan Cunningham and Derek Green?",
+        "output": "The text does not provide information on the work 'Graph Embedding for Mapping Interdisciplinary Research Networks' by Eoghan Cunningham and Derek Green."
+    },
+    {
+        "query": "In the 'Search 3 and Web Mining: Search and Retrieval' session, what is the topic of the subsession starting at 1:50 PM?",
+        "output": "The text does not provide information on the topic of the subsession starting at 1:50 PM in the 'Search 3 and Web Mining: Search and Retrieval' session."
+    },
+    {
+        "query": "What is the issue investigated in the 'Ready, Aim, Snipe! Analysis of Sniper Bots and their Impact on the DeFi Ecosystem' study?",
+        "output": "The text does not provide information on the issue investigated in the 'Ready, Aim, Snipe! Analysis of Sniper Bots and their Impact on the DeFi Ecosystem' study."
+    },
+    {
+        "query": "On 'Thu May 04', how many subsessions of 'Security 4: Blockchains and distributed ledgers' session are scheduled?",
+        "output": "The text doesn't provide information on how many subsessions of 'Security 4: Blockchains and distributed ledgers' session are scheduled on 'Thu May 04'."
+    },
+    {
+        "query": "What are the events happening at the 'Zlotnik Ballroom Foyer' on 'Wed May 03'?",
+        "output": "The text does not provide information on any events happening at the 'Zlotnik Ballroom Foyer' on 'Wed May 03'."
+    },
+    {
+        "query": "Who are the PhD Symposium Chairs for the Web Conference 2023, and what are their affiliations?",
+        "output": "I don't know."
+    },
+    {
+        "query": "Who are the authors of the paper titled 'Sedition Hunters: A Quantitative Study of the Crowdsourced Investigation into the 2021 U.S. Capitol Attack'?",
+        "output": "The context doesn't provide information on the authors of the paper titled 'Sedition Hunters: A Quantitative Study of the Crowdsourced Investigation into the 2021 U.S. Capitol Attack'."
+    },
+    {
+        "query": "What is the given video link for the tutorial 'Mining of Real-world Hypergraphs: Patterns, Tools, and Generators'?",
+        "output": "The text does not provide information on the video link for the tutorial 'Mining of Real-world Hypergraphs: Patterns, Tools, and Generators'."
+    },
+    {
+        "query": "Is there a provided video for the tutorial 'Model Monitoring in Practice: Lessons Learned and Open Challenges'?",
+        "output": "The text does not provide information on whether there is a video for the tutorial 'Model Monitoring in Practice: Lessons Learned and Open Challenges'."
+    },
+    {
+        "query": "What are the different tracks for the events on Sun Apr 30?",
+        "output": "The different tracks for the events on Sun Apr 30 are Workshop, Special Day, unknown, Tutorial, Special Event, and Satellite Event."
+    },
+    {
+        "query": "What are the subsessions under the 'Economics 1: Auction Design' event on 'Wed May 03'?",
+        "output": "The text doesn't provide information on the subsessions under the 'Economics 1: Auction Design' event on 'Wed May 03'."
+    },
+    {
+        "query": "Who will be delivering the ACM A.M. Turing Award Lecture at The ACM Web Conference in 2023?",
+        "output": "Bob Metcalfe"
+    },
+    {
+        "query": "What is the main theme of Bob Metcalfe's Turing Award Lecture?",
+        "output": "The main theme of Bob Metcalfe's Turing Award Lecture is the evolution and impact of connectivity, particularly focusing on the history and development of the Internet and Ethernet."
+    },
+    {
+        "query": "What is the time and description for the Keynote Presentation on 'Wed May 03'?",
+        "output": "The text doesn't provide information on the time and description for the Keynote Presentation on 'Wed May 03'."
+    },
+    {
+        "query": "Who are responsible for the Communication aspect of the Web Conference 2023, and where are they from?",
+        "output": "The text does not provide specific information on who is responsible for the Communication aspect of the Web Conference 2023, or where they are from."
+    },
+    {
+        "query": "What is the title of the research conducted by Bartal Eydfinsson Veyhe and his teammates in the Workshop: 3rd International Workshop on Scientific Knowledge Representation, Discovery, and Assessment (Sci-K 2023)?",
+        "output": "The text does not provide information on the title of the research conducted by Bartal Eydfinsson Veyhe and his teammates in the Workshop: 3rd International Workshop on Scientific Knowledge Representation, Discovery, and Assessment (Sci-K 2023)."
+    },
+    {
+        "query": "Who are the organizers of the tutorial 'Invisible Markup'?",
+        "output": "The text does not provide information on who the organizers of the tutorial 'Invisible Markup' are."
+    },
+    {
+        "query": "What are the significant updates for the 2023 ACM Web Conference?",
+        "output": "The text does not provide information on the significant updates for the 2023 ACM Web Conference."
+    },
+    {
+        "query": "Who is one of the authors who published a paper on 'Hidden Indicators of Collective Intelligence in Crowdfunding' under the 'Research Tracks' in WWW2023?",
+        "output": "The text does not provide information on who published a paper on 'Hidden Indicators of Collective Intelligence in Crowdfunding' under the 'Research Tracks' in WWW2023."
+    },
+    {
+        "query": "What are the papers authored by Vincent Conitzer?",
+        "output": "The text does not provide information on any papers authored by Vincent Conitzer."
+    },
+    {
+        "query": "Who are the authors of the research paper 'Tutorials at The Web Conference 2023'?",
+        "output": "The provided context does not include information on the authors of the research paper 'Tutorials at The Web Conference 2023'."
+    },
+    {
+        "query": "What is the process of reviewing the submitted papers?",
+        "output": "The text does not provide information on the process of reviewing the submitted papers."
+    },
+    {
+        "query": "What development has been mentioned in the paper 'Application of an ontology for model cards to generate computable artifacts for linking machine learning information from biomedical research'?",
+        "output": "The text does not provide information on the development mentioned in the paper 'Application of an ontology for model cards to generate computable artifacts for linking machine learning information from biomedical research'."
+    },
+    {
+        "query": "When is the registration desk available on May 01?",
+        "output": "The text does not provide information on when the registration desk is available on May 01."
+    },
+    {
+        "query": "What are the three key themes of research related to scientific knowledge addressed in 3rd International Workshop on Scientific Knowledge Representation, Discovery, and Assessment (Sci-K 2023)?",
+        "output": "The three key themes of research related to scientific knowledge addressed in the 3rd International Workshop on Scientific Knowledge Representation, Discovery, and Assessment (Sci-K 2023) are representation, discovery, and assessment."
+    },
+    {
+        "query": "What is the event scheduled at 'AT&T Hotel and Conference Center Classroom #115' at '3:30 PM – 5:00 PM' under the 'Creative Web' track on 'Wed May 03'?",
+        "output": "The provided context does not contain information about an event scheduled at 'AT&T Hotel and Conference Center Classroom #115' at '3:30 PM – 5:00 PM' under the 'Creative Web' track on 'Wed May 03'."
+    },
+    {
+        "query": "What are the formatting guidelines for the submissions?",
+        "output": "The text does not provide information on the formatting guidelines for the submissions."
+    },
+    {
+        "query": "Who are the authors of the paper titled 'Combining Worker Factors for Heterogeneous Crowd Task Assignment'?",
+        "output": "The context does not provide information on the authors of the paper titled 'Combining Worker Factors for Heterogeneous Crowd Task Assignment'."
+    },
+    {
+        "query": "What are the important dates for the Web Science Conference 2023?",
+        "output": "The important dates for the Web Science Conference 2023 are:\n\n- Submission deadline: November 30, 2022\n- Notification date: January 31, 2023\n- Camera-ready versions due: February 28, 2023\n- Conference dates: April 30 – May 1, 2023"
+    },
+    {
+        "query": "What are the main areas of interest mentioned under the Call for Papers for ProvenanceWeek2023?",
+        "output": "The text does not provide information on the main areas of interest mentioned under the Call for Papers for ProvenanceWeek2023."
+    },
+    {
+        "query": "What is the last subsession topic under the 'Security 4: Blockchains and distributed ledgers' session?",
+        "output": "The text doesn't provide information on the last subsession topic under the 'Security 4: Blockchains and distributed ledgers' session."
+    },
+    {
+        "query": "What are the tax evasion opportunities for decentralized finance enterprises as discussed in the paper 'An Exploration on Cryptocurrency Corporations’ Fiscal Opportunities'?",
+        "output": "The text does not provide information on the tax evasion opportunities for decentralized finance enterprises as discussed in the paper 'An Exploration on Cryptocurrency Corporations’ Fiscal Opportunities'."
+    },
+    {
+        "query": "What is the main emphasis of the Web Science Conference 2023?",
+        "output": "The main emphasis of the Web Science Conference 2023 is \"Inequalities in the Face of Concurrent Crises\"."
+    },
+    {
+        "query": "Who are the General Chairs for the Web Conference 2023, and what are their affiliations?",
+        "output": "The General Chairs for the Web Conference 2023 are:\n\n1. General Chairs_1, who is affiliated with the University of Southampton.\n2. General Chairs_2, who is affiliated with Northwestern University.\n3. Dr. Ágnes Horvát (General Chairs_3), who is also affiliated with Northwestern University."
+    },
+    {
+        "query": "What are the important dates for the Web Conference 2023?",
+        "output": "The conference dates for the Web Conference 2023 are from Sunday, April 30 to Monday, May 1, 2023. The submission date for this conference is November 30, 2022."
+    },
+    {
+        "query": "What is the first event on May 2nd in the Creative Web sessions and who is presenting it?",
+        "output": "The information provided does not specify the events for May 2nd in the Creative Web sessions or who is presenting them."
+    },
+    {
+        "query": "Where will the session on 'UMAP 7: Privacy Preserving Recommendation, Contrastive Learning & Web Accessibility' be conducted?",
+        "output": "The text does not provide information on where the session on 'UMAP 7: Privacy Preserving Recommendation, Contrastive Learning & Web Accessibility' will be conducted."
+    },
+    {
+        "query": "What criteria are used to evaluate the applicants for the Zhipu Student Travel Awards for the 2023 ACM The Web Conference?",
+        "output": "The applicants for the Zhipu Student Travel Awards for the 2023 ACM The Web Conference must be students, including undergraduate, graduate, and PhD candidates. Preference will be given to applicants who are presenting papers or posters at the conference. For co-authored papers, only the first author is eligible to apply for the award unless they are unable to attend the conference."
+    },
+    {
+        "query": "Is the program happening in a different timezone?",
+        "output": "Yes, the program is happening in the event timezone (CDT) and the call for web developers is open to anywhere on Earth (AoE)."
+    },
+    {
+        "query": "What are the events scheduled after the ACM A.M. Turing Award Lecture by Bob Metcalfe and who are the opening and closing speakers of the reception?",
+        "output": "The event scheduled after the ACM A.M. Turing Award Lecture by Bob Metcalfe is the Reception in honor of Bob Metcalfe 2022 A.M. Turing Award Recipient. The opening speaker of the reception is Dame Wendy Hall, Regius Professor of Computer Science at the University of Southampton, UK, and the closing speaker is Professor and Motorola Regents Chair Diana Marculescu, Department Chair of Chandra Family Department of Electrical and Computer Engineering, UT Austin."
+    },
+    {
+        "query": "Who are the track chairs for the 'Workshops' track of The Web Conference 2023, and what are their affiliations?",
+        "output": "The track chairs for the 'Workshops' track of The Web Conference 2023 are Riccardo Tommasini and Femke Ongenae. Riccardo Tommasini is affiliated with INSA de Lyon - LIRIS, and Femke Ongenae is affiliated with Ghent University - imec."
+    },
+    {
+        "query": "Who are the bands performing at the 'BBQ and Live Music' event and what are their performance timings?",
+        "output": "The bands performing at the 'BBQ and Live Music' event are THEMM! (fka the midgetmen) and Hard Proof. THEMM! (fka the midgetmen) will be performing from 9:00pm-9:45pm and Hard Proof will be performing from 8:00pm-8:45pm."
+    },
+    {
+        "query": "Who are the Program Committee Chairs for the Web Conference 2023, and how can they be contacted?",
+        "output": "The Program Committee Co-Chairs for the Web Conference 2023 are not directly mentioned in the provided context. However, they can be contacted via the email address pc-chairs2023@thewebconf.org."
+    },
+    {
+        "query": "What food items will be available in the BBQ menu at the conference program?",
+        "output": "The BBQ menu at the conference program will include sausage, guacamole, biscuit, coleslaw, queso, potato salad, pinto beans, pork spareribs, beef brisket, vegetarian chili, salsa, apple crisp, and pecan pie."
+    },
+    {
+        "query": "How can I apply for the ACM SIGWEB Fair Access Virtual Participation Awards and what is the deadline?",
+        "output": "To apply for the ACM SIGWEB Fair Access Virtual Participation Awards, you need to submit the following materials in a single PDF file: your CV (which includes your full name and email address), a short statement explaining your interest in participating in The Web Conference 2023, and evidence of eligibility (e.g., valid student ID, letter from supervisor, profile page on university website). The application must be submitted via the link: https://easychair.org/conferences/?conf=webconf23fairaccess. The deadline for submission is April 20, 2023 (AoE)."
+    },
+    {
+        "query": "What is the brief biography of Bob Metcalfe, the speaker of the ACM A.M. Turing Award Lecture?",
+        "output": "Bob Metcalfe is an engineer and entrepreneur best known for co-inventing Ethernet, co-founding 3Com, and formulating Metcalfe's Law. Born in Brooklyn, New York in 1946, he obtained a Bachelor's degree in Electrical Engineering from MIT and a Master's degree from Harvard University. He worked at Xerox PARC, where he co-invented Ethernet for local networks. He left Xerox in 1979 to promote the use of personal computers and local networks and co-founded 3Com, a manufacturer of computer networking equipment. In addition to his engineering and entrepreneurial pursuits, Metcalfe was a publisher and writer for IDG where he was highly influential in the internet boom of the 1990s. Metcalfe is an IEEE Fellow and received the ACM A.M. Turing Award for his work on Ethernet technology."
+    },
+    {
+        "query": "Who are authors of the last in the list of accepted papers for WWW2023 in the research tracks?",
+        "output": "The author of the last in the list of accepted papers for WWW2023 in the research tracks is Sindhu Ernala."
+    },
+    {
+        "query": "What behavior is considered unacceptable and may constitute grounds for actions against participants according to the Web Conference 2023 Code of Conduct?",
+        "output": "The Web Conference 2023 Code of Conduct considers the following behaviors as unacceptable and may constitute grounds for actions against participants: \n\n1. Abusive action directed at an individual, such as threats, intimidation, or bullying.\n2. Racism, homophobia, and other behavior that discriminates against a group or class of people.\n3. Sexual harassment of any kind, such as unwelcome sexual advances or words/actions of a sexual nature."
+    },
+    {
+        "query": "How many levels of sponsorship are available for the Web Conference 2023 and what are their amounts?",
+        "output": "Five levels of sponsorship are available for the Web Conference 2023. The amounts for four of the levels provided are: Platinum is $50,000 USD, Gold is $30,000 USD, Silver is $15,000 USD, and Bronze is $6,500 USD. The amount for the fifth level is not provided in the context."
+    },
+    {
+        "query": "What topic will be discussed from 2:20 PM to 2:30 PM in the 'Networks and Graphs 8: Link Prediction and Convolutional Neural Networks' session?",
+        "output": "The text does not provide information on what topic will be discussed from 2:20 PM to 2:30 PM in the 'Networks and Graphs 8: Link Prediction and Convolutional Neural Networks' session."
+    },
+    {
+        "query": "What is the location and date-time for the ACM A.M. Turing Award Lecture by Bob Metcalfe?",
+        "output": "The ACM A.M. Turing Award Lecture by Bob Metcalfe is located at the Zlotnik Ballroom at AT&T Conference Center at UT Austin, 1900 University Ave, Austin, TX 78705. The lecture is scheduled for April 30, 2023, from 5-7PM Central Time."
+    },
+    {
+        "query": "What are the guidelines for submissions to the conference?",
+        "output": "Submissions to the WWW2023 conference must follow specific guidelines. For the PhD Symposium, submissions should be in the ACM format acmart.cls, using the “sigconf” option, and must be in English. They must be submitted in PDF and comply with all the formatting guidelines. The submission link for these papers is https://easychair.org/conferences/?conf=thewebconf2023iwpd. Selected papers will be published in the Companion Proceedings of The Web Conference 2023 and made available through the ACM Digital Library.\n\nFor Posters and Demos proposals, papers are limited to four pages, including references, and submissions are not anonymous. Authors need to make sure their submissions follow the required format strictly. Non-compliant submissions will be rejected without review. Submissions should be made via the Poster-Demo track at https://easychair.org/conferences/?conf=thewebconf2023iwpd. Inclusion of external material related to the poster or demo is highly encouraged.\n\nFor Research Tracks, authors should consult the main Research Track CFP to make sure their submissions match up with the main conference expectations, scope, and theme. For the Web and Society Track, submissions should clearly state how they relate to the interaction between the web and society. If applicable, they should also explain how they addressed the ethical and reproducibility aspects of their research. The conference encourages interdisciplinary research methods involving different fields such as sociology, psychology, communication and media sciences, political sciences, health science, among others."
+    },
+    {
+        "query": "What is the scope of the Web Conference 2023 and what kind of submissions are encouraged?",
+        "output": "The Web Conference 2023 is interested in a range of topics relating to the Web. For the Web Developer and W3C track, submissions can take different forms, such as papers (limited to 6 pages, including references), presentation abstracts, links to code repositories on GitHub, links to recorded demos, or any other Web-accessible resources. Authors are responsible for ensuring their submissions adhere to the required format.\n\nThe conference is also hosting a Web Science Conference, interested in interdisciplinary research dedicated to understanding the impacts of the Web on society and vice versa, welcoming both quantitative and qualitative research.\n\nThere's also a special track called \"The Creative Web\" aimed at understanding how creativity manifests on the Web and how it's valued. Various types of submissions offering fresh perspectives and insights into these topics are encouraged."
+    },
+    {
+        "query": "What are the details of the 'BBQ and Concert at Stubbs BBQ' event on 'Wed May 03'?",
+        "output": "The 'BBQ and Concert at Stubbs BBQ' event is part of the WWW2023 Program. This event provides an opportunity for attendees to enjoy a night out in Austin at the iconic Stubbs, indulging in BBQ and live music played by local Austin bands. The BBQ menu consists of delicious options like pork spareribs, sausage, vegetarian chili, pinto beans, and several sides and desserts including guacamole, salsa, queso, apple crisp, and pecan pie. The Austin-based band Hard Proof, known for their music inspired by Fela Kuti’s Africa 70 band, funk, and jazz from sub-Saharan Africa, will be performing. This experience is included in the conference registration. Guest tickets can be purchased at the registration table for an additional $50. The event is scheduled to take place on May 3."
+    },
+    {
+        "query": "What are the instructions to apply for a visa support letter for WWW2023?",
+        "output": "To apply for a visa support letter for WWW2023, you should first complete the registration form available at https://www2023.thewebconf.org/attendees/registration/. After registration, refer all visa support letters requests to supportletters@acm.org. The information that should be included with the request includes:\n \n1. Your name as it appears on your passport\n2. Your current postal mailing address\n3. Your registration confirmation number\n4. The name of the conference you are registering for \n5. If you have any papers accepted for the conference, provide the title and indicate whether you are the “sole author” or a “co-author”\n6. Authors may indicate their paper title. If no paper, speakers can provide the title of their presentation\n\nPlease note that all requests are handled in the order they are received and it can take up to 10 business days to receive a letter."
+    },
+    {
+        "query": "Which paper did the authors 'Jun Zhou, Caizhi Tang, Qing Cui, Yi Ding, Longfei Li and Fei Wu' write?",
+        "output": "The information provided does not include a paper written by the authors 'Jun Zhou, Caizhi Tang, Qing Cui, Yi Ding, Longfei Li and Fei Wu'."
+    }
+]

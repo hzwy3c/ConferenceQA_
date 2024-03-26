@@ -1,0 +1,1297 @@
+[
+    {
+        "question": "What is the organization related to SIGMOD2023?",
+        "answer": "The organization related to SIGMOD2023 is ACM SIGMOD Online",
+        "from": "SIGMOD2023>>Organization>>ACM SIGMOD Online"
+    },
+    {
+        "question": "What is the URL of the related organization to SIGMOD2023?",
+        "answer": "The URL of the related organization to SIGMOD2023 is http://www.sigmod.org/",
+        "from": "SIGMOD2023>>Organization>>ACM SIGMOD Online"
+    },
+    {
+        "question": "What is SIGMOD2023's online platform?",
+        "answer": "SIGMOD2023's online platform is ACM SIGMOD Online",
+        "from": "SIGMOD2023>>Organization"
+    },
+    {
+        "question": "Where can more information about the organization related to SIGMOD2023 be found?",
+        "answer": "More information about the organization related to SIGMOD2023 can be found at http://www.sigmod.org/",
+        "from": "SIGMOD2023>>Organization>>ACM SIGMOD Online"
+    },
+    {
+        "question": "Which website is associated with the organization for SIGMOD2023?",
+        "answer": "The website associated with the organization for SIGMOD2023 is http://www.sigmod.org/",
+        "from": "SIGMOD2023>>Organization>>ACM SIGMOD Online"
+    },
+    {
+        "question": "Who are the general chairs for SIGMOD 2023?",
+        "answer": "Sudipto Das and Ippokratis Pandis from Amazon Web Services, USA",
+        "from": "SIGMOD2023 >> Organization >> Conference Officers >> SIGMOD General Chairs"
+    },
+    {
+        "question": "Who is responsible for handling proceedings at PODS?",
+        "answer": "Stavros Sintos from University of Chicago, USA",
+        "from": "SIGMOD2023 >> Organization >> Conference Officers >> PODS Proceedings Chair"
+    },
+    {
+        "question": "Who is handling the role of Panels Chairs?",
+        "answer": "Nesime Tatbul (MIT & Intel Labs, USA) and Sharad Mehrotra (University California at Irvine, USA)",
+        "from": "SIGMOD2023 >> Organization >> Conference Officers >> Panels Chairs"
+    },
+    {
+        "question": "Who is the Social Media/Publicity Chair for SIGMOD?",
+        "answer": "Joy Arulraj from Georgia Institute of Technology, USA",
+        "from": "SIGMOD2023 >> Organization >> Conference Officers >> SIGMOD Social Media/Publicity Chair"
+    },
+    {
+        "question": "Who are the organizers of the Programming Contest?",
+        "answer": "Xu Chu from Georgia Institute of Technology, USA and Dong Deng from Rutgers University, USA",
+        "from": "SIGMOD2023 >> Organization >> Conference Officers >> Programming Contest Chairs"
+    },
+    {
+        "question": "What is the event taking place on Thursday June 22?",
+        "answer": "AWARD TALKS",
+        "from": "SIGMOD2023>>SIGMOD Program>>Detailed Program>>AWARD TALKS>>Date"
+    },
+    {
+        "question": "At what time will the event start and end?",
+        "answer": "8:00 am – 9:30 am",
+        "from": "SIGMOD2023>>SIGMOD Program>>Detailed Program>>AWARD TALKS>>Time"
+    },
+    {
+        "question": "Where will the event take place?",
+        "answer": "Grand ABCDEFG",
+        "from": "SIGMOD2023>>SIGMOD Program>>Detailed Program>>AWARD TALKS>>Location"
+    },
+    {
+        "question": "Who is the session chair for the event on Thursday June 22?",
+        "answer": "Divy Agrawal",
+        "from": "SIGMOD2023>>SIGMOD Program>>Detailed Program>>AWARD TALKS>>Session chair"
+    },
+    {
+        "question": "What is the first event listed in the Detailed Program?",
+        "answer": "AWARD TALKS",
+        "from": "SIGMOD2023>>SIGMOD Program>>Detailed Program"
+    },
+    {
+        "question": "Who is the speaker for the keynote 'Mixed Methods Machine Learning' at the SIGMOD2023 conference?",
+        "answer": "Vanessa Murdock from Amazon",
+        "from": "SIGMOD2023>>SIGMOD Program>>Detailed Program>>Keynotes"
+    },
+    {
+        "question": "When is the keynote '49 Years of Queries' scheduled?",
+        "answer": "Tuesday June 20, from 9:00 am to 10:30 am",
+        "from": "SIGMOD2023>>SIGMOD Program>>Detailed Program>>Keynotes"
+    },
+    {
+        "question": "Where will be the keynote 'DEI Perspectives in Information Technology Education' held?",
+        "answer": "Grand Ballroom ABCDEFG",
+        "from": "SIGMOD2023>>SIGMOD Program>>Detailed Program>>Keynotes"
+    },
+    {
+        "question": "Who is the session chair for the keynote 'Mixed Methods Machine Learning'?",
+        "answer": "Lei Chen",
+        "from": "SIGMOD2023>>SIGMOD Program>>Detailed Program>>Keynotes"
+    },
+    {
+        "question": "What are the themes of the keynotes at the SIGMOD2023 conference?",
+        "answer": "The themes are 'Mixed Methods Machine Learning', '49 Years of Queries', and 'DEI Perspectives in Information Technology Education'",
+        "from": "SIGMOD2023>>SIGMOD Program>>Detailed Program>>Keynotes"
+    },
+    {
+        "question": "What is the title of the first accepted paper in the PODS Program at SIGMOD2023?",
+        "answer": "Synthesizing nested relational queries from implicit specifications",
+        "from": "SIGMOD2023>>PODS Program>>Research Papers>>acceptedPapers>>0>>title"
+    },
+    {
+        "question": "Who are the authors of the paper titled 'Generative Datalog with Stable Negation' in the PODS Program at SIGMOD2023?",
+        "answer": [
+            "Mario Alviano",
+            "Matthias Lanzinger",
+            "Michael Morak",
+            "Andreas Pieris"
+        ],
+        "from": "SIGMOD2023>>PODS Program>>Research Papers>>acceptedPapers>>3>>authors"
+    },
+    {
+        "question": "How many papers were accepted for the research papers category in the PODS Program at SIGMOD2023?",
+        "answer": "28",
+        "from": "SIGMOD2023>>PODS Program>>Research Papers>>acceptedPapers"
+    },
+    {
+        "question": "What is the title of the last accepted paper in the PODS Program at SIGMOD2023?",
+        "answer": "Coloring in Graph Streams via Deterministic and Adversarially Robust Algorithms",
+        "from": "SIGMOD2023>>PODS Program>>Research Papers>>acceptedPapers>>27>>title"
+    },
+    {
+        "question": "Who are the authors of the paper titled 'Indexing for Keyword Search with Structured Constraints' in the PODS Program at SIGMOD2023?",
+        "answer": [
+            "Shangqi Lu",
+            "Yufei Tao"
+        ],
+        "from": "SIGMOD2023>>PODS Program>>Research Papers>>acceptedPapers>>10>>authors"
+    },
+    {
+        "question": "On what date will the Opening Remarks at SIGMOD2023 take place?",
+        "answer": "The Opening Remarks will take place on Tuesday June 20.",
+        "from": "SIGMOD2023>SIGMOD Program>Detailed Program>OPENING REMARKS>Date"
+    },
+    {
+        "question": "What time will the Opening Remarks session start at SIGMOD2023?",
+        "answer": "The Opening Remarks session will start at 8:30 am.",
+        "from": "SIGMOD2023>SIGMOD Program>Detailed Program>OPENING REMARKS>Time"
+    },
+    {
+        "question": "Where is the Opening Remarks session at SIGMOD2023 going to be held?",
+        "answer": "The Opening Remarks session will be held in Grand Ballroom ABCDEFG.",
+        "from": "SIGMOD2023>SIGMOD Program>Detailed Program>OPENING REMARKS>Location"
+    },
+    {
+        "question": "Who are chairing the Opening Remarks session at SIGMOD2023?",
+        "answer": "The Opening Remarks session will be chaired by Sihem Amer-Yahia and K. Selcuk Candan.",
+        "from": "SIGMOD2023>SIGMOD Program>Detailed Program>OPENING REMARKS>Session Chair"
+    },
+    {
+        "question": "Who is the second person chairing the Opening Remarks session at SIGMOD2023?",
+        "answer": "The second person chairing the Opening Remarks session is K. Selcuk Candan.",
+        "from": "SIGMOD2023>SIGMOD Program>Detailed Program>OPENING REMARKS>Session Chair>1"
+    },
+    {
+        "question": "Who are the chairs of the SIGMOD Industrial Program Committee for SIGMOD2023?",
+        "answer": "Avrilia Floratou from Microsoft and Hakan Hacigumus from Google are the chairs for SIGMOD Industrial Program Committee for SIGMOD2023.",
+        "from": "SIGMOD2023>>Organization>>SIGMOD Industrial Program Committee>>Chairs"
+    },
+    {
+        "question": "Which organization does Evangellia Sitaridi, a PC member of the SIGMOD Industrial Program Committee for SIGMOD2023, belong to?",
+        "answer": "Evangellia Sitaridi belongs to NVIDIA.",
+        "from": "SIGMOD2023>>Organization>>SIGMOD Industrial Program Committee>>PC Members"
+    },
+    {
+        "question": "How many PC members are there in the SIGMOD Industrial Program Committee for SIGMOD2023 from Microsoft?",
+        "answer": "There are 4 PC members from Microsoft in the SIGMOD Industrial Program Committee for SIGMOD2023.",
+        "from": "SIGMOD2023>>Organization>>SIGMOD Industrial Program Committee>>PC Members"
+    },
+    {
+        "question": "Who is the PC member of the SIGMOD Industrial Program Committee for SIGMOD2023 from Alibaba Group?",
+        "answer": "Jingren Zhou is the PC member from Alibaba Group.",
+        "from": "SIGMOD2023>>Organization>>SIGMOD Industrial Program Committee>>PC Members"
+    },
+    {
+        "question": "Who are the members of the SIGMOD Industrial Program Committee for SIGMOD2023 from Google?",
+        "answer": "Google Inc are represented by Indrajit Roy, and Jagan Sankaranarayanan in the SIGMOD Industrial Program Committee.",
+        "from": "SIGMOD2023>>Organization>>SIGMOD Industrial Program Committee>>PC Members"
+    },
+    {
+        "question": "What are the three submission cycles for SIGMOD2023?",
+        "answer": "The three submission cycles are in April, July and October.",
+        "from": "SIGMOD2023>>Calls For Submissions>>Important Dates>>SIGMOD Deadlines>>introduction"
+    },
+    {
+        "question": "What is the date for paper submission for the first submission cycle of SIGMOD 2023 research paper?",
+        "answer": "The date for paper submission for the first submission cycle is April 15, 2022.",
+        "from": "SIGMOD2023>>Calls For Submissions>>Important Dates>>SIGMOD Deadlines>>RESEARCH PAPER SUBMISSION CYCLE A"
+    },
+    {
+        "question": "When is the revised paper to be submitted in the second submission cycle for a SIGMOD research paper?",
+        "answer": "The revised paper needs to be submitted by October 20, 2022 in the second submission cycle.",
+        "from": "SIGMOD2023>>Calls For Submissions>>Important Dates>>SIGMOD Deadlines>>RESEARCH PAPER SUBMISSION CYCLE B"
+    },
+    {
+        "question": "What is the date for the second cycle's full paper submission for PODS 2023?",
+        "answer": "The date for full paper submission for the second cycle is December 05, 2022.",
+        "from": "SIGMOD2023>>Calls For Submissions>>Important Dates>>PODS Deadlines>>SECOND SUBMISSION CYCLE"
+    },
+    {
+        "question": "When will the authors of the first submission cycle of PODS 2023 receive their reviews?",
+        "answer": "The authors of the first submission cycle will receive their reviews on Aug 19, 2022.",
+        "from": "SIGMOD2023>>Calls For Submissions>>Important Dates>>PODS Deadlines>>First SUBMISSION CYCLE"
+    },
+    {
+        "question": "How many poster sessions are there in the SIGMOD 2023 program?",
+        "answer": "There are two poster sessions in the SIGMOD 2023 program.",
+        "from": "SIGMOD2023>>SIGMOD Program>>Detailed Program>>poster sessions"
+    },
+    {
+        "question": "When does the first poster session start at SIGMOD 2023?",
+        "answer": "The first poster session starts on Wednesday June 21 at 4:00 pm.",
+        "from": "SIGMOD2023>>SIGMOD Program>>Detailed Program>>poster sessions>>Session 1>>time"
+    },
+    {
+        "question": "What is the location of the second poster session at SIGMOD 2023?",
+        "answer": "The second poster session will be held in the Regency/Cedar Ballrooms and Regency Foyer.",
+        "from": "SIGMOD2023>>SIGMOD Program>>Detailed Program>>poster sessions>>Session 2>>location"
+    },
+    {
+        "question": "What time does the second poster session finish on June 22?",
+        "answer": "The second poster session finishes at 12:30 pm on Thursday June 22.",
+        "from": "SIGMOD2023>>SIGMOD Program>>Detailed Program>>poster sessions>>Session 2>>time"
+    },
+    {
+        "question": "Are the poster sessions at SIGMOD 2023 held in the same location?",
+        "answer": "Yes, both poster sessions are held in the Regency/Cedar Ballrooms and Regency Foyer.",
+        "from": [
+            "SIGMOD2023>>SIGMOD Program>>Detailed Program>>poster sessions>>Session 1>>location",
+            "SIGMOD2023>>SIGMOD Program>>Detailed Program>>poster sessions>>Session 2>>location"
+        ]
+    },
+    {
+        "question": "Who are the chairs of the SIGMOD Demonstration Program Committee for SIGMOD2023?",
+        "answer": "The chairs of the SIGMOD Demonstration Program Committee for SIGMOD2023 are Eser Kandogan from Megagon Labs, USA and Paolo Papotti from Eurecom, France.",
+        "from": "SIGMOD2023>>Organization>>SIGMOD Demonstration Program Committee>>Chairs"
+    },
+    {
+        "question": "How many PC Members are there in the SIGMOD Demonstration Program Committee for SIGMOD2023?",
+        "answer": "There are 42 PC Members in the SIGMOD Demonstration Program Committee for SIGMOD2023.",
+        "from": "SIGMOD2023>>Organization>>SIGMOD Demonstration Program Committee>>PC Members"
+    },
+    {
+        "question": "Who is the PC member from University of Melbourne, Australia for SIGMOD2023?",
+        "answer": "Renata Borovica-Gajic is the PC Member from University of Melbourne, Australia for SIGMOD2023.",
+        "from": "SIGMOD2023>>Organization>>SIGMOD Demonstration Program Committee>>PC Members"
+    },
+    {
+        "question": "Who is the PC member from Twitter for SIGMOD2023?",
+        "answer": "Mainak Ghosh is the PC Member from Twitter for SIGMOD2023.",
+        "from": "SIGMOD2023>>Organization>>SIGMOD Demonstration Program Committee>>PC Members"
+    },
+    {
+        "question": "Who is the PC Member from Amazon for SIGMOD2023?",
+        "answer": "Nikhita Vedula is the PC Member from Amazon for SIGMOD2023.",
+        "from": "SIGMOD2023>>Organization>>SIGMOD Demonstration Program Committee>>PC Members"
+    },
+    {
+        "question": "What is the topic of the panel discussion moderated by Raghu Ramakrishnan?",
+        "answer": "The topic of the panel discussion moderated by Raghu Ramakrishnan is 'Future of Database System Architectures'.",
+        "from": "SIGMOD2023>>SIGMOD Program>>Panel Discussions>>topic"
+    },
+    {
+        "question": "Who are the panel members in the discussion titled 'Future of Database System Architectures'?",
+        "answer": "The panel members in the discussion titled 'Future of Database System Architectures' are Gustavo Alonso, Natassa Ailamaki, Sailesh Krishnamurthy, Sam Madden, Swami Sivasubramanian.",
+        "from": "SIGMOD2023>>SIGMOD Program>>Panel Discussions>>panelists>>name"
+    },
+    {
+        "question": "Who will be moderating the panel discussion on 'Personal Data for Personal Use: Vision or Reality?'?",
+        "answer": "The panel discussion on 'Personal Data for Personal Use: Vision or Reality?' will be moderated by Alon Halevy and Wang-Chiew Tan.",
+        "from": "SIGMOD2023>>SIGMOD Program>>Panel Discussions>>moderators>>name"
+    },
+    {
+        "question": "Who are the panel members for the discussion titled 'Personal Data for Personal Use: Vision or Reality?'?",
+        "answer": "The panel members for the discussion titled 'Personal Data for Personal Use: Vision or Reality?' are Xin Luna Dong, Bo Li, Julia Stoyanovich, Anthony Kum Hoe Tung and Gerhard Weikum.",
+        "from": "SIGMOD2023>>SIGMOD Program>>Panel Discussions>>panelists>>name"
+    },
+    {
+        "question": "What is the affiliation of the panelist Sam Madden?",
+        "answer": "The affiliation of the panelist Sam Madden is MIT.",
+        "from": "SIGMOD2023>>SIGMOD Program>>Panel Discussions>>panelists>>affiliation"
+    },
+    {
+        "question": "How many sessions are there in the student research competition program at SIGMOD2023?",
+        "answer": "There are two sessions in the student research competition program.",
+        "from": "SIGMOD2023>>SIGMOD Program>>Detailed Program>>student research_competition"
+    },
+    {
+        "question": "When and where will session 2 of the student research competition be held at SIGMOD2023?",
+        "answer": "Session 2 of the student research competition at SIGMOD2023 will be held on Wednesday June 21 from 4:00 pm to 5:30 pm at Evergreen I.",
+        "from": "SIGMOD2023>>SIGMOD Program>>Detailed Program>>student research_competition>>Session 2"
+    },
+    {
+        "question": "Who are the session chairs for the student research competition at SIGMOD2023?",
+        "answer": "The session chairs for the student research competition at SIGMOD2023 are Abolfadl Asudeh and Fatemeh Nargesian.",
+        "from": "SIGMOD2023>>SIGMOD Program>>Detailed Program>>student research_competition>>session_chairs"
+    },
+    {
+        "question": "What time will Session 1 of the student research competition start?",
+        "answer": "Session 1 of the student research competition will start at 11:00 p.m. on Tuesday June 20.",
+        "from": "SIGMOD2023>>SIGMOD Program>>Detailed Program>>student research_competition>>Session 1>>time"
+    },
+    {
+        "question": "Where will Session 1 of the student research competition take place?",
+        "answer": "Session 1 of the student research competition will take place at Regency Ballroom.",
+        "from": "SIGMOD2023>>SIGMOD Program>>Detailed Program>>student research_competition>>Session 1>>location"
+    },
+    {
+        "question": "What are the benefits of being a Diamond Sponsor at SIGMOD2023?",
+        "answer": "The benefits include top-positioned and larger logo on conference website (with link to company's site), call for participation, programs, gifts, extra-large logo on the conference banner/kiosk, an industrial exhibit table - system demo, five complimentary onsite conference registrations (including banquet, etc.), announcement of company's contribution at the opening and closing ceremonies, and a talk in an onsite sponsor session during the main conference days.",
+        "from": "SIGMOD2023>>Organization>>Sponsor Opportunities>>Sponsorship Levels"
+    },
+    {
+        "question": "What can you get if you sponsor the 'Named banquet' under additional sponsorships?",
+        "answer": "The 'Named banquet' sponsorship offers a price amount of $25K.",
+        "from": "SIGMOD2023>>Organization>>Sponsor Opportunities>>Additional Sponsorships"
+    },
+    {
+        "question": "What benefits can a Silver-level sponsor for Publishers and Exhibitors get?",
+        "answer": "A Silver-level sponsor for Publishers and Exhibitors gets a small table and/or logo banner (small, company supplied), and a logo on the conference website.",
+        "from": "SIGMOD2023>>Organization>>Sponsor Opportunities>>Publishers&Exhibitors Levels"
+    },
+    {
+        "question": "How much should one pay to become a Gold Sponsor at SIGMOD2023?",
+        "answer": "To become a Gold Sponsor at SIGMOD2023, one should pay USD $12,000 and above.",
+        "from": "SIGMOD2023>>Organization>>Sponsor Opportunities>>Sponsorship Levels"
+    },
+    {
+        "question": "Who should be contacted for more information on sponsorship opportunities?",
+        "answer": "Justin Levandoski (levandoski [at] google.com) should be contacted for more information on sponsorship opportunities.",
+        "from": "SIGMOD2023>>Organization>>Sponsor Opportunities>>Contact Information"
+    },
+    {
+        "question": "Who is the session chair for the sponsors' presentations at SIGMOD2023?",
+        "answer": "Justin Levandoski",
+        "from": "SIGMOD2023>>SIGMOD Program>>Detailed Program>>sponsors>>session_chairs"
+    },
+    {
+        "question": "What is the title of the presentation given by the sponsor 'Microsoft' at SIGMOD2023?",
+        "answer": "Microsoft Fabric - Analytics in the AI Era",
+        "from": "SIGMOD2023>>SIGMOD Program>>Detailed Program>>sponsors>>sponsors"
+    },
+    {
+        "question": "Who are the presenters for the presentation 'Enhancing Database Systems with AI' from 'Alibaba' at SIGMOD2023?",
+        "answer": [
+            "Bolin Ding",
+            "Jingren Zhou"
+        ],
+        "from": "SIGMOD2023>>SIGMOD Program>>Detailed Program>>sponsors>>sponsors"
+    },
+    {
+        "question": "What time does the sponsors' presentations start at SIGMOD2023?",
+        "answer": "4:00 pm",
+        "from": "SIGMOD2023>>SIGMOD Program>>Detailed Program>>sponsors>>time"
+    },
+    {
+        "question": "Which sponsor's presenter is presenting about 'Data and AI at Google BigQuery Scale' at SIGMOD2023?",
+        "answer": "Tomas Talius",
+        "from": "SIGMOD2023>>SIGMOD Program>>Detailed Program>>sponsors>>sponsors"
+    },
+    {
+        "question": "What is the title of the tutorial presented by Matthias Boehm from Technische Universität Berlin on June 23, 2023?",
+        "answer": "Optimizing Tensor Computations: From Applications to Compilation and Runtime Techniques",
+        "from": "SIGMOD2023>>SIGMOD Program>>Tutorials>>Friday, June 23, 2023"
+    },
+    {
+        "question": "Who are the presenters of the tutorial titled 'Demystifying Artificial Intelligence for Data Preparation'?",
+        "answer": "Chengliang Chai, Nan Tang, Ju Fan, and Yuyu Luo.",
+        "from": "SIGMOD2023>>SIGMOD Program>>Tutorials>>Sunday, June 18, 2023"
+    },
+    {
+        "question": "Who is the corresponding author for the 'Main memory database recovery strategies' tutorial?",
+        "answer": "Arlino Magalhães",
+        "from": "SIGMOD2023>>SIGMOD Program>>Tutorials>>Sunday, June 18, 2023"
+    },
+    {
+        "question": "Where can the slides for the tutorial 'An Overview of Reachability Indexes on Graphs' be found?",
+        "answer": "https://github.com/dsg-uwaterloo/ozsu-grp/blob/main/An_Overview_of_Reachability_Indexes_on_Graphs.pdf.",
+        "from": "SIGMOD2023>>SIGMOD Program>>Tutorials>>Thursday, June 22, 2023"
+    },
+    {
+        "question": "What are the tutorials presented on Thursday, June 22, 2023 at SIGMOD2023?",
+        "answer": "Quantum Machine Learning: Foundation, New techniques, and Opportunities for Database Research', 'An Overview of Reachability Indexes on Graphs' and 'Fairness in Ranking: From Values to Technical Choices and Back.",
+        "from": "SIGMOD2023>>SIGMOD Program>>Tutorials>>Thursday, June 22, 2023"
+    },
+    {
+        "question": "What is the theme of the program happening on June 18, 2023 at 8:30-10:30?",
+        "answer": "The themes are BiDEDE, HILDA, DEEM, GRADES-NDA, Data Economy and  a tutorial on Main memory database recovery strategies.",
+        "from": "SIGMOD2023>>PODS Program>>Program Overview>>SUNDAY (June 18, 2023)"
+    },
+    {
+        "question": "Where is the SIGMOD Reception being held on June 19, 2023?",
+        "answer": "The SIGMOD Reception is being held at the Grand North Foyer.",
+        "from": "SIGMOD2023>>PODS Program>>Program Overview>>MONDAY (June 19, 2023)"
+    },
+    {
+        "question": "What is the theme of SIGMOD Keynote 1 on June 20, 2023?",
+        "answer": "The theme of SIGMOD Keynote 1 is '49 Years of Queries' by Don Chamberlin, IBM Fellow.",
+        "from": "SIGMOD2023>>PODS Program>>Program Overview>>TUESDAY (JUNE 20, 2023)"
+    },
+    {
+        "question": "Who is giving the SIGMOD DEI Keynote on June 21, 2023?",
+        "answer": "The SIGMOD DEI Keynote is given by Shazia Sadiq from The University of Queensland.",
+        "from": "SIGMOD2023>>PODS Program>>Program Overview>>WEDNESDAY (JUNE 21, 2023)"
+    },
+    {
+        "question": "What is the tutorial that starts at 9:00 on June 23, 2023?",
+        "answer": "The tutorial is on 'Large-scale Geospatial Analytics: Problems, Challenges, and Opportunities'.",
+        "from": "SIGMOD2023>>PODS Program>>Program Overview>>FRIDAY (JUNE 23, 2023)"
+    },
+    {
+        "question": "Who is the speaker for the 'Gems of PODS' program at SIGMOD2023?",
+        "answer": "Graham Cormode is the speaker for the 'Gems of PODS' program at SIGMOD2023.",
+        "from": "SIGMOD2023>>PODS Program>>Gems of PODS>>Speaker"
+    },
+    {
+        "question": "What is the topic of the 'Gems of PODS' program at SIGMOD2023?",
+        "answer": "The topic of the 'Gems of PODS' program at SIGMOD2023 is 'Applications of Sketching and Pathways to Impact'.",
+        "from": "SIGMOD2023>>PODS Program>>Gems of PODS>>title"
+    },
+    {
+        "question": "What is the main content of the talk by Graham Cormode in the 'Gems of PODS' program?",
+        "answer": "Graham Cormode's talk will describe the impacts that sketches have had on fields such as online advertising and privacy-preserving data analysis. It will also cover various strategies researchers can follow to encourage the adoption of their work.",
+        "from": "SIGMOD2023>>PODS Program>>Gems of PODS>>Abstract"
+    },
+    {
+        "question": "What is one of the practical applications of sketch algorithms that will be discussed in this program?",
+        "answer": "One of the practical applications of sketch algorithms that will be discussed in the program is their role in online advertising.",
+        "from": "SIGMOD2023>>PODS Program>>Gems of PODS>>Abstract"
+    },
+    {
+        "question": "What will be the primary focus of Graham's talk regarding the utilization of sketch algorithms?",
+        "answer": "The primary focus of Graham's talk regarding the utilization of sketch algorithms will be their potential impacts and different strategies to encourage the adoption of this research work.",
+        "from": "SIGMOD2023>>PODS Program>>Gems of PODS>>Abstract"
+    },
+    {
+        "question": "Who are the chairs for the DEI pairings (newcomer,senior) event?",
+        "answer": "Carlo Curino and Jesus Camacho Rodriguez are the chairs for the DEI pairings (newcomer,senior) event.",
+        "from": "SIGMOD2023>>SIGMOD Program>>Detailed Program>>DEI>>Event"
+    },
+    {
+        "question": "What is the scheduled time for the DEI pairings (newcomer,senior) event?",
+        "answer": "The DEI pairings (newcomer,senior) event is scheduled for Monday June 19 Lunch",
+        "from": "SIGMOD2023>>SIGMOD Program>>Detailed Program>>DEI>>Time"
+    },
+    {
+        "question": "What is the location for the Bird-of-a-feather feedback/working hour (50 people) event?",
+        "answer": "The Bird-of-a-feather feedback/working hour (50 people) event will take place in Evergreen I.",
+        "from": "SIGMOD2023>>SIGMOD Program>>Detailed Program>>DEI>>Location"
+    },
+    {
+        "question": "What is the scheduled time for the Bird-of-a-feather feedback/working hour (50 people) event?",
+        "answer": "The Bird-of-a-feather feedback/working hour (50 people) event is scheduled for Wednesday June 21 11:00 am – 12:30 pm",
+        "from": "SIGMOD2023>>SIGMOD Program>>Detailed Program>>DEI>>Time"
+    },
+    {
+        "question": "Who is the chair for the Bird-of-a-feather feedback/working hour (50 people) event?",
+        "answer": "Avrilia Floratou is the chair for the Bird-of-a-feather feedback/working hour (50 people) event.",
+        "from": "SIGMOD2023>>SIGMOD Program>>Detailed Program>>DEI>>Chairs"
+    },
+    {
+        "question": "Who is the speaker for the PODS Keynote titled 'Databases as Graphs: Predictive Queries for Declarative Machine Learning'?",
+        "answer": "Jure Leskovec",
+        "from": "SIGMOD2023>>PODS Program>>Detailed Program>>PODS Keynote"
+    },
+    {
+        "question": "What is the title of the paper presented in Session 4: Sampling and Streaming that the author Aline Bessa contributed to?",
+        "answer": "Weighted Minwise Hashing Beats Linear Sketching for Inner Product Estimation",
+        "from": "SIGMOD2023>>PODS Program>>Detailed Program>>Research Sessions"
+    },
+    {
+        "question": "Who is the session chair for the Invited Tutorial 1?",
+        "answer": "Hung Ngo",
+        "from": "SIGMOD2023>>PODS Program>>Detailed Program>>tutorialSessions"
+    },
+    {
+        "question": "Which session features a paper on the topic of 'Differentially Private Data Release over Multiple Tables'?",
+        "answer": "Session 5: Differential privacy & distributed processing",
+        "from": "SIGMOD2023>>PODS Program>>Detailed Program>>Research Sessions"
+    },
+    {
+        "question": "Who are the authors of the paper titled 'Static Analysis of Graph Database Transformations' presented in Session 6: Queries and Graphs?",
+        "answer": "Sławek Staworko, Iovka Boneva, Benoit Groz, Jan Hidders, Filip Murlak",
+        "from": "SIGMOD2023>>PODS Program>>Detailed Program>>Research Sessions"
+    },
+    {
+        "question": "What are the paper submission deadlines for SIGMOD 2023?",
+        "answer": "The deadlines for paper submission are on April 15 (Cycle A), July 15 (Cycle B), and October 15 (Cycle C).",
+        "from": "SIGMOD2023>>Calls For Submissions>>SIGMOD Call for Research Papers>>HIGHLIGHTS"
+    },
+    {
+        "question": "What format should be used in submitting the papers for SIGMOD 2023?",
+        "answer": "Submissions must use the latest ACM format in the default 9pt font.",
+        "from": "SIGMOD2023>>Calls For Submissions>>SIGMOD Call for Research Papers>>HIGHLIGHTS"
+    },
+    {
+        "question": "What are the page limits for Regular Track and Special Track submissions?",
+        "answer": "Regular Track submissions must be at most 12 pages plus an unlimited number of pages for citations. Special Track submissions must be at most 8 pages plus an unlimited number of pages for citations.",
+        "from": "SIGMOD2023>>Calls For Submissions>>SIGMOD Call for Research Papers>>HIGHLIGHTS"
+    },
+    {
+        "question": "What is the policy on duplicate submissions and novelty requirement for SIGMOD 2023?",
+        "answer": "A research paper submitted to SIGMOD 2023 cannot be under review for any other publishing forum or presentation venue during the time it is being considered for SIGMOD. The paper must present substantial novel research not described in any prior publication.",
+        "from": "SIGMOD2023>>Calls For Submissions>>SIGMOD Call for Research Papers>>DUPLICATE SUBMISSIONS AND NOVELTY REQUIREMENT"
+    },
+    {
+        "question": "How many reviews will each paper receive in the first round and when is a rebuttal necessary?",
+        "answer": "Each paper will first receive at least three reviews. If there is a broad agreement on a clear outcome, the AE may recommend accept or reject decision. Before the discussion phase starts, authors have an opportunity to submit a rebuttal to clarify misunderstandings and factual errors in the reviews.",
+        "from": "SIGMOD2023>>Calls For Submissions>>SIGMOD Call for Research Papers>>REVIEWING PROCESS"
+    },
+    {
+        "question": "What are the different types of tutorials that can be proposed for the SIGMOD 2023 Conference?",
+        "answer": "Tutorials can come in different flavors, these include Survey, Hands-on lecture style, and Primer.",
+        "from": "SIGMOD2023>>Calls For Submissions>>SIGMOD Call for Tutorial Proposals>>introduction"
+    },
+    {
+        "question": "What is the submission length and format for the tutorial proposals?",
+        "answer": "Tutorial proposals should be no more than six pages plus an unlimited number of pages for citations in the same format as research papers.",
+        "from": "SIGMOD2023>>Calls For Submissions>>SIGMOD Call for Tutorial Proposals>>Submission Guidelines"
+    },
+    {
+        "question": "What details should be included in a tutorial proposal for SIGMOD 2023?",
+        "answer": "A submission should include the proposed tutorial title, preferred duration, an abstract, a sense of both the scope of the material to be covered and the depth to which it will be covered, a comprehensive bibliography, a short description of the intended audience, a brief biography of the proposed presenter(s), and previous instances of the tutorial presentation if applicable. For hands-on tutorials, a list of hardware/software requirements should also be included.",
+        "from": "SIGMOD2023>>Calls For Submissions>>SIGMOD Call for Tutorial Proposals>>Submission Guidelines"
+    },
+    {
+        "question": "When is the submission date for the SIGMOD 2023 tutorial proposals, and when are the notifications expected?",
+        "answer": "The submission date is December 22, 2022, and the notification date is February 1, 2023.",
+        "from": "SIGMOD2023>>Calls For Submissions>>SIGMOD Call for Tutorial Proposals>>Important Dates"
+    },
+    {
+        "question": "Who are the Tutorial Chairs for the SIGMOD 2023 conference?",
+        "answer": "The Tutorial Chairs for SIGMOD 2023 are Guoliang Li from Tsinghua University, China, and Maria Luisa Sapino from University if Turin, Italy",
+        "from": "SIGMOD2023>>Calls For Submissions>>SIGMOD Call for Tutorial Proposals>>Tutorial Chair"
+    },
+    {
+        "question": "What is the title of first keynote talk?",
+        "answer": "49 Years of Queries",
+        "from": "SIGMOD2023>>SIGMOD Program>>Keynote Talks>>0>>title"
+    },
+    {
+        "question": "Who is the speaker of the second keynote talk and where are they affiliated?",
+        "answer": "The speaker is Vanessa Murdock and they are affiliated with Amazon.",
+        "from": [
+            "SIGMOD2023>>SIGMOD Program>>Keynote Talks>>1>>speaker>>name",
+            "SIGMOD2023>>SIGMOD Program>>Keynote Talks>>1>>speaker>>affiliation"
+        ]
+    },
+    {
+        "question": "What degree did Don Chamberlin, the speaker of the first keynote talk, obtain from Stanford University?",
+        "answer": "Don Chamberlin obtained a Ph.D. from Stanford University.",
+        "from": "SIGMOD2023>>SIGMOD Program>>Keynote Talks>>0>>speaker>>bio"
+    },
+    {
+        "question": "What is the DEI keynote speaker's contribution towards data science?",
+        "answer": "Shazia Sadiq spearheaded the successful Master of Data Science program at UQ, that is helping overcome skill shortages in Queensland for qualified data scientists.",
+        "from": "SIGMOD2023>>SIGMOD Program>>Keynote Talks>>2>>speaker(DEI Keynote Speaker)>>bio"
+    },
+    {
+        "question": "What is the area of research focus for Shazia Sadiq, the DEI keynote speaker?",
+        "answer": "Shazia Sadiq's research focusses on responsible data management and aims to reduce the socio-technical barriers to data driven transformation.",
+        "from": "SIGMOD2023>>SIGMOD Program>>Keynote Talks>>2>>speaker(DEI Keynote Speaker)>>bio"
+    },
+    {
+        "question": "What is the title of the research paper by author Chaemin Lim at SIGMOD2023?",
+        "answer": "Design and Analysis of a Processing-in-DIMM Join Algorithm: A Case Study with UPMEM DIMMs",
+        "from": "SIGMOD2023>>SIGMOD Program>>Research Papers"
+    },
+    {
+        "question": "Which institution is author Chengliang Chai from?",
+        "answer": "Beijing Institute of Technology",
+        "from": "SIGMOD2023>>SIGMOD Program>>Research Papers"
+    },
+    {
+        "question": "Who are the authors of the research paper titled 'Unicorn: A Unified Multi-tasking Model for Supporting Matching Tasks in Data Integration' at SIGMOD2023?",
+        "answer": [
+            "Jianhong Tu",
+            "Ju Fan",
+            "Nan Tang",
+            "Peng Wang",
+            "Guoliang Li",
+            "Xiaoyong Du",
+            "Jia Xiaofeng",
+            "Song Gao"
+        ],
+        "from": "SIGMOD2023>>SIGMOD Program>>Research Papers"
+    },
+    {
+        "question": "What is the affiliation of the author CJ Carey during SIGMOD2023?",
+        "answer": "Google",
+        "from": "SIGMOD2023>>SIGMOD Program>>Research Papers"
+    },
+    {
+        "question": "Who authored the research paper titled 'Data Stream Clustering: An In-depth Empirical Study' at SIGMOD2023?",
+        "answer": [
+            "Xin Wang",
+            "Zhengru Wang",
+            "Zhenyu Wu",
+            "Shuhao Zhang",
+            "Xianzhi Zeng",
+            "Zhonghao Yang",
+            "Haolan He",
+            "wu yuhao",
+            "Xuanhua Shi",
+            "Li Lu"
+        ],
+        "from": "SIGMOD2023>>SIGMOD Program>>Research Papers"
+    },
+    {
+        "question": "When will the new researcher symposium be held at SIGMOD2023?",
+        "answer": "The new researcher symposium will be held on Tuesday June 20, from 6:30 pm to 8:30 pm.",
+        "from": "SIGMOD2023>>SIGMOD Program>>Detailed Program>>new researcher symposium>>date, time"
+    },
+    {
+        "question": "Who are the session chairs for the new researcher symposium at SIGMOD2023?",
+        "answer": "The session chairs for the new researcher symposium are Jia Zou from Arizona State University and Parth Nagarkar from New Mexico State University.",
+        "from": "SIGMOD2023>>SIGMOD Program>>Detailed Program>>new researcher symposium>>session_chairs"
+    },
+    {
+        "question": "Where will the new researcher symposium take place at SIGMOD2023?",
+        "answer": "The new researcher symposium will take place in Evergreen A.",
+        "from": "SIGMOD2023>>SIGMOD Program>>Detailed Program>>new researcher symposium>>location"
+    },
+    {
+        "question": "Who are the panelists participating in the new researcher symposium at SIGMOD2023?",
+        "answer": "The panelists for the new researcher symposium are Leilani Battle from University of Washington, Chris Jermaine from Rice University, Senjuti Basu Roy from New Jersey Institute of Technology, Mo Sarwat from Wherobots, and Erkang Zhu (Eric Zhu) from Microsoft Research.",
+        "from": "SIGMOD2023>>SIGMOD Program>>Detailed Program>>new researcher symposium>>panelists"
+    },
+    {
+        "question": "Who is Mo Sarwat and what is his affiliation in the new researcher symposium at SIGMOD2023?",
+        "answer": "Mo Sarwat is a panelist in the new researcher symposium and he is affiliated with Wherobots.",
+        "from": "SIGMOD2023>>SIGMOD Program>>Detailed Program>>new researcher symposium>>panelists"
+    },
+    {
+        "question": "What is the title of the demo paper authored by Immanuel Trummer from Cornell University?",
+        "answer": "Demonstrating NaturalMiner: Searching Large Data Sets for Abstract Patterns Described in Natural Language and Demonstration of ThalamusDB: Answering Complex SQL Queries with Natural Language Predicates on Multi-Modal Data.",
+        "from": "SIGMOD2023>>SIGMOD Program>>Demo Papers"
+    },
+    {
+        "question": "Who are the authors of the demo paper titled 'Acheron: Persisting Tombstones in LSM Engines'?",
+        "answer": "Zichen Zhu, Subhadeep Sarkar, and Manos Athanassoulis from Boston University.",
+        "from": "SIGMOD2023>>SIGMOD Program>>Demo Papers"
+    },
+    {
+        "question": "Which organization does the author of the demonstration paper 'Dexer: Detecting and Explaining Biased Representation in Ranking', Yuval Moskovitch, belong to?",
+        "answer": "Yuval Moskovitch is from Ben Gurion University.",
+        "from": "SIGMOD2023>>SIGMOD Program>>Demo Papers"
+    },
+    {
+        "question": "What is the title of the paper that Rui Zang from Hong Kong Baptist University contributed to?",
+        "answer": "The title of the paper is 'PyNKDV: An Efficient Network Kernel Density Visualization Library for Geospatial Analytic Systems'.",
+        "from": "SIGMOD2023>>SIGMOD Program>>Demo Papers"
+    },
+    {
+        "question": "Who co-authored the paper 'Demonstrating MATE and COCOA for Data Discovery' with Jannis Becktepe from Leibniz Universität Hannover?",
+        "answer": "Mahdi Esmailoghli, Maximilian Koch, and Ziawasch Abedjan co-authored the paper with Jannis Becktepe.",
+        "from": "SIGMOD2023>>SIGMOD Program>>Demo Papers"
+    },
+    {
+        "question": "Who is the keynote speaker for the PODS Program at SIGMOD2023?",
+        "answer": "Jure Leskovec from Stanford will be the keynote speaker.",
+        "from": "SIGMOD2023>>PODS Program>>Keynote Talk>>Speaker"
+    },
+    {
+        "question": "What is the title of the keynote talk in the PODS Program at SIGMOD2023?",
+        "answer": "The title of the keynote talk is 'Databases as Graphs: Predictive Queries for Declarative Machine Learning'.",
+        "from": "SIGMOD2023>>PODS Program>>Keynote Talk>>title"
+    },
+    {
+        "question": "What is the Keynote Talk about in the PODS Program at SIGMOD2023?",
+        "answer": "The talk is about Kumo, a no-code machine learning platform that enables data scientists to solve a wide range of machine learning problems over relational tables in a simple, declarative way. It utilizes a SQL-like Predictive Query language and represents relational schema as a heterogeneous hypergraph. This graph and Deep Graph Neural Networks can be used to learn optimal feature representation.",
+        "from": "SIGMOD2023>>PODS Program>>Keynote Talk>>Abstract"
+    },
+    {
+        "question": "What is the main challenge in building the system like Kumo mentioned in the keynote talk?",
+        "answer": "The main challenge is building a distributed system for Graph Neural Network (GNN) training and inference, which poses several interesting algorithmic and data processing challenges.",
+        "from": "SIGMOD2023>>PODS Program>>Keynote Talk>>Abstract"
+    },
+    {
+        "question": "How has Kumo been applied in industry?",
+        "answer": "Kumo has been deployed successfully at several major companies.",
+        "from": "SIGMOD2023>>PODS Program>>Keynote Talk>>Abstract"
+    },
+    {
+        "question": "Who are the panelists for the 'Future of Database System Architectures' discussion?",
+        "answer": "Gustavo Alonso, ETH; Natassa Ailamaki, EPFL; Sailesh Krishnamurthy, Google; Sam Madden, MIT; Swami Sivasubramanian, AWS",
+        "from": "SIGMOD2023>>SIGMOD Program>>Detailed Program>>Panel Discussions>>[0]>>panelists"
+    },
+    {
+        "question": "Who will moderate the discussion on 'Personal Data for Personal Use: Vision or Reality?'",
+        "answer": "Alon Halevy and Wang-Chiew Tan, Meta",
+        "from": "SIGMOD2023>>SIGMOD Program>>Detailed Program>>Panel Discussions>>[1]>>moderators"
+    },
+    {
+        "question": "What is the venue for the 'Future of Database System Architectures' discussion?",
+        "answer": "Evergreen E",
+        "from": "SIGMOD2023>>SIGMOD Program>>Detailed Program>>Panel Discussions>>[0]>>location"
+    },
+    {
+        "question": "When will the discussion on 'Personal Data for Personal Use: Vision or Reality?' take place?",
+        "answer": "Thursday June 22 10:00 am – 11:30 am",
+        "from": "SIGMOD2023>>SIGMOD Program>>Detailed Program>>Panel Discussions>>[1]>>time"
+    },
+    {
+        "question": "Who is the moderator for the panel discussion on the 'Future of Database System Architectures'?",
+        "answer": "Raghu Ramakrishnan, Microsoft",
+        "from": "SIGMOD2023>>SIGMOD Program>>Detailed Program>>Panel Discussions>>[0]>>moderator"
+    },
+    {
+        "question": "Who is the PODS Program Committee Member from University of London for SIGMOD2023?",
+        "answer": "Hubie Chen",
+        "from": "SIGMOD2023>>Organization>>PODS Program Committee Members>>name"
+    },
+    {
+        "question": "Who is the PC Chair of PODS Program Committee for SIGMOD2023?",
+        "answer": "Hung Ngo",
+        "from": "SIGMOD2023>>Organization>>PODS Program Committee Members>>name"
+    },
+    {
+        "question": "How many members of the PODS Program Committee for SIGMOD2023 are affiliated with universities based in Chile?",
+        "answer": "3",
+        "from": [
+            "SIGMOD2023>>Organization>>PODS Program Committee Members>>affiliation",
+            "SIGMOD2023>>Organization>>PODS Program Committee Members>>affiliation",
+            "SIGMOD2023>>Organization>>PODS Program Committee Members>>affiliation"
+        ]
+    },
+    {
+        "question": "Which committee member for SIGMOD2023 is affiliated with École Normale Supérieure?",
+        "answer": "Nofar Carmeli",
+        "from": "SIGMOD2023>>Organization>>PODS Program Committee Members>>name"
+    },
+    {
+        "question": "How many members of the PODS Program Committee for SIGMOD2023 are affiliated with a University in United States?",
+        "answer": "6",
+        "from": [
+            "SIGMOD2023>>Organization>>PODS Program Committee Members>>affiliation",
+            "SIGMOD2023>>Organization>>PODS Program Committee Members>>affiliation",
+            "SIGMOD2023>>Organization>>PODS Program Committee Members>>affiliation",
+            "SIGMOD2023>>Organization>>PODS Program Committee Members>>affiliation",
+            "SIGMOD2023>>Organization>>PODS Program Committee Members>>affiliation",
+            "SIGMOD2023>>Organization>>PODS Program Committee Members>>affiliation"
+        ]
+    },
+    {
+        "question": "What is the primary focus of the Industrial Track of SIGMOD 2023?",
+        "answer": "The Industrial Track of SIGMOD 2023 primarily focuses on all aspects of innovative commercial or industrial-strength data management systems and solutions. It also welcomes novel applications of data management systems and experiences in applying recent research advances to problems that are relevant to the database industry.",
+        "from": "SIGMOD2023>>Calls For Submissions>>SIGMOD Call for Industrial Track Papers>>introduction"
+    },
+    {
+        "question": "What are the paper formatting requirements for the Industrial Track submissions for SIGMOD 2023?",
+        "answer": "The papers must be prepared following the latest standard ACM paper format. They should preferably be formatted using either the sample-sigconf.tex or Interim layout.docx template provided. The margin, inter-column spacing, and line spacing in the templates must remain unchanged. Any paper that violates the length, file type, or formatting requirements will be rejected without review.",
+        "from": "SIGMOD2023>>Calls For Submissions>>SIGMOD Call for Industrial Track Papers>>Formatting"
+    },
+    {
+        "question": "What is the submission deadline for the Industrial Track papers for SIGMOD 2023?",
+        "answer": "The submission deadline for the Industrial Track papers of SIGMOD 2023 is Tuesday, November 29, 2022.",
+        "from": "SIGMOD2023>>Calls For Submissions>>SIGMOD Call for Industrial Track Papers>>Important Dates(All deadlines below are 5 PM Pacific Time)[0]>>Date"
+    },
+    {
+        "question": "Are the submissions to the Industrial Track of SIGMOD 2023 double-blind?",
+        "answer": "No, the submissions to the Industrial Track of SIGMOD 2023 are not double-blind. Each submission must include all author names and affiliations.",
+        "from": "SIGMOD2023>>Calls For Submissions>>SIGMOD Call for Industrial Track Papers>>Submission Guidelines"
+    },
+    {
+        "question": "Are there any specific requirements concerning the authors for the Industrial Track papers submissions for SIGMOD 2023?",
+        "answer": "Yes, each submission to the Industrial Track of SIGMOD 2023 must include at least one author with a non-academic affiliation.",
+        "from": "SIGMOD2023>>Calls For Submissions>>SIGMOD Call for Industrial Track Papers>>Note"
+    },
+    {
+        "question": "What is the deadline for abstract submission for the Student Research Competition at SIGMOD 2023?",
+        "answer": "The deadline for abstract submission is extended to 5pm Pacific Standard Time, January 31, 2023.",
+        "from": "SIGMOD2023>>Special and Co-located Events>>Student Research Competition>>Important Dates"
+    },
+    {
+        "question": "Who are the organizers for BiDEDE: Big Data in Emergent Distributed Environments workshop at SIGMOD 2023?",
+        "answer": "The organizers for BiDEDE workshop are Sven Groppe from University of Lübeck, Le Gruenwald from University of Oklahoma, and Ching-Hsien Hsu from Asia University.",
+        "from": "SIGMOD2023>>Special and Co-located Events>>Affiliated Workshops>>[0]>>Workshops>>[0]>>organizers"
+    },
+    {
+        "question": "What is the prize for the winning team in the Programming Contest at SIGMOD 2023?",
+        "answer": "The winning team will be awarded a prize of $2,000 (USD).",
+        "from": "SIGMOD2023>>Special and Co-located Events>>Programming Contest>>Contest Overview"
+    },
+    {
+        "question": "Who is the chair of the New Researchers Symposium at SIGMOD 2023?",
+        "answer": "The session chairs for the New Researchers Symposium are Jia Zou from Arizona State University, USA and Parth Nagarkar from New Mexico State University, USA.",
+        "from": "SIGMOD2023>>Special and Co-located Events>>New Researchers Symposium>>Session Chair"
+    },
+    {
+        "question": "What is the task for the SIGMOD 2023 programming contest?",
+        "answer": "The task for the SIGMOD 2023 programming contest is to build an approximate K-NN Graph for a set of vectors. The approximate K-NN Graph is a directed graph with vertex set and for each vertex, it is connected to its approximate k nearest neighbor under one given similarity measure, such as Euclidean distance.",
+        "from": "SIGMOD2023>>Special and Co-located Events>>Programming Contest>>Task Overview"
+    },
+    {
+        "question": "Who is the session chair for the 'Industry Invited Papers' session?",
+        "answer": "Hakan Hacigumus",
+        "from": "SIGMOD2023>>SIGMOD Program>>Detailed Program>>Industry Sessions>>Industry Invited Papers>>Session Chair"
+    },
+    {
+        "question": "What are the paper titles presented in the 'Session 1'?",
+        "answer": [
+            "Disaggregating RocksDB: A Production Experience",
+            "GoldMiner: Elastic Scaling of Training Data Pre-Processing Pipelines for Deep Learning",
+            "VeDB: A Software and Hardware Enabled Trusted Relational Database",
+            "Presto: A Decade of SQL Analytics at Meta",
+            "Keep Your Distributed Data Warehouse Consistent at a Minimal Cost",
+            "What’s the difference? Incremental processing with change queries in Snowflake",
+            "Apache IoTDB: A Time Series Database for IoT Applications"
+        ],
+        "from": "SIGMOD2023>>SIGMOD Program>>Detailed Program>>Industry Sessions>>Session 1>>Papers"
+    },
+    {
+        "question": "When is the 'Session 2' scheduled and where?",
+        "answer": "Session 2 is scheduled on Thursday June 22 from 4:00 pm – 5:30 pm at Evergreen B",
+        "from": [
+            "SIGMOD2023>>SIGMOD Program>>Detailed Program>>Industry Sessions>>Session 2>>Date",
+            "SIGMOD2023>>SIGMOD Program>>Detailed Program>>Industry Sessions>>Session 2>>Time",
+            "SIGMOD2023>>SIGMOD Program>>Detailed Program>>Industry Sessions>>Session 2>>Location"
+        ]
+    },
+    {
+        "question": "What paper is being presented by Amazon Redshift in the 'Industry Invited Papers' session?",
+        "answer": "Auto-WLM: ML-enhanced workload management in Amazon Redshift",
+        "from": "SIGMOD2023>>SIGMOD Program>>Detailed Program>>Industry Sessions>>Industry Invited Papers>>Papers"
+    },
+    {
+        "question": "Who is the session chair for the 'Session 2'?",
+        "answer": "Shaleen Deep",
+        "from": "SIGMOD2023>>SIGMOD Program>>Detailed Program>>Industry Sessions>>Session 2>>Session Chair"
+    },
+    {
+        "question": "Where and when is the 'HILDA' event taking place on June 18, 2023?",
+        "answer": "The 'HILDA' event is taking place at the location 'Evergreen BC' from 8:30 to 10:30, 11:00 to 12:30 and 13:30 to 15:00.",
+        "from": [
+            "SIGMOD2023",
+            "SIGMOD Program",
+            "Program Overview",
+            "SUNDAY (June 18, 2023)"
+        ]
+    },
+    {
+        "question": "What event is Jure Leskovec, Stanford University presenting at?",
+        "answer": "Jure Leskovec is presenting at the event 'PODS Opening' on the topic 'Databases as Graphs: Predictive Queries for Declarative Machine Learning'.",
+        "from": [
+            "SIGMOD2023",
+            "SIGMOD Program",
+            "Program Overview",
+            "MONDAY (June 19, 2023)"
+        ]
+    },
+    {
+        "question": "What is the topic of SIGMOD Keynote 1 on June 20, 2023?",
+        "answer": "The topic of SIGMOD Keynote 1 is '49 Years of Queries', and the speaker is Don Chamberlin, an IBM Fellow (retired).",
+        "from": [
+            "SIGMOD2023",
+            "SIGMOD Program",
+            "Program Overview",
+            "TUESDAY (JUNE 20, 2023)"
+        ]
+    },
+    {
+        "question": "Where will the 'SIGMOD Banquet' be held?",
+        "answer": "The 'SIGMOD Banquet' will be held at the 'Amazon Meeting Center'.",
+        "from": [
+            "SIGMOD2023",
+            "SIGMOD Program",
+            "Program Overview",
+            "WEDNESDAY (JUNE 21, 2023)"
+        ]
+    },
+    {
+        "question": "What tutorial is available on June 23, 2023 from 13:30 to 15:00?",
+        "answer": "The tutorial available is 'Data Processing with FPGAs on Modern Architectures'.",
+        "from": [
+            "SIGMOD2023",
+            "SIGMOD Program",
+            "Program Overview",
+            "FRIDAY (JUNE 23, 2023)"
+        ]
+    },
+    {
+        "question": "What is the goal of the SIGMOD demonstration program?",
+        "answer": "The SIGMOD demonstration program aims to showcase cutting-edge data management system prototypes, with an emphasis on visionary next generation systems requiring significant research and development effort. Such demonstration papers are expected to focus on data-intensive components of data science pipelines in areas of interest to the community such as data curation, optimization, performance, storage, systems.",
+        "from": "SIGMOD2023>>Calls For Submissions>>SIGMOD Call for Demonstration Proposals>>introduction"
+    },
+    {
+        "question": "What are the specifics expected in a demonstration proposal for SIGMOD?",
+        "answer": "The demonstration proposal must contain a description of the novel intellectual content of the system, its architecture, target user(s), use-case(s), and scenario(s) to demonstrate user experience and key functionalities. It should also include citations of the most relevant papers about the system and any previous publications. A short video of the demo must be included that clearly showcases user experience and a step-through of a use-case. The proposal should clearly indicate the already implemented part of the prototype and the functionalities planned for final submission.",
+        "from": "SIGMOD2023>>Calls For Submissions>>SIGMOD Call for Demonstration Proposals>>requirements"
+    },
+    {
+        "question": "What is the page limit for the demonstration proposal and where should if be submitted?",
+        "answer": "Each demonstration proposal must not exceed FOUR US letter size pages including title, abstract, body, and bibliography. It must be submitted as a single PDF file and should follow the ACM Proceedings Format for either Latex or Word. The proposal should be submitted electronically through https://cmt3.research.microsoft.com/SIGMODdemo2023.",
+        "from": "SIGMOD2023>>Calls For Submissions>>SIGMOD Call for Demonstration Proposals>>requirements"
+    },
+    {
+        "question": "When is the submission deadline for the demonstration proposals to SIGMOD?",
+        "answer": "The submission deadline for the demonstration proposals to SIGMOD is January 13, 2023.",
+        "from": "SIGMOD2023>>Calls For Submissions>>SIGMOD Call for Demonstration Proposals>>Important Dates>>Event: 'Submission deadline'"
+    },
+    {
+        "question": "What is the 'Best Demo' award in the SIGMOD demonstration program?",
+        "answer": "The 'Best Demo' award is given to one of the demonstrations presented at SIGMOD that has shown significant novelty and engagement in terms of data management and data science & engineering technologies.",
+        "from": "SIGMOD2023>>Calls For Submissions>>SIGMOD Call for Demonstration Proposals>>requirements"
+    },
+    {
+        "question": "What is the mission of the PODS community?",
+        "answer": "The PODS community aims to provide a solid scientific basis for methods, techniques and solutions for the data management problems that continually arise in our data-driven society. Their goal is to develop solutions that ensure a high level of efficiency, scalability, expressiveness, robustness, flexibility, security, and privacy, among others.",
+        "from": "SIGMOD2023>>Calls For Submissions>>PODS Call for Research Papers>>PODS Mission"
+    },
+    {
+        "question": "What are the topics that fit the interests of the PODS symposium?",
+        "answer": "Topics that fit the interests of the symposium include, but are not limited to: Database design, database access, data quality, database processing, data analysis, uncertainty, interoperability, and responsible data management.",
+        "from": "SIGMOD2023>>Calls For Submissions>>PODS Call for Research Papers>>Scope"
+    },
+    {
+        "question": "Where can papers for the symposium be submitted?",
+        "answer": "Papers can be submitted at the following site: https://easychair.org/conferences/?conf=pods2023",
+        "from": "SIGMOD2023>>Calls For Submissions>>PODS Call for Research Papers>>Submission Site"
+    },
+    {
+        "question": "What is the format for the submission of papers for the PODS symposium?",
+        "answer": "Submitted papers must be formatted using the standard ACM \"sigconf\" proceedings stylesheet. They can be up to 8 pages, not including references, plus unlimited space for references. Additional details may be included in an appendix that should be incorporated at submission time.",
+        "from": "SIGMOD2023>>Calls For Submissions>>PODS Call for Research Papers>>Submission Format"
+    },
+    {
+        "question": "What is the nature of the reviewing process for the submitted papers?",
+        "answer": "PODS will apply a double-blind reviewing process. This implies that submitted papers must adhere to a double-blind reviewing policy, and authors must provide a list of potential conflicts of interest at the moment of submission.",
+        "from": "SIGMOD2023>>Calls For Submissions>>PODS Call for Research Papers>>Double-blind reviewing"
+    },
+    {
+        "question": "What is the research titled as the Best Artifact in the SIGMOD Program Awards?",
+        "answer": "These aren't the JSON documents you're looking for...",
+        "from": "SIGMOD2023>>SIGMOD Program>>Awards>>SIGMOD Best Artifact Award>>Best Artifact>>title"
+    },
+    {
+        "question": "Who are the authors of the paper 'Detecting Logic Bugs of Join Optimizations in DBMS' which won the SIGMOD Research Track Best Paper award?",
+        "answer": [
+            "Xiu Tang (Zhejiang University)",
+            "Sai Wu (Zhejiang Univ)",
+            "Dongxiang Zhang (Zhejiang University)",
+            "Feifei Li (Alibaba Group)",
+            "Gang Chen (Zhejiang University)"
+        ],
+        "from": "SIGMOD2023>>SIGMOD Program>>Awards>>SIGMOD Research Track Best Papers>>0>>authors"
+    },
+    {
+        "question": "Who won the undergraduate category of the SGIMOD Student Research Competition?",
+        "answer": "Xiochen Zhu from National Institute of Singapore",
+        "from": "SIGMOD2023>>SIGMOD Program>>Awards>>SGIMOD Student Research Competition>>Undergraduate Winner>>1st"
+    },
+    {
+        "question": "What is the title of the dissertation for which Supun Nakandala won the Jim Gray Doctoral Dissertation Award?",
+        "answer": "Query Optimizations for Deep Learning Systems",
+        "from": "SIGMOD2023>>SIGMOD Program>>Awards>>Jim Gray Doctoral Dissertation Award>>Winner>>title"
+    },
+    {
+        "question": "Who was awarded the SIGMOD Contributions Award and why?",
+        "answer": "K. Selcuk Candan for extensive and outstanding service to the database community, including long-term dedication to the SIGMOD conference coordination, instigation of rolling deadlines for the SIGMOD conference, and leadership in the conference proceedings to ACM PACMMOD journal transition.",
+        "from": "SIGMOD2023>>SIGMOD Program>>Awards>>SIGMOD Contributions Award"
+    },
+    {
+        "question": "Who is the author of the industrial paper titled 'Presto: A Decade of SQL Analytics at Meta'?",
+        "answer": "James Sun",
+        "from": "SIGMOD2023>>SIGMOD Program>>Industrial Papers>>[Presto: A Decade of SQL Analytics at Meta]>>author"
+    },
+    {
+        "question": "Which author affiliated to 'Apple' contributed to the most papers?",
+        "answer": "Ihab F. Ilyas",
+        "from": [
+            "SIGMOD2023>>SIGMOD Program>>Industrial Papers>>[Growing and Serving Large Open-domain Knowledge Graphs]>>author",
+            "SIGMOD2023>>SIGMOD Program>>Industrial Papers>>[High-Throughput Vector Similarity Search in Knowledge Graphs]>>author"
+        ]
+    },
+    {
+        "question": "What is the title of the industrial paper where 'Jignesh Patel' from 'UW - Madison' is listed as an author?",
+        "answer": "DataChat: An Intuitive and Collaborative Data Analytics Platform",
+        "from": "SIGMOD2023>>SIGMOD Program>>Industrial Papers>>[DataChat: An Intuitive and Collaborative Data Analytics Platform]>>title"
+    },
+    {
+        "question": "Which organization does the author 'Xinying Yang' of the paper 'VeDB: A Software and Hardware Enabled Trusted Relational Database' belong to?",
+        "answer": "ByteDance",
+        "from": "SIGMOD2023>>SIGMOD Program>>Industrial Papers>>[VeDB: A Software and Hardware Enabled Trusted Relational Database]>>author>>affiliation"
+    },
+    {
+        "question": "How many authors contributed to the paper titled 'GeaFlow: A Graph Extended and Accelerated Dataflow System'?",
+        "answer": "9",
+        "from": "SIGMOD2023>>SIGMOD Program>>Industrial Papers>>[GeaFlow: A Graph Extended and Accelerated Dataflow System]>>author"
+    },
+    {
+        "question": "What is the time and location of Tutorial 9: Disaggregated Database Systems in SIGMOD2023 program?",
+        "answer": "The time is Friday June 23 11:00 am – 12:30 pm and location is Cedar B",
+        "from": "SIGMOD2023>>SIGMOD Program>>Detailed Program>>tutorial sessions"
+    },
+    {
+        "question": "What is the subject of the tutorial which will take place in Evergreen I on Sunday June 18 at 9:00 am - 10:30 am?",
+        "answer": "The subject of the tutorial is Main memory database recovery strategies",
+        "from": "SIGMOD2023>>SIGMOD Program>>Detailed Program>>tutorial sessions"
+    },
+    {
+        "question": "Does the Tutorial 7: Demystifying Artificial Intelligence for Data Preparation provide any materials for attendees?",
+        "answer": "Yes. The slide for the tutorial is available at https://drive.google.com/drive/folders/1U_OVd8zbChBFLdYMBtnM95q4lgE5AZNa?usp=sharing",
+        "from": "SIGMOD2023>>SIGMOD Program>>Detailed Program>>tutorial sessions"
+    },
+    {
+        "question": "Which tutorial is held in Grand K on Thursday June 22?",
+        "answer": "The tutorial held in Grand K on Thursday June 22 is Quantum Machine Learning: Foundation, New techniques, and Opportunities for Database Research",
+        "from": "SIGMOD2023>>SIGMOD Program>>Detailed Program>>tutorial sessions"
+    },
+    {
+        "question": "When and where is Tutorial 10: Data Processing with FPGAs on Modern Architectures happening?",
+        "answer": "The tutorial is happening on Friday June 23 1:30 pm – 3:00 pm and Friday June 23 3:30 pm – 5:00 pm at Regency A",
+        "from": "SIGMOD2023>>SIGMOD Program>>Detailed Program>>tutorial sessions"
+    },
+    {
+        "question": "What are the dates and times of the Demo Sessions Group B at SIGMOD2023?",
+        "answer": "Group B sessions are on Tuesday June 20 from 2:00 pm – 3:30 pm and Thursday June 22 from 10:00 am – 11:30 am.",
+        "from": "SIGMOD2023>>SIGMOD Program>>Detailed Program>>Demo Sessions>>Group B>>Schedule"
+    },
+    {
+        "question": "What papers will be presented in Demo Sessions Group A at SIGMOD2023?",
+        "answer": "The papers are 'Proactively Screening Machine Learning Pipelines with ArgusEyes', 'PyNKDV: An Efficient Network Kernel Density Visualization Library for Geospatial Analytic Systems', 'ARENA: Alternative Relational Query Plan Exploration for Database Education', 'Pay “Attention” to Chart Images for What You Read on Text', Demonstrating MATE and COCOA for Data Discovery', 'Demonstration of Geyser: Provenance Extraction and Applications over Data Science Scripts', 'SMILE: A Cost-Effective System for Serving Massive Pretrained Language Models in the Cloud', 'Demonstrating NaturalMiner: Searching Large Data Sets for Abstract Patterns Described in Natural Language', 'Characterizing and Verifying Queries Via CInsGen', 'CoWrangler: Recommender System for Data-Wrangling Scripts', 'SHACTOR: Improving the Quality of Large-Scale Knowledge Graphs with Validating Shapes', 'Fast Natural Language Based Data Exploration with Samples', 'ATENA-PRO: Generating Personalized Exploration Notebooks with Constrained Reinforcement Learning', 'Demonstration of ThalamusDB: Answering Complex SQL Queries with Natural Language Predicates on Multi-Modal Data'",
+        "from": "SIGMOD2023>>SIGMOD Program>>Detailed Program>>Demo Sessions>>Group A>>Papers"
+    },
+    {
+        "question": "Where will the Group B sessions of the Demo Sessions take place at SIGMOD2023?",
+        "answer": "The sessions will take place at Grand IJ.",
+        "from": "SIGMOD2023>>SIGMOD Program>>Detailed Program>>Demo Sessions>>Group B>>Schedule>>Location"
+    },
+    {
+        "question": "What is the title of the last paper in Demo Sessions Group B at SIGMOD2023?",
+        "answer": "The title of the last paper is 'Efficient Query Processing in Python Using Compilation'.",
+        "from": "SIGMOD2023>>SIGMOD Program>>Detailed Program>>Demo Sessions>>Group B>>Papers"
+    },
+    {
+        "question": "How many papers will be presented in Group B of the Demo Sessions at SIGMOD2023?",
+        "answer": "14 papers will be presented.",
+        "from": "SIGMOD2023>>SIGMOD Program>>Detailed Program>>Demo Sessions>>Group B>>Papers"
+    },
+    {
+        "question": "Who is the session chair for 'Session 16: Query Optimization' on 'Wednesday June 21'?",
+        "answer": "Dan Suciu",
+        "from": "SIGMOD2023>>SIGMOD Program>>Detailed Program>>Research Sessions>>Session 16: Query Optimization>>Session Chair"
+    },
+    {
+        "question": "What papers will be presented during 'Session 27: Modern hardware, performance, and benchmarking' on 'Thursday June 22'?",
+        "answer": [
+            "Design Guidelines for Correct, Efficient, and Scalable Synchronization using One-Sided RDMA",
+            "Distributed GPU Joins on Fast RDMA-capable Networks",
+            "ClipSim: A GPU-friendly Parallel Framework for Single-Source SimRank with Accuracy Guarantee",
+            "Virtual-Memory Assisted Buffer Management",
+            "Optimizing Tensor Programs on Flexible Storage",
+            "How To Optimize My Blockchain? A Multi-Level Recommendation Approach"
+        ],
+        "from": "SIGMOD2023>>SIGMOD Program>>Detailed Program>>Research Sessions>>Session 27: Modern hardware, performance, and benchmarking>>Papers"
+    },
+    {
+        "question": "What time will 'Session 26: Graphs' start on 'Thursday, June 22'?",
+        "answer": "2:00 pm – 3:30 pm",
+        "from": "SIGMOD2023>>SIGMOD Program>>Detailed Program>>Research Sessions>>Session 26: Graphs>>Time"
+    },
+    {
+        "question": "Where will 'Session 3: Transactions & Indexing' be held on 'Tuesday June 20'?",
+        "answer": "Evergreen F",
+        "from": "SIGMOD2023>>SIGMOD Program>>Detailed Program>>Research Sessions>>Session 3: Transactions & Indexing>>Location"
+    },
+    {
+        "question": "What is the last paper to be presented during 'Session 5: Time series and temporal data' on 'Tuesday June 20'?",
+        "answer": "ForestTI: A Scalable Inverted-Index-Oriented Timeseries Management System with Flexible Memory Efficiency",
+        "from": "SIGMOD2023>>SIGMOD Program>>Detailed Program>>Research Sessions>>Session 5: Time series and temporal data>>Papers"
+    },
+    {
+        "question": "Who will be the speaker for the first tutorial at the PODS Program of SIGMOD2023?",
+        "answer": "Edith Cohen (Google)",
+        "from": "SIGMOD2023>>PODS Program>>Invited Tutorials>>Tutorial 1: Sampling Big Ideas in Query Optimization>>Speaker"
+    },
+    {
+        "question": "What are the key takeaways from Edith Cohen's tutorial at SIGMOD2023?",
+        "answer": "The tutorial discusses the design and applications of weighted sampling schemes, emphasizing on algorithmic simplicity and practicality, and the context of streamed or distributed data.",
+        "from": "SIGMOD2023>>PODS Program>>Invited Tutorials>>Tutorial 1: Sampling Big Ideas in Query Optimization>>Abstract"
+    },
+    {
+        "question": "Which university does the second tutorial speaker Floris Geerts belong to?",
+        "answer": "University of Antwerp",
+        "from": "SIGMOD2023>>PODS Program>>Invited Tutorials>>Tutorial 2: A Query Language Perspective on Graph Learning>>Speaker"
+    },
+    {
+        "question": "What is the content of the second tutorial at the PODS Program of SIGMOD2023?",
+        "answer": "The tutorial presents a survey on the expressive power of graph learning methods from a unifying query language perspective. It discusses the processes involved in mapping discrete relational objects into the realm of real vectors. It also argues about the ample avenues for further research in the bridge between graph learning and query languages.",
+        "from": "SIGMOD2023>>PODS Program>>Invited Tutorials>>Tutorial 2: A Query Language Perspective on Graph Learning>>Abstract"
+    },
+    {
+        "question": "What is the common theme for the tutorials at the PODS Program of SIGMOD2023?",
+        "answer": "The common theme for the tutorials appears to be data analysis and query optimization, specifically focusing on sampling schemes and graph learning methods.",
+        "from": [
+            "SIGMOD2023>>PODS Program>>Invited Tutorials>>Tutorial 1: Sampling Big Ideas in Query Optimization>>Abstract",
+            "SIGMOD2023>>PODS Program>>Invited Tutorials>>Tutorial 2: A Query Language Perspective on Graph Learning>>Abstract"
+        ]
+    },
+    {
+        "question": "What are some of the responsibilities of the organisers of accepted workshops for SIGMOD 2023?",
+        "answer": "The organisers of accepted workshops are required to announce the workshop and call for papers, solicit submissions, conduct the reviewing process, and decide on the final workshop program. They must also prepare their own proceedings, which must be submitted for inclusion in the ACM Digital Library.",
+        "from": "SIGMOD2023>>Calls For Submissions>>SIGMOD Call for Workshop Proposals>>Logistics and Organizational Support"
+    },
+    {
+        "question": "What information must be included in the workshop proposals for SIGMOD 2023?",
+        "answer": "The workshop proposals must include statistics for previous editions of the workshop, interest in and attractiveness of each workshop for the database community, detailed information about handling of conflicts of interest, rationale about recruiting the PC of the workshop, publicity and sponsorship plans, and a short statement on strategy for carrying out the workshop for both online and on-site participants.",
+        "from": "SIGMOD2023>>Calls For Submissions>>SIGMOD Call for Workshop Proposals>>Submission Guidelines"
+    },
+    {
+        "question": "What criteria will be used to evaluate the workshop proposals for SIGMOD 2023?",
+        "answer": "Proposal evaluation criteria include relevance to SIGMOD, scientific quality, perceived interest, past performance, diversity considerations, long-term vision, and overlap with other proposals.",
+        "from": "SIGMOD2023>>Calls For Submissions>>SIGMOD Call for Workshop Proposals>>Submission Guidelines"
+    },
+    {
+        "question": "Who should workshop proposals and further inquiries for SIGMOD 2023 be sent to?",
+        "answer": "Workshop proposals and further inquiries should be sent to the SIGMOD 2023 Workshop chairs: Umar Farooq Minhas, Pinar Tozun, and Fatma Özcan",
+        "from": "SIGMOD2023>>Calls For Submissions>>SIGMOD Call for Workshop Proposals>>Submission Guidelines"
+    },
+    {
+        "question": "What are the important dates to remember for workshop proposal submission for SIGMOD 2023?",
+        "answer": "Workshop proposal submission is due on Friday, November 18, 2022 and the workshop proposal notification will be on Monday, December 5, 2022.",
+        "from": "SIGMOD2023>>Calls For Submissions>>SIGMOD Call for Workshop Proposals>>Important Dates(All deadlines are at 5PM Pacific Daylight Time)"
+    },
+    {
+        "question": "Who are the chairs of SIGMOD Availability & Reproducibility Organization for SIGMOD2023?",
+        "answer": "The chairs are Manos Athanassoulis from Boston University, USA and Holger Pirk from Imperial College London, UK.",
+        "from": "SIGMOD2023>>Organization>>SIGMOD Availability & Reproducibility Organization>>chairs"
+    },
+    {
+        "question": "Who is part of the Advisory Committee for SIGMOD2023 organized by SIGMOD Availability & Reproducibility Organization?",
+        "answer": "The Advisory Committee consists of Juliana Freire from New York University, USA, Stratos Idreos from Harvard University, USA and Dennis Shasha from New York University, USA.",
+        "from": "SIGMOD2023>>Organization>>SIGMOD Availability & Reproducibility Organization>>Advisory Committee"
+    },
+    {
+        "question": "Who leads the Awards Committee for SIGMOD2023 held by SIGMOD Availability & Reproducibility Organization?",
+        "answer": "The Awards Committee is chaired by Dennis Shasha from New York University, USA.",
+        "from": "SIGMOD2023>>Organization>>SIGMOD Availability & Reproducibility Organization>>Awards Committee>>chair"
+    },
+    {
+        "question": "Who are the members of the Awards Committee for SIGMOD2023 organized by SIGMOD Availability & Reproducibility Organization?",
+        "answer": "The members of the Awards Committee are Asterios Katsifodimos from Technische Universiteit Delft, Netherlands, Torsten Grust from Universität Tübingen, Germany and Juan Lastra-Díaz from Universidad Nacional de Educación a Distancia, Spain.",
+        "from": "SIGMOD2023>>Organization>>SIGMOD Availability & Reproducibility Organization>>Awards Committee>>members"
+    },
+    {
+        "question": "Where can I find more information about the SIGMOD Availability and Reproducibility Committee (ARC)?",
+        "answer": "Additional information about CAN be found on their website: https://reproducibility.sigmod.org/organization.html.",
+        "from": "SIGMOD2023>>Organization>>SIGMOD Availability & Reproducibility Organization>>the SIGMOD Availability and Reproducibility Committee (ARC)"
+    },
+    {
+        "question": "Who are the General Chairs for SIGMOD Program Committee 2023?",
+        "answer": "Sudipto Das and Ippokratis Pandis",
+        "from": "SIGMOD2023>>Organization>>SIGMOD Program Committee>>General Chairs"
+    },
+    {
+        "question": "Who are the Program Co-chairs for SIGMOD Program Committee 2023?",
+        "answer": "K. Selcuk Candan and Sihem Amer-Yahia",
+        "from": "SIGMOD2023>>Organization>>SIGMOD Program Committee>>Program Co-chairs"
+    },
+    {
+        "question": "Who are the Associate Editors of SIGMOD Program Committee 2023?",
+        "answer": "Zhifeng Bao, Elena Baralis, Ilaria Bartolini, Sourav S Bhowmick, Spyros Blanas, Philippe Bonnet, Huiping Cao, Khuzaima Daudjee, Aaron J Elmore, Elena Ferrari, Lukasz Golab, Torsten Grust, Murat Kantarcioglu, Zoi Kaoudi, George Kollios, Stefan Manegold, Essam Mansour, Mourad Ouzzani, Andrew Pavlo, Senjuti Basu Roy, Semih Salihoglu, Marco Serafini, Julia Stoyanovich, Dan Suciu, Egemen Tanin, Yufei Tao, Anthony Tung, Yannis Velegrakis, Ce Zhang, Meihui Zhang, Nan Zhang",
+        "from": "SIGMOD2023>>Organization>>SIGMOD Program Committee>>Associate Editors"
+    },
+    {
+        "question": "Name few PC Members of SIGMOD Program Committee 2023?",
+        "answer": "Ziawasch Abedjan, Ashraf Aboulnaga, Yael Amsterdamer, Periklis Andritsos, Walid G Aref, Joy Arulraj, Abolfazl Asudeh, Manos Athanassoulis, Farnoush Banaei-Kashani, Leilani Battle",
+        "from": "SIGMOD2023>>Organization>>SIGMOD Program Committee>>PC Members"
+    },
+    {
+        "question": "Who are the first four PC Members from universities for SIGMOD Program Committee 2023?",
+        "answer": "Ziawasch Abedjan from Leibniz Universität Hannover, Yael Amsterdamer from Bar-Ilan University, Periklis Andritsos from University of Toronto, Abolfazl Asudeh from University of Illinois at Chicago",
+        "from": "SIGMOD2023>>Organization>>SIGMOD Program Committee>>PC Members"
+    },
+    {
+        "question": "What is the goal of the SIGMOD Availability and Reproducibility Initiative?",
+        "answer": "The goal of the SIGMOD Availability and Reproducibility Initiative is to assist in building a culture where sharing results, code, and scripts of database research is the norm rather than an exception. The challenge is to do this efficiently, which means building technical expertise on how to do better research via creating repeatable and shareable research. The Availability and Reproducibility Committee is here to help with this.",
+        "from": "SIGMOD2023>>Reproducibility>>ACM SIGMOD ARI (Availability & Reproducibility Initiative)>>SIGMOD Availability & Reproducibility>>summary"
+    },
+    {
+        "question": "Who are the 2023 SIGMOD General Co-chairs?",
+        "answer": "The 2023 SIGMOD General Co-chairs are Sudipto Das and Ippokratis Pandis.",
+        "from": "SIGMOD2023>>Welcome>>Homepage>>chairs>>SIGMOD General Co-chairs"
+    },
+    {
+        "question": "What are the efforts being made to promote diversity and inclusion in the 2023 SIGMOD/PODS Conference?",
+        "answer": "The Data Management community is committed to the promotion of diversity and inclusion in all aspects of our professional activities. This includes increasing diversity of representation in the conference writing, enhancing the inclusivity and diversity of the conference by taking steps like the promotion of different cultures, embracing differences in figures and gender diversity in pronouns, and explicit awareness of the potential for disparate impact of data-driven techniques that make decisions about people, especially underrepresented groups.",
+        "from": [
+            "SIGMOD2023>>Inclusion and Diversity>>Diversity and Inclusion in Database Conference Venues",
+            "SIGMOD2023>>Inclusion and Diversity>>INCLUSION AND DIVERSITY IN WRITING"
+        ]
+    },
+    {
+        "question": "What is the venue for SIGMOD 2023 conference?",
+        "answer": "The conference will be held at the Hyatt Regency Bellevue hotel. The hotel is located on Seattle's Eastside in the heart of Bellevue's Shopping, Dining and Entertainment district, The Bellevue Collection.",
+        "from": "SIGMOD2023>>Welcome>>Homepage>>details of the location>>The Conference Hotel"
+    },
+    {
+        "question": "Who is the sponsor of Student Travel Award for SIGMOD 2023 conference?",
+        "answer": "The sponsor for the Student Travel Award for SIGMOD 2023 conference is NSF (National Science Foundation).",
+        "from": "SIGMOD2023>>Welcome>>Homepage>>SIGMOD&PODS 2023: Sponsors>>Student Travel Award Sponsor"
+    },
+    {
+        "question": "What is the deadline for submitting dissertations for the SIGMOD 2023 Doctoral Dissertation Award?",
+        "answer": "The deadline for submission is March 3rd, 2023.",
+        "from": "SIGMOD2023>>Calls For Submissions>>SIGMOD call for Doctoral Dissertation Award>>Eligibility"
+    },
+    {
+        "question": "What are the eligibility criteria for the SIGMOD 2023 Doctoral Dissertation Award?",
+        "answer": "Nominated dissertations for the 2023 Award must have been accepted by a university department in any country during the previous year. This includes dissertations accepted between September 1st, 2021 and August 31st, 2022. The dissertation topic must be within the scope of the mission of SIGMOD, i.e., large scale data management. A dissertation can be nominated for both the SIGMOD Jim Gray Doctoral Dissertation Award and the ACM Doctoral Dissertation Award.",
+        "from": "SIGMOD2023>>Calls For Submissions>>SIGMOD call for Doctoral Dissertation Award>>Eligibility"
+    },
+    {
+        "question": "What is the selection procedure for the SIGMOD Jim Gray Doctoral Dissertation Award?",
+        "answer": "The selection procedure is a two-phase process. In the first phase, nominated dissertations are reviewed for novelty, technical depth and significance of research contribution, potential impact on theory and practice, and quality of presentation. A short list is generated by a committee followed by an in-depth evaluation by the award committee. In the second phase, more detailed discussions of the potential award-winning dissertations will be held.",
+        "from": "SIGMOD2023>>Calls For Submissions>>SIGMOD call for Doctoral Dissertation Award>>Selection Procedure"
+    },
+    {
+        "question": "Who can submit the nomination materials for the SIGMOD Jim Gray Doctoral Dissertation Award?",
+        "answer": "Either the nominee or the nominator can submit the nomination materials.",
+        "from": "SIGMOD2023>>Calls For Submissions>>SIGMOD call for Doctoral Dissertation Award>>Submission Procedure"
+    },
+    {
+        "question": "Who are the co-chairs and members of the SIGMOD 2023 Doctoral Dissertation Award committee?",
+        "answer": "The co-chairs are Wolfgang Lehner (TU Dresden, Germany) and Gustavo Alonso (ETHZ, Switzerland). The committee members are Azza Abouzied (NYU Abu-Dhabi, United Arab Emirates), Daniel Deutch (Tel Aviv University, Israel), Evaggelia Pitoura (University of Ioannina, Greece), Xiaofang Zhou (HKUST), Huanchen Zhang(2021 winner) (Tsinghua University, China), and Chenggang Wu(2021 winner) (Aqueduct, USA).",
+        "from": "SIGMOD2023>>Calls For Submissions>>SIGMOD call for Doctoral Dissertation Award>>Award Committee"
+    },
+    {
+        "question": "What are the specific requirements and resources for presenting at the SIGMOD2023 conference?",
+        "answer": "For presenters at the conference, they must arrive at the session location at least 15 minutes early and introduce themselves to the chair of their session. Each room will have a computer with Windows 11 and PowerPoint Version Office 365 for use in presentations. The format of the presentation is a 1-minute setup and introduction by the session chair, followed by a 13-minute presentation period. The presenters must strictly adhere to time limits, and if they cannot present due to unexpected circumstances, they must inform the session chair and conference volunteers immediately. After the session, they should interact with the audience and attend both poster sessions for further interactions.",
+        "from": [
+            "SIGMOD2023>>Participant Information>>Session Chair & Presenter Instructions>>Presenter Instructions"
+        ]
+    },
+    {
+        "question": "What is the conference format for the SIGMOD2023?",
+        "answer": "The 2023 ACM SIGMOD/PODS Conference and all co-located events, such as workshops, panels, tutorials, demos, and competitions, will be in-person and are designed to facilitate active discussions and collaborations between presenters and attendees. At least one author of each paper should register for in-person attendance and presentation. There will be no option for live streaming or remote participation, and the event is geared towards 100% in-person attendance at the conference venue.",
+        "from": [
+            "SIGMOD2023>>Participant Information>>Conference Format"
+        ]
+    },
+    {
+        "question": "Who are eligible to apply for the SIGMOD2023 Student Travel Award?",
+        "answer": "To apply for the SIGMOD2023 Student Travel Award, the applicant must be a full-time student, either at the undergraduate or graduate level, and also a SIGMOD member at the time of receiving the award. Although having an accepted paper is not a requirement for eligibility, students who are the primary authors of an accepted paper in the main conference or workshops are especially encouraged to apply. Applications from female and minority students are welcome, and priority will be given to students whose advisors cannot provide financial support for them to attend the conference.",
+        "from": [
+            "SIGMOD2023>>Participant Information>>Student Travel Award>>Eligibility"
+        ]
+    },
+    {
+        "question": "What are the procedures for accommodation booking for the SIGMOD2023 conference?",
+        "answer": "The conference will be held at the Hyatt Regency Bellevue hotel, and it is necessary for the participants to make bookings through the provided registration link to avail the conference rate. In addition, there are also several nearby hotels such as Hilton Garden Inn, Hilton Bellevue, La Residence Suite Hotel, W Bellevue, AC Hotel, Courtyard by Marriott, and Westin Bellevue, offering other accommodation options for the participants.",
+        "from": [
+            "SIGMOD2023>>Participant Information>>Accommodations"
+        ]
+    },
+    {
+        "question": "What is the costs structure for the SIGMOD2023 conference?",
+        "answer": "The costs for participating in the conference vary depending on early bird rates, membership status and whether participants wish to attend the full conference or the workshops only. Early bird rates range from $500 to $1000 depending on membership status, but will increase to between $750 and $1350 after May 1, 2023, and again after June 11, 2023. For workshops only, the early bird rates range from $200 to $350, again depending on membership, and increase to between $250 and $400 after May 1, 2023. An additional banquet ticket costs $175.",
+        "from": [
+            "SIGMOD2023>>Participant Information>>Fees"
+        ]
+    },
+    {
+        "question": "What is the SIGMOD Edgar F. Codd Innovations Award and what does it consist of?",
+        "answer": "The SIGMOD Edgar F. Codd Innovations Award is for innovative and highly significant contributions of enduring value to the development, understanding, or use of data systems. The award is given annually and consists of a plaque plus an honorarium of $10,000. If the award is given to more than one individual, the honorarium will be split among all the recipients. The recipients will receive the awards at the annual ACM SIGMOD/PODS Conference.",
+        "from": "SIGMOD2023>>Calls For Submissions>>SIGMOD Call for Awards Nomination>>SIGMOD Edgar F. Codd Innovations Award>>introduction"
+    },
+    {
+        "question": "Who is eligible for the SIGMOD Edgar F. Codd Innovations Award?",
+        "answer": "Anyone except the current elected officers of SIGMOD (Chair, Vice Chair, and Treasurer), and members of the SIGMOD Awards Committee. Awards should be for contributions not already honored by a major ACM Award (e.g., the Turing Award, SIGMOD Edgar F. Codd Innovations Award, or SIGMOD Contributions Award). A candidate can be considered for multiple awards as long as each is for a distinct contribution.",
+        "from": "SIGMOD2023>>Calls For Submissions>>SIGMOD Call for Awards Nomination>>SIGMOD Edgar F. Codd Innovations Award>>Eligibility"
+    },
+    {
+        "question": "What are the requirements for nominating for the SIGMOD Edgar F. Codd Innovations Award?",
+        "answer": "Anyone in the field can nominate one or more persons (self-nominations are excluded). Nominations should include a CV of the nominee, a proposed citation (up to 25 words), a succinct (100- 250 words) description of the innovation/contribution, and a detailed statement to justify the nomination. Along with the nomination, three additional supporting letters should be submitted. The Awards Committee will evaluate all nominations and decide on zero or more winners.",
+        "from": "SIGMOD2023>>Calls For Submissions>>SIGMOD Call for Awards Nomination>>SIGMOD Edgar F. Codd Innovations Award>>Nomination"
+    },
+    {
+        "question": "What is the SIGMOD Contributions Award and its previous winners?",
+        "answer": "The SIGMOD Contributions Award is for outstanding service to the database field through new community initiatives, professional service, standards activities, and research funding. The award is given annually and consists of a plaque plus an honorarium of $1,000. The recipients will receive the awards at the annual ACM SIGMOD/PODS Conference, at the awards session. Previous winners include Maria Zemankova, Gio Wiederhold, Jeffrey Ullman, among others.",
+        "from": "SIGMOD2023>>Calls For Submissions>>SIGMOD Call for Awards Nomination>>SIGMOD Contributions Award>>introduction"
+    },
+    {
+        "question": "What is the SIGMOD Systems Award eligibility and how to nominate?",
+        "answer": "Anyone except the current elected officers of SIGMOD (Chair, Vice Chair, and Treasurer), and members of the SIGMOD Awards Committee is eligible. Awards should be for contributions not already honored by a major ACM Award. Nominations should include a proposed citation, a description of the innovation/contribution, and a detailed statement to justify the nomination. Along with the nomination, three additional supporting letters should be submitted.",
+        "from": [
+            "SIGMOD2023>>Calls For Submissions>>SIGMOD Call for Awards Nomination>>SIGMOD Systems Award>>Eligibility",
+            "SIGMOD2023>>Calls For Submissions>>SIGMOD Call for Awards Nomination>>SIGMOD Systems Award>>Nomination"
+        ]
+    }
+]

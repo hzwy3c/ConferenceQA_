@@ -1,0 +1,29 @@
+ICML_text-embedding-002_path_and_value_Mistral-7B: 0.0675
+ICML_text-embedding-002_path_and_value_LLama2-7B: 0.0408
+ICML_text-embedding-002_path_and_value_LLama2-13B: 0.0649
+ICML_text-embedding-002_path_and_value_desc_Mistral-7B: 0.0682
+ICML_text-embedding-002_path_and_value_desc_LLama2-7B: 0.0492
+ICML_text-embedding-002_path_and_value_desc_LLama2-13B: 0.069
+ICML_text-embedding-002_path_and_value_Mistral-7B: {'extraction_atomic': 0.0561, 'extraction_complex': 0.0884, 'reasoning_atomic': 0.1038, 'reasoning_complex': 0.0219}
+ICML_text-embedding-002_path_and_value_LLama2-7B: {'extraction_atomic': 0.0417, 'extraction_complex': 0.1142, 'reasoning_atomic': 0.0825, 'reasoning_complex': 0.0155}
+ICML_text-embedding-002_path_and_value_desc_Mistral-7B: {'extraction_atomic': 0.0443, 'extraction_complex': 0.0864, 'reasoning_atomic': 0.1317, 'reasoning_complex': 0.0214}
+ICML_text-embedding-002_path_and_value_desc_LLama2-7B: {'extraction_atomic': 0.0499, 'extraction_complex': 0.1182, 'reasoning_atomic': 0.0654, 'reasoning_complex': 0.0137}
+ICML_text-embedding-002_path_and_value_gpt3.5: {'extraction_atomic': 0.0075, 'extraction_complex': 0.0316, 'reasoning_atomic': 0.0605, 'reasoning_complex': 0.0}
+ICML_text-embedding-002_path_and_value_gpt3.5: {'extraction_atomic': 0.264, 'extraction_complex': 0.2677, 'reasoning_atomic': 0.2896, 'reasoning_complex': 0.1329}
+ICML_text-embedding-002_path_and_value_desc_gpt3.5: {'extraction_atomic': 0.267, 'extraction_complex': 0.2835, 'reasoning_atomic': 0.1936, 'reasoning_complex': 0.1435}
+ICML_text-embedding-002_path_and_value_gpt3.5: {'extraction_atomic': 0.264, 'extraction_complex': 0.2677, 'reasoning_atomic': 0.2896, 'reasoning_complex': 0.1329}
+ICML_text-embedding-002_path_and_value_desc_gpt3.5: {'extraction_atomic': 0.267, 'extraction_complex': 0.2835, 'reasoning_atomic': 0.1936, 'reasoning_complex': 0.1435}
+ICML_text-embedding-002_path_and_value_gpt3.5_F1: {'extraction_atomic': 0.247, 'extraction_complex': 0.2649, 'reasoning_atomic': 0.3019, 'reasoning_complex': 0.1073}
+ICML_text-embedding-002_path_and_value_LLama2-7B_F1: {'extraction_atomic': 0.0417, 'extraction_complex': 0.1142, 'reasoning_atomic': 0.0825, 'reasoning_complex': 0.0155}
+ICML_text-embedding-002_path_and_value_Mistral-7B_F1: {'extraction_atomic': 0.0561, 'extraction_complex': 0.0884, 'reasoning_atomic': 0.1038, 'reasoning_complex': 0.0219}
+ICML_text-embedding-002_path_and_value_desc_gpt3.5_F1: {'extraction_atomic': 0.2662, 'extraction_complex': 0.2801, 'reasoning_atomic': 0.4494, 'reasoning_complex': 0.1515}
+ICML_text-embedding-002_path_and_value_desc_LLama2-7B_F1: {'extraction_atomic': 0.0499, 'extraction_complex': 0.1182, 'reasoning_atomic': 0.0654, 'reasoning_complex': 0.0137}
+ICML_text-embedding-002_path_and_value_desc_Mistral-7B_F1: {'extraction_atomic': 0.0443, 'extraction_complex': 0.0864, 'reasoning_atomic': 0.1317, 'reasoning_complex': 0.0214}
+ICML_text-embedding-002_path_and_value_gpt3.5_F1: {'extraction_atomic': 0.247, 'extraction_complex': 0.2649, 'reasoning_atomic': 0.3019, 'reasoning_complex': 0.1073}
+ICML_text-embedding-002_path_and_value_desc_gpt3.5_F1: {'extraction_atomic': 0.2662, 'extraction_complex': 0.2801, 'reasoning_atomic': 0.4494, 'reasoning_complex': 0.1515}
+ICML_text-embedding-002_path_and_value_LLama2-7B_F1: {'extraction_atomic': 0.208, 'extraction_complex': 0.1579, 'reasoning_atomic': 0.218, 'reasoning_complex': 0.0659}
+ICML_text-embedding-002_path_and_value_desc_LLama2-7B_F1: {'extraction_atomic': 0.1496, 'extraction_complex': 0.115, 'reasoning_atomic': 0.2274, 'reasoning_complex': 0.0516}
+ICML_text-embedding-002_path_and_value_Mistral-7B_F1: {'extraction_atomic': 0.2566, 'extraction_complex': 0.2748, 'reasoning_atomic': 0.2654, 'reasoning_complex': 0.1143}
+ICML_text-embedding-002_path_and_value_desc_Mistral-7B_F1: {'extraction_atomic': 0.2563, 'extraction_complex': 0.3514, 'reasoning_atomic': 0.2745, 'reasoning_complex': 0.1101}
+ICML_text-embedding-002_path_and_value_LLama2-13B_F1: {'extraction_atomic': 0.226, 'extraction_complex': 0.2288, 'reasoning_atomic': 0.2459, 'reasoning_complex': 0.0937}
+ICML_text-embedding-002_path_and_value_desc_LLama2-13B_F1: {'extraction_atomic': 0.2053, 'extraction_complex': 0.2807, 'reasoning_atomic': 0.2905, 'reasoning_complex': 0.1362}

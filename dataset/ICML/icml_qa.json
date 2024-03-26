@@ -1,0 +1,1326 @@
+[
+    {
+        "question": "Where can I find the list of accepted workshops for ICML 2023?",
+        "answer": "You can find the list of accepted workshops for ICML 2023 at https://icml.cc/Conferences/2023/Schedule?type=Workshop.",
+        "from": "ICML2023>>Calls>>Call For Workshops>>2023 accepted workshops>>url"
+    },
+    {
+        "question": "What is the call for the ICML 2023 conference?",
+        "answer": "ICML 2023 Call for Post-Conference Workshops",
+        "from": "ICML2023>>Calls>>Call For Workshops>>title"
+    },
+    {
+        "question": "What can be submitted for ICML 2023?",
+        "answer": "Post-Conference Workshops",
+        "from": "ICML2023>>Calls>>Call For Workshops>>title"
+    },
+    {
+        "question": "What type of workshops are called for the ICML 2023 conference?",
+        "answer": "Post-Conference Workshops",
+        "from": "ICML2023>>Calls>>Call For Workshops>>title"
+    },
+    {
+        "question": "What event does the ICML 2023 conference offer?",
+        "answer": "Post-Conference Workshops",
+        "from": "ICML2023>>Calls>>Call For Workshops>>title"
+    },
+    {
+        "question": "What is the important announcement for the ICML 2023 conference?",
+        "answer": "ICML 2023 Call for Post-Conference Workshops",
+        "from": "ICML2023>>Calls>>Call For Workshops>>title"
+    },
+    {
+        "question": "When does the submission for papers for ICML2023 open?",
+        "answer": "Jan 9th, 2023",
+        "from": "ICML2023>>Calls>>Call For Papers>>Important Dates>>Submissions open"
+    },
+    {
+        "question": "What is the deadline to submit full papers for ICML2023?",
+        "answer": "Jan 26th, 2023 3pm EST",
+        "from": "ICML2023>>Calls>>Call For Papers>>Important Dates>>Full paper submission deadline"
+    },
+    {
+        "question": "What is the format of the paper submission deadline for ICML2023?",
+        "answer": "This year, ICML will use a single paper submission deadline with a single review cycle.",
+        "from": "ICML2023>> Calls>>Call For Papers>>Important Dates>>notice"
+    },
+    {
+        "question": "Do I need to submit full paper or an abstract to the ICML2023?",
+        "answer": "This information is not provided in the provided JSON data.",
+        "from": "NA"
+    },
+    {
+        "question": "What is the review process for the ICML2023 conference?",
+        "answer": "There will be a single review cycle.",
+        "from": "ICML2023>>Calls>>Call For Papers>>Important Dates>>notice"
+    },
+    {
+        "question": "Where can I find my registrations for the ICML2023 conference?",
+        "answer": "https://icml.cc/MyStuff",
+        "from": "ICML2023>>My Stuff/Registrations(url)"
+    },
+    {
+        "question": "What is the official link for managing my participation details on the ICML2023?",
+        "answer": "https://icml.cc/MyStuff",
+        "from": "ICML2023>>My Stuff/Registrations(url)"
+    },
+    {
+        "question": "Is there a specific link where I can view my registration details for ICML2023?",
+        "answer": "https://icml.cc/MyStuff",
+        "from": "ICML2023>>My Stuff/Registrations(url)"
+    },
+    {
+        "question": "How can I manage my ICML2023 conference details online?",
+        "answer": "You can manage your conference details at https://icml.cc/MyStuff",
+        "from": "ICML2023>>My Stuff/Registrations(url)"
+    },
+    {
+        "question": "From where can I access my ICML2023 registration details online?",
+        "answer": "You can access your registration details at https://icml.cc/MyStuff",
+        "from": "ICML2023>>My Stuff/Registrations(url)"
+    },
+    {
+        "question": "When is the Call for Workshops scheduled for the ICML2023 conference?",
+        "answer": "Friday, July 28, and Saturday, July 29",
+        "from": "ICML2023>>Calls>>Call For Workshops>>date"
+    },
+    {
+        "question": "On which days are workshops held for the ICML2023 conference?",
+        "answer": "Friday, July 28, and Saturday, July 29",
+        "from": "ICML2023>>Calls>>Call For Workshops>>date"
+    },
+    {
+        "question": "What is the date for the ICML2023 conference's Call For Workshops?",
+        "answer": "Friday, July 28, and Saturday, July 29",
+        "from": "ICML2023>>Calls>>Call For Workshops>>date"
+    },
+    {
+        "question": "Are there specific dates communicated for the workshops for the ICML2023 conference?",
+        "answer": "Yes, the workshops are scheduled for Friday, July 28, and Saturday, July 29",
+        "from": "ICML2023>>Calls>>Call For Workshops>>date"
+    },
+    {
+        "question": "Is there any information about the schedule of workshops for the ICML2023?",
+        "answer": "Yes, the workshops are scheduled for Friday, July 28, and Saturday, July 29",
+        "from": "ICML2023>>Calls>>Call For Workshops>>date"
+    },
+    {
+        "question": "Which platform is used for the submission of abstracts and papers for ICML2023 conference?",
+        "answer": "OpenReview",
+        "from": "ICML2023>>Calls>>Call For Papers>>Abstracts and papers can be submitted through OpenReview"
+    },
+    {
+        "question": "Where can I submit my paper for the ICML2023 conference?",
+        "answer": "https://openreview.net/group?id=ICML.cc/2023/Conference",
+        "from": "ICML2023>>Calls>>Call For Papers>>Abstracts and papers can be submitted through OpenReview"
+    },
+    {
+        "question": "What is the link to the submission page for the ICML2023 conference?",
+        "answer": "https://openreview.net/group?id=ICML.cc/2023/Conference",
+        "from": "ICML2023>>Calls>>Call For Papers>>Abstracts and papers can be submitted through OpenReview"
+    },
+    {
+        "question": "Can I submit my paper through OpenReview for ICML2023 conference?",
+        "answer": "Yes, papers can be submitted through OpenReview.",
+        "from": "ICML2023>>Calls>>Call For Papers>>Abstracts and papers can be submitted through OpenReview"
+    },
+    {
+        "question": "Is there an online submission process for the ICML2023 conference?",
+        "answer": "Yes, the abstracts and papers can be submitted online through OpenReview.",
+        "from": "ICML2023>>Calls>>Call For Papers>>Abstracts and papers can be submitted through OpenReview"
+    },
+    {
+        "question": "Where can I find the Proceedings of Machine Learning Research for the ICML2023 conference?",
+        "answer": "You can find the Proceedings of Machine Learning Research for the ICML2023 conference at https://proceedings.mlr.press/",
+        "from": "ICML2023>>Calls>>Call For Papers>>Proceedings of Machine Learning Research(url)"
+    },
+    {
+        "question": "What is the URL for the research papers of the ICML2023 conference?",
+        "answer": "The URL for the research papers of the ICML2023 conference is https://proceedings.mlr.press/",
+        "from": "ICML2023>>Calls>>Call For Papers>>Proceedings of Machine Learning Research(url)"
+    },
+    {
+        "question": "Where can I submit my research papers for ICML2023?",
+        "answer": "You can submit your research papers for ICML2023 at https://proceedings.mlr.press/",
+        "from": "ICML2023>>Calls>>Call For Papers>>Proceedings of Machine Learning Research(url)"
+    },
+    {
+        "question": "Can you guide me to the research paper Proceedings of the ICML2023 conference?",
+        "answer": "You can find the research paper Proceedings of the ICML2023 conference at https://proceedings.mlr.press/",
+        "from": "ICML2023>>Calls>>Call For Papers>>Proceedings of Machine Learning Research(url)"
+    },
+    {
+        "question": "Where can I find the proceedings for the ICML2023 conference?",
+        "answer": "You can find the proceedings for the ICML2023 conference at https://proceedings.mlr.press/",
+        "from": "ICML2023>>Calls>>Call For Papers>>Proceedings of Machine Learning Research(url)"
+    },
+    {
+        "question": "What is the link to edit my profile on the ICML 2023 conference website?",
+        "answer": "https://icml.cc/EditProfile",
+        "from": "ICML2023>>Profile>>Edit Profile(url)"
+    },
+    {
+        "question": "How can I request a manual account merge on the ICML website if I no longer have access to my older account's email?",
+        "answer": "Press Request Manual Merge, and a ICML staff member member will merge your account for you.",
+        "from": "ICML2023>>Profile>>Merge Profiles>>Merge Accounts"
+    },
+    {
+        "question": "What should I do if I want to create a new profile on the ICML 2023 conference website?",
+        "answer": "Go to https://icml.cc/Profile/create and use the form there to create an account. An email will be sent with further instructions.",
+        "from": "ICML2023>>Profile>>Create New Profile>>url"
+    },
+    {
+        "question": "How can I reset my password if I have multiple accounts and I am not sure which email is my active login?",
+        "answer": "Enter all your email addresses, one per line (max of 5), and a password reset email will be sent to the active one.",
+        "from": "ICML2023>>Profile>>Reset Password>>Password Reset"
+    },
+    {
+        "question": "Where can I get help if I am having issues with my account on the ICML 2023 conference website?",
+        "answer": "If you need help, please visit the Contact page at https://icml.cc/Help/Contact",
+        "from": "ICML2023>>Profile>>Reset Password>>If you need help, please visit our Contact page.(url)"
+    },
+    {
+        "question": "How can I direct my question to the appropriate team at ICML2023?",
+        "answer": "Use the form below to direct your question to the appropriate team",
+        "from": "ICML2023>>Contact ICML>>Contact ICML"
+    },
+    {
+        "question": "Where can I find answers to many common questions about ICML2023?",
+        "answer": "Please check our FAQ for answers to many common questions. The URL is https://icml.cc/FAQ",
+        "from": "ICML2023>>Contact ICML>>FAQ(url)"
+    },
+    {
+        "question": "Who should I contact for any queries about ICML2023?",
+        "answer": "You can contact Terri Auricchio",
+        "from": "ICML2023>>Contact ICML>>Address>>Attn"
+    },
+    {
+        "question": "What is the address for ICML2023?",
+        "answer": "The address is 1269 Law Street San Diego, CA 92109",
+        "from": "ICML2023>>Contact ICML>>Address>>location"
+    },
+    {
+        "question": "What is the official email and contact number for ICML2023?",
+        "answer": "The official email and contact number is terri@icml.cc and 702-743-1827 respectively.",
+        "from": [
+            "ICML2023>>Contact ICML>>Address>>Email",
+            "ICML2023>>Contact ICML>>Address>>Phone"
+        ]
+    },
+    {
+        "question": "What is the privacy policy for ICML2023?",
+        "answer": "You can find the privacy policy at https://icml.cc/public/PrivacyPolicy",
+        "from": "ICML2023>>Contact ICML>>Privacy Policy(url)"
+    },
+    {
+        "question": "What is the primary focus of the International Conference on Machine Learning (ICML)?",
+        "answer": "The International Conference on Machine Learning is the premier gathering of professionals dedicated to the advancement of the branch of artificial intelligence known as machine learning.",
+        "from": "ICML2023>>Organization>>About ICML>>introductions"
+    },
+    {
+        "question": "Who are the typical attendees of the ICML conference?",
+        "answer": "Participants at ICML span a wide range of backgrounds, from academic and industrial researchers, to entrepreneurs and engineers, to graduate students and postdocs.",
+        "from": "ICML2023>>Organization>>About ICML>>introductions"
+    },
+    {
+        "question": "Does the ICML conference cover topics beyond machine learning?",
+        "answer": "Yes, ICML presents and publishes cutting-edge research on all aspects of machine learning used in closely related areas like artificial intelligence, statistics and data science, as well as important application areas such as machine vision, computational biology, speech recognition, and robotics.",
+        "from": "ICML2023>>Organization>>About ICML>>introductions"
+    },
+    {
+        "question": "Is ICML considered a significant event within the artificial intelligence community?",
+        "answer": "Yes, ICML is globally renowned for presenting and publishing cutting-edge research on all aspects of machine learning.",
+        "from": "ICML2023>>Organization>>About ICML>>introductions"
+    },
+    {
+        "question": "Is the ICML conference considered a growing event in the field of artificial intelligence?",
+        "answer": "Yes, ICML is one of the fastest growing artificial intelligence conferences in the world.",
+        "from": "ICML2023>>Organization>>About ICML>>introductions"
+    },
+    {
+        "question": "What is the goal of the workshops at ICML2023?",
+        "answer": "The goal of the workshops is to provide an informal forum for researchers to discuss emerging research questions and challenges.",
+        "from": "ICML2023>>Calls>>Call For Workshops>>Workshops>>introductions"
+    },
+    {
+        "question": "How long do the workshops at ICML2023 last?",
+        "answer": "Workshops will last for one day, with morning and afternoon sessions and free time between the sessions for individual exchange.",
+        "from": "ICML2023>>Calls>>Call For Workshops>>Workshops>>introductions"
+    },
+    {
+        "question": "What kind of subjects can the workshops at ICML2023 cover?",
+        "answer": "The workshops can be on any subject relevant to a significant fraction of the ICML community.",
+        "from": "ICML2023>>Calls>>Call For Workshops>>Workshops>>introductions"
+    },
+    {
+        "question": "What are the workshops at ICML2023 encouraged to lean towards?",
+        "answer": "The workshops should lean more towards exploring new ideas, open problems, and interdisciplinary areas compared to the main conference.",
+        "from": "ICML2023>>Calls>>Call For Workshops>>Workshops>>introductions"
+    },
+    {
+        "question": "What is encouraged in terms of diversity at the ICML2023 workshops?",
+        "answer": "A diverse group of speakers is more likely to bring diverse and surprising viewpoints on a topic. As a result, the organisers encourage workshop organizers to be cognizant of designing panels and speaker lists that are inclusive.",
+        "from": "ICML2023>>Calls>>Call For Workshops>>Workshops>>introductions"
+    },
+    {
+        "question": "What are the ethics guidelines Authors need to follow while submitting their work to ICML?",
+        "answer": "Authors submitting their work to ICML need to agree to the NeurIPS Ethics Guidelines. Particularly, whenever there are risks associated with the proposed methods, methodology, application or data collection and data usage, authors are expected to elaborate on the rationale of their decision and potential mitigations. Authors are expected to make a reasonable effort in identifying risks that warrant the inclusion of this discussion.",
+        "from": "ICML2023>>Calls>>Call For Papers>>Publication Ethics>>Authors>>Research ethics"
+    },
+    {
+        "question": "What are rules regarding authorship while submitting a paper to ICML?",
+        "answer": "Authors should comprise exactly those individuals who made a significant contribution to the research. Other contributors should be acknowledged upon the acceptance of the paper in the final camera ready submission. The submitting author must ensure that all co-authors have seen and approved the final version of the manuscript and have agreed to its submission for publication.",
+        "from": "ICML2023>>Calls>>Call For Papers>>Publication Ethics>>Authors>>Paper submissions>>Authorship"
+    },
+    {
+        "question": "What is the guideline for originality and citations for paper submissions at ICML?",
+        "answer": "The submitted paper is entirely written by the authors of the paper. If the work of others have been used, the work used must be properly cited or quoted. Publications that have significantly influenced the nature of the work must be cited. However, only relevant publications can be cited and self-citation should be kept at minimum.",
+        "from": "ICML2023>>Calls>>Call For Papers>>Publication Ethics>>Authors>>Paper submissions>>Originality, citations"
+    },
+    {
+        "question": "What must an author do if they discover a significant error or inaccuracy in their submitted paper before the publication of the final version?",
+        "answer": "If before the publication of the final version of the paper, an author discovers a significant error or inaccuracy in the submitted paper, the author needs to promptly notify the program chairs (program-chairs@icml.cc) and either retract the paper, or correct it if a correction is feasible.",
+        "from": "ICML2023>>Calls>>Call For Papers>>Publication Ethics>>Authors>>Paper submissions>>Fraud, correctness"
+    },
+    {
+        "question": "What is the responsibility of program committee and reviewers in terms of fairness when evaluating submitted manuscripts?",
+        "answer": "All submissions must be evaluated only for their contents: soundness, originality, significance, relevance to ICML and quality of writing/presentation as explained on the review form.",
+        "from": "ICML2023>>Calls>>Call For Papers>>Publication Ethics>>Program committee and reviewers>>Fairness"
+    },
+    {
+        "question": "Who is obligated to abide by the ICML code of conduct?",
+        "answer": "All participants---attendees, organizers, reviewers, speakers, sponsors, and volunteers at our conference, workshops, and conference-sponsored social events---are required to agree with this code of conduct both during the event and on official communication channels, including social media.",
+        "from": "ICML2023>>ICML Code of Conduct>>Who"
+    },
+    {
+        "question": "What behaviors are considered unacceptable under the ICML code of conduct policy?",
+        "answer": "This includes offensive comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), politics, technology choices, or any other personal characteristics. Bullying, intimidation, personal attacks, harassment, sustained disruption of talks or other events, and behavior that interferes with another's full participation will not be tolerated.",
+        "from": "ICML2023>>ICML Code of Conduct>>Scope"
+    },
+    {
+        "question": "Are sponsors bound by the ICML code of conduct?",
+        "answer": "Sponsors are equally subject to this Code of Conduct. In particular, sponsors should not use images, activities, or other materials that are of a sexual, racial, or otherwise offensive nature. Booth staff (including volunteers) should not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment.",
+        "from": "ICML2023>>ICML Code of Conduct>>Scope"
+    },
+    {
+        "question": "What actions can be taken against a participant who engages in harassment or other prohibited behaviours?",
+        "answer": "If a participant engages in such behavior, the conference organizers may take any action they deem appropriate, including: a formal or informal warning to the offender, expulsion from the conference with no refund, barring from participation in future conferences or their organization, reporting the incident to the offender’s local institution or funding agencies, or reporting the incident to local law enforcement.",
+        "from": "ICML2023>>ICML Code of Conduct>>Outcomes"
+    },
+    {
+        "question": "Who should one contact if they witness or experience any breach of the ICML code of conduct?",
+        "answer": "If you have concerns related to your inclusion at that conference, or observe someone else's difficulties, or have any other concerns related to inclusion, please contact the Diversity and Inclusion co-chairs or the Conference HR Liaison. The Diversity and Inclusion co-chairs can be reached by email at diversity-chairs@icml.cc. The HR Liaison can be reached via the ICML Hotline at either ICMLhotline@gmail.com or 858-208-3810.",
+        "from": "ICML2023>>ICML Code of Conduct>>Reporting"
+    },
+    {
+        "question": "What is the policy on deadlines for the submission of papers to ICML2023?",
+        "answer": "Abstract and paper submission deadlines are strict. In no circumstances will extensions be given.",
+        "from": "ICML2023>>Calls>>Call For Papers>>Policies>>Deadlines"
+    },
+    {
+        "question": "How is the double-blind reviewing policy implemented for ICML2023?",
+        "answer": "All submissions must be anonymized and may not contain any information with the intention or consequence of violating the double-blind reviewing policy, including (but not limited to) citing previous works of the authors or sharing links in a way that can infer any author’s identity or institution, actions that reveal the identities of the authors to potential reviewers.",
+        "from": "ICML2023>>Calls>>Call For Papers>>Policies>>Double-Blind Review"
+    },
+    {
+        "question": "What is the policy on using large-scale language models (LLMs) for generating texts in the submission to ICML2023?",
+        "answer": "Papers that include text generated from a large-scale language model (LLM) such as ChatGPT are prohibited unless these produced text is presented as a part of the paper’s experimental analysis.",
+        "from": "ICML2023>>Calls>>Call For Papers>>Policies>>Ethics>>introduction"
+    },
+    {
+        "question": "What type of financial aid is available for student authors at ICML2023?",
+        "answer": "Each paper submission may, by providing a corresponding icml.cc account email address, designate up to one student author who, should the paper be accepted, would not be able to present the work unless partially supported by a grant from the conference.  ICML aims to provide free conference registration and hotel registration for at least part of the week.",
+        "from": "ICML2023>>Calls>>Call For Papers>>Financial aid"
+    },
+    {
+        "question": "What is ICML2023's policy on dual submissions to other conferences or journals?",
+        "answer": "It is not appropriate to submit papers that are identical (or substantially similar) to versions that have been previously published, accepted for publication, or submitted in parallel to other conferences or journals. Such submissions violate our dual submission policy, and the organizers have the right to reject such submissions, or to remove them from the proceedings.",
+        "from": "ICML2023>>Calls>>Call For Papers>>Policies>>Dual Submission"
+    },
+    {
+        "question": "Where can I find the ICML 2023 logo in svg format?",
+        "answer": "The ICML 2023 logo in svg format can be found at https://icml.cc/media/Press/ICML-logo.svg",
+        "from": "ICML2023>>Press>>Media Kit>>ICML Logo>>svg(vector)"
+    },
+    {
+        "question": "What are the general guidelines for journalists attending ICML 2023?",
+        "answer": "Journalists attending the ICML 2023 conference should keep in mind that some information presented may be proprietary or off the record. On record taping, if permitted, will be restricted to specific events and times, and only in agreement with the recorded people. Journalists should also schedule interviews with the communications teams of the interviewee and take place separately. Journalists will have access to most workshops. However, please keep in mind that workshops are a forum for research work in progress, and workshop papers are only lightly reviewed. They should ask for a researcher's consent before writing about a conversation with them, and clearly identify themselves as a journalist.",
+        "from": "ICML2023>>Press>>Media Kit>>Press Policy:"
+    },
+    {
+        "question": "How can media persons apply for a press pass for the ICML 2023 conference?",
+        "answer": "Media persons can apply for a press pass to the ICML 2023 conference through the linked website. The deadline for the application is July 10. Journalists receiving a press pass will receive an email and will be directed to register for the conference. Each member of the media team attending the conference needs to submit an application.",
+        "from": "ICML2023>>Press>>Media Kit>>Press Policy:"
+    },
+    {
+        "question": "What benefits do journalists with a press pass receive during the ICML 2023 conference?",
+        "answer": "Journalists who receive a press pass get complimentary registration for the main conference, along with tutorials and workshops where speakers/organizing groups have decided to allow in the press. They will be given the same level of access to the conference and its activities and get access to certain additional information. Given the virtual nature of the conference this year, additional resources, such as facilitating requests for meetings with specific researchers, may also be considered.",
+        "from": "ICML2023>>Press>>Media Kit>>Press Policy:"
+    },
+    {
+        "question": "What is the policy for reporting on workshop papers at the ICML 2023 conference?",
+        "answer": "Workshops are considered a forum for research work in progress, and the papers presented here are only lightly reviewed, and the presented work is typically not as complete as the main conference papers. As such, journalists are advised to not report about workshop papers at the same level as main conference papers.",
+        "from": "ICML2023>>Press>>Media Kit>>Press Policy:"
+    },
+    {
+        "question": "Who is the President of ICML 2023?",
+        "answer": "Francis Bach",
+        "from": "ICML2023>>Organization>>ICML Board>>President>>name"
+    },
+    {
+        "question": "Who is the President Elect for ICML 2023?",
+        "answer": "Kilian Weinberger",
+        "from": "ICML2023>>Organization>>ICML Board>>President Elect"
+    },
+    {
+        "question": "Who serves as the Secretary at ICML 2023?",
+        "answer": "Jennifer Dy",
+        "from": "ICML2023>>Organization>>ICML Board>>Secretary>>name"
+    },
+    {
+        "question": "Who is the Treasurer for ICML 2023?",
+        "answer": "John Langford",
+        "from": "ICML2023>>Organization>>ICML Board>>Treasurer>>name"
+    },
+    {
+        "question": "Who is the Legal Advisor for ICML 2023?",
+        "answer": "David Kirkpatrick",
+        "from": "ICML2023>>Organization>>ICML Board>>Legal Advisor"
+    },
+    {
+        "question": "Who is the Board Member serving as 2020 Program Chair at ICML 2023?",
+        "answer": "Aarti Singh",
+        "from": "ICML2023>>Organization>>ICML Board>>Board Members>>Aarti Singh"
+    },
+    {
+        "question": "Who is the Board Member elected in 2018 at ICML 2023?",
+        "answer": "Corinna Cortes",
+        "from": "ICML2023>>Organization>>ICML Board>>Board Members>>Corinna Cortes"
+    },
+    {
+        "question": "Who is the Board Member serving as 2022 Program Chair at ICML 2023?",
+        "answer": "Csaba Szepesvari",
+        "from": "ICML2023>>Organization>>ICML Board>>Board Members>>Csaba Szepesvari"
+    },
+    {
+        "question": "Who is the Emeritus Member and Past President of ICML 2023?",
+        "answer": "Joelle Pineau",
+        "from": "ICML2023>>Organization>>ICML Board>>Emeritus Members>>Joelle Pineau"
+    },
+    {
+        "question": "Which institution is the President of ICML 2023 affiliated with?",
+        "answer": "INRIA - Ecole Normale Supérieure",
+        "from": "ICML2023>>Organization>>ICML Board>>President>>affiliation"
+    },
+    {
+        "question": "What are some measures taken by the ICML conference to improve diversity, equity, and inclusion?",
+        "answer": "The International Conference in Machine Learning collaborates with grassroots organizations like Women in Machine Learning, Black in AI, Queer in AI, LatinX in AI, and Indigenous in AI to increase participation of underrepresented groups at the conference. They organize events including workshops, mentoring sessions, and socials. They are working to make the conference event itself more inclusive, by promoting gender inclusive measures and supporting childcare, nursing mothers, and attendees with disabilities. They are also exploring options with the venue and caterers to ensure an equitable experience.",
+        "from": "ICML2023>>Diversity & Inclusion>>introduction"
+    },
+    {
+        "question": "Since when has the ICML conference implemented the Code of Conduct?",
+        "answer": "The Code of Conduct was introduced in 2018.",
+        "from": "ICML2023>>Diversity & Inclusion>>introduction"
+    },
+    {
+        "question": "Whom can you contact for any questions, comments, or concerns about diversity at ICML?",
+        "answer": "You can reach out to diversity-chairs@icml.cc.",
+        "from": "ICML2023>>Diversity & Inclusion>>introduction"
+    },
+    {
+        "question": "What is the website for Women in Machine Learning?",
+        "answer": "The website for Women in Machine Learning is wimlworkshop.org.",
+        "from": "ICML2023>>Diversity & Inclusion>>Women in Machine Learning(url)"
+    },
+    {
+        "question": "Can you give me the url for the Black in AI organization?",
+        "answer": "The url for the Black in AI organization is https://blackinai.github.io/.",
+        "from": "ICML2023>>Diversity & Inclusion>>Black in AI(url)"
+    },
+    {
+        "question": "What is the website for the Latinx in AI initiative associated with the ICML conference?",
+        "answer": "The website for Latinx in AI initiative is www.latinxinai.org.",
+        "from": "ICML2023>>Diversity & Inclusion>>Latinx in AI(url)"
+    },
+    {
+        "question": "Does the ICML conference collaborate with any organization that advocates for LGBTQ+ representation in AI? Can you provide the URL?",
+        "answer": "Yes, the ICML conference collaborates with the Queer in AI group. The URL is queerinai.org.",
+        "from": "ICML2023>>Diversity & Inclusion>>Queer in AI(url)"
+    },
+    {
+        "question": "Does the ICML conference have initiatives to include individuals with disabilities? Can you provide the URL?",
+        "answer": "Yes, the ICML conference collaborates with the group {Dis}Ability in AI. The URL is https://elesa.github.io/ability_in_AI/.",
+        "from": "ICML2023>>Diversity & Inclusion>>{Dis}Ability in AI(url)"
+    },
+    {
+        "question": "Where will the ICML2023's workshops be held?",
+        "answer": "Hawaii, USA",
+        "from": "ICML2023>>Calls>>Call For Workshops>>location"
+    },
+    {
+        "question": "What events are being called for at ICML2023?",
+        "answer": "Workshops",
+        "from": "ICML2023>>Calls"
+    },
+    {
+        "question": "What is the specific call for ICML2023?",
+        "answer": "Call For Workshops",
+        "from": "ICML2023>>Calls"
+    },
+    {
+        "question": "Are there any workshop related calls for ICML2023?",
+        "answer": "Yes",
+        "from": "ICML2023>>Calls>>Call For Workshops"
+    },
+    {
+        "question": "Is there an opportunity to conduct a workshop at ICML2023?",
+        "answer": "Yes",
+        "from": "ICML2023>>Calls>>Call For Workshops"
+    },
+    {
+        "question": "How can I submit my workshop proposal for ICML 2023?",
+        "answer": "Workshop submissions will be made through CMT. Please follow the URL https://cmt3.research.microsoft.com/ICMLWorkshops2023 and check the required format for the application well before the proposal deadline. You may submit and update your application online right up until this deadline.",
+        "from": "ICML2023>>Calls>>Call For Workshops>>Submission Instructions"
+    },
+    {
+        "question": "What is the submission deadline for workshop proposals for ICML 2023?",
+        "answer": "The submission deadline for workshop proposals for ICML 2023 is February 16, 2023, AOE.",
+        "from": "ICML2023>>Calls>>Call For Workshops>>Submission Instructions>>Important dates for workshop submissions:"
+    },
+    {
+        "question": "When will I receive notifications about my submitted workshop proposal?",
+        "answer": "You will receive a notification about your submitted workshop proposal on March 16, 2023.",
+        "from": "ICML2023>>Calls>>Call For Workshops>>Submission Instructions>>Important dates for workshop submissions:"
+    },
+    {
+        "question": "When is the universal notification deadline for all ICML workshop submissions?",
+        "answer": "The universal notification deadline for all ICML workshop submissions is June 19, 2023.",
+        "from": "ICML2023>>Calls>>Call For Workshops>>Submission Instructions>>Important dates for workshop submissions:"
+    },
+    {
+        "question": "Do I need to use a specific email address for my ICML.cc workshop proposal?",
+        "answer": "Yes, please use the same email address that you use for ICML.cc.",
+        "from": "ICML2023>>Calls>>Call For Workshops>>Submission Instructions>>matter need attention"
+    },
+    {
+        "question": "What is the intended date for ICML 2023 conference?",
+        "answer": "25 July to 27 July, 2023",
+        "from": "ICML2023>>Calls>>Call For Socials>>date"
+    },
+    {
+        "question": "Where is the ICML 2023 conference scheduled to take place?",
+        "answer": "Honolulu, Hawaii (in-person).",
+        "from": "ICML2023>>Calls>>Call For Socials>>location"
+    },
+    {
+        "question": "What is the central mission of the ICML community?",
+        "answer": "To create an opportunity for all participants to meet new people and to share knowledge, valuable experiences, best practices, career options, and diverse less research-related interests.",
+        "from": "ICML2023>>Calls>>Call For Socials>>introduction"
+    },
+    {
+        "question": "What are some of the themes that ICML socials can center around?",
+        "answer": [
+            "Research topics and interests (e.g., generative models, reinforcement learning, social impact ML)",
+            "Skills exchange and training (e.g., giving better presentations, guidance on academic job applications)",
+            "Supporting affinity group meetings (e.g., QueerInAI, Women in Machine Learning)",
+            "Other less research-oriented, social, and intellectual gatherings (e.g., ICML book club, wine and cheese, quiz night)"
+        ],
+        "from": "ICML2023>>Calls>>Call For Socials>>Socials>>themes range(but not limited)"
+    },
+    {
+        "question": "What is the deadline for submissions of social and physical mentoring sessions for ICML 2023?",
+        "answer": "June 11 2023",
+        "from": "ICML2023>>Calls>>Call For Socials>>Important Dates>>Deadline"
+    },
+    {
+        "question": "When and where will the ICML 2023 Expo Call for Talks and Panels be held?",
+        "answer": "Sun Jul 23, 2023 at Hawaii Convention Center, Honolulu",
+        "from": "ICML2023>>Calls>>Call For Expo>>date, location"
+    },
+    {
+        "question": "What is the submission deadline for the Expo Call for Talks and Panels?",
+        "answer": "May 31, 2023",
+        "from": "ICML2023>>Calls>>Call For Expo>>Submission deadline"
+    },
+    {
+        "question": "What are the expected themes or subject areas for the talks and panels?",
+        "answer": "1. Applications, 2. Software, 3. Hardware, 4. Algorithms, 5. Neuroscience and AI, 6. Research opportunities",
+        "from": "ICML2023>>Calls>>Call For Expo>>Subject areas"
+    },
+    {
+        "question": "What information should be included in the submission format for the ICML 2023 Expo Call for Talks and Panels?",
+        "answer": "Title of the Talk/Panel, Name and contact information of the organizer, Name(s) and affiliation of speaker(s), Abstract of the talk/panel.",
+        "from": "ICML2023>>Calls>>Call For Expo>>Submission Format"
+    },
+    {
+        "question": "Who are invited to submit proposals for talks and panels for the ICML 2023 Expo?",
+        "answer": "Sponsors are invited to submit proposals for talks and panels on topics that are relevant to the ICML community.",
+        "from": "ICML2023>>Calls>>Call For Expo>>introduction"
+    },
+    {
+        "question": "What is the size limit for the main conference posters at ICML 2023?",
+        "answer": "No larger than 4'x8' landscape",
+        "from": "ICML2023>>Resources>>Poster Instructions>>Main Conference"
+    },
+    {
+        "question": "Where can I find details about the reviewing process at ICML 2023?",
+        "answer": "They are available in the ICML 2023 Reviewer Tutorial and ICML 2023 Area Chair Tutorial",
+        "from": [
+            "ICML2023>>Resources>>Reviewer Tutorial",
+            "ICML2023>>Resources>>Area Chair Tutorial"
+        ]
+    },
+    {
+        "question": "What is the policy on Large Language Models (LLMs) for ICML 2023 reviewing?",
+        "answer": "It is acceptable to use LLMs to copy edit or modify the language in a potential review, but the reviewer is ultimately responsible for their review submitted, its content, and its correctness. It is not acceptable for a reviewer to have a LLM generate the full review and submit it as if it is their own. Also, any part of authors’ paper submission must not be uploaded on LLM services, as these services may store and use the submissions.",
+        "from": "ICML2023>>Resources>>Reviewer Tutorial>>Policy on Large Language Models (LLMs) for ICML 2023 Reviewing"
+    },
+    {
+        "question": "What procedure should be followed if I opt to bring a physical poster at the conference site?",
+        "answer": "You should bring your poster to your assigned poster session and place it in the location identified on your poster page. If your poster is for a workshop, consult with the workshop organizer for exact details. Posters are usually put up in the workshop on the day of the workshop.",
+        "from": "ICML2023>>Resources>>Poster Instructions>>Physical Conference Poster Presenter Instructions"
+    },
+    {
+        "question": "What review aspects should be considered when reviewing papers submitted to ICML 2023?",
+        "answer": "The review aspects include: summarizing the paper, assessing its novelty, relevance and significance, confirming its soundness, quality of writing/presentation, how appropriately the paper is placed into contemporary literature, and mentioning the specific parts of the paper that were read to make the review.",
+        "from": "ICML2023>>Resources>>Review Form>>content"
+    },
+    {
+        "question": "What is the submission format for ICML 2023 workshops?",
+        "answer": "Proposals should be two pages long, in single-column A4 or letter format, with font size 11 or greater, excluding organizer contact details/CVs and bibliographic references. The proposal should clearly specify the workshop title, a brief description of the topics to be covered and why it will appeal to ICML audiences, a short description and rough timetable of all planned activities detailing planned in-person and virtual elements, list of invited speakers, a description of the history of the workshop, similar past and current events at ICML and NeurIPS in the last 1-2 years, list of organizers with their contact details and bio, and names of two organizers designated as contacts for all communications.",
+        "from": "ICML2023>>Calls>>Call For Workshops>>Submission format"
+    },
+    {
+        "question": "Will ICML 2023 host fully virtual workshops?",
+        "answer": "No, fully virtual workshops will not be supported. All workshops must have at least some in-person activities.",
+        "from": "ICML2023>>Calls>>Call For Workshops>>FAQ>>Can we host a fully virtual workshop?"
+    },
+    {
+        "question": "What is the role of the workshop organizers in terms of virtual participation?",
+        "answer": "Workshop organizers are asked to manage the virtual elements, e.g., hosting and recording presentations and papers, streaming, and virtual poster sessions. ICML organizers will assist with central support as needed.",
+        "from": "ICML2023>>Calls>>Call For Workshops>>matter need attention"
+    },
+    {
+        "question": "Who are the ICML 2023 Workshop Chairs and their affiliations?",
+        "answer": "The ICML 2023 Workshop Chairs are Po-Ling Loh from University of Cambridge, Virginia Smith from Carnegie Mellon University, and Cheng Soon Ong from CSIRO and Australian National University.",
+        "from": "ICML2023>>Calls>>Call For Workshops>>ICML 2023 Workshop Chairs"
+    },
+    {
+        "question": "Are workshop speakers allowed to give virtual talks?",
+        "answer": "Yes, workshop organizers can allow for speakers to present virtually. However, virtual speakers should commit to engaging with other presenters and participants of the workshop on the day of the workshop.",
+        "from": "ICML2023>>Calls>>Call For Workshops>>FAQ>>Can workshop speakers give virtual talks?"
+    },
+    {
+        "question": "What is the goal of the ICML Paper Guidelines?",
+        "answer": "The goal of the ICML Paper Guidelines is to promote best practices for responsible machine learning research, including reproducibility, ethics, transparency, and impact on society.",
+        "from": "ICML2023>>Calls>>Call For Papers>>Paper Guidelines>>introduction"
+    },
+    {
+        "question": "What is the purpose of the NeurIPS Paper Checklist?",
+        "answer": "The NeurIPS Paper Checklist is designed to encourage best practices for responsible machine learning research, addressing issues of reproducibility, transparency, research ethics, and societal impact.",
+        "from": "ICML2023>>Calls>>Call For Papers>>Paper Guidelines>>NeurIPS 2022 Paper checklist>>guidelines"
+    },
+    {
+        "question": "What considerations need to be taken into account when discussing potential negative societal impacts of your work?",
+        "answer": "Considerations include potential malicious or unintended uses (e.g., disinformation, generating fake profiles, surveillance), environmental impact (e.g., training huge models), fairness considerations (e.g., deployment of technologies that could further disadvantage historically disadvantaged groups), privacy considerations (e.g., a paper on model/data stealing), and security considerations (e.g., adversarial attacks).",
+        "from": "ICML2023>>Calls>>Call For Papers>>Paper Guidelines>>NeurIPS 2022 Paper checklist>>guidelines"
+    },
+    {
+        "question": "What are participants required to include if they are using existing assets in their work?",
+        "answer": "They need to include citations for the creators and the version of the assets, a mention of the license of the assets, any new assets either in the supplemental material or as a URL, a discussion regarding if consent was obtained from people whose data they're using, and whether the data contains personally identifiable information or offensive content.",
+        "from": "ICML2023>>Calls>>Call For Papers>>Paper Guidelines>>best research practices"
+    },
+    {
+        "question": "What details should you specify if you ran experiments for your submission?",
+        "answer": "You should specify all the training details such as data splits and hyperparameters, report error bars with respect to the random seed after running experiments multiple times, and include the amount of compute and the type of resources used.",
+        "from": "ICML2023>>Calls>>Call For Papers>>Paper Guidelines>>best research practices"
+    },
+    {
+        "question": "What are the guidelines authors should follow for writing accessible papers for ICML2023?",
+        "answer": "Authors should (1) review guidelines for accessibility to color-blind and visually impaired; (2) ensure their bibliography is up-to-date, including up-to-date names and venues; (3) use inclusive and respectful language throughout when talking about people.",
+        "from": "ICML2023>>Calls>>Call For Papers>>Author Instructions>>Accessibility and Inclusiveness"
+    },
+    {
+        "question": "What is the deadline for ordering the optional Poster Printing Service for ICML2023?",
+        "answer": "The deadline to order Poster Printing Service is June 22.",
+        "from": "ICML2023>>Calls>>Call For Papers>>Author Instructions>>Posters>>Poster Upload>>Poster Printing>>Poster Printing Service"
+    },
+    {
+        "question": "What is the policy on dual submission for ICML2023?",
+        "answer": "It is not appropriate to submit papers that are substantially similar (or identical) in content to versions that have been previously published, or accepted for publication, or that are under review at other peer reviewed conferences or journals at any time while they are also under consideration for ICML. Such submissions violate our dual submission policy and will be rejected.",
+        "from": "ICML2023>>Calls>>Call For Papers>>Author Instructions>>Submissions>>Dual Submission Policy"
+    },
+    {
+        "question": "What is the process of reviewing for ICML2023 conference?",
+        "answer": "Reviewing for ICML 2023 is double-blind; i.e., reviewers will not know the authors’ identity (and vice versa).",
+        "from": "ICML2023>>Calls>>Call For Papers>>Author Instructions>>Double-Blind Reviewing"
+    },
+    {
+        "question": "What are the instructions for submitting supplementary material for ICML2023?",
+        "answer": "ICML 2023 supports the submission of two kinds of supplementary material -- supplementary manuscripts and code/data. The material must be anonymized. For code submissions, author names and licenses should be removed. Submission of code through anonymous GitHub repositories is allowed; however, they have to be on a branch that will not be modified after the submission deadline. The supplementary code can be submitted as either a zip file or a pdf. Supplementary material will not be published or archived, and there are no format restrictions.",
+        "from": "ICML2023>>Calls>>Call For Papers>>Author Instructions>>Supplementary Material"
+    },
+    {
+        "question": "What is the International Conference on Machine Learning (ICML)?",
+        "answer": "The International Conference on Machine Learning (ICML) is the premier gathering of professionals dedicated to the advancement of the branch of artificial intelligence known as machine learning.",
+        "from": "ICML2023>>About ICML"
+    },
+    {
+        "question": "How can I create an ICML.cc account?",
+        "answer": "To create an account, use the form below to create an account. An email will be sent with further instructions.",
+        "from": "ICML2023>>Create an Account"
+    },
+    {
+        "question": "What is the cancellation policy for ICML2023?",
+        "answer": "https://icml.cc/FAQ/CancellationPolicy",
+        "from": "ICML2023>>Help>>FAQ>>Frequently Asked Questions>>Registration"
+    },
+    {
+        "question": "What should I do if I lost something at the conference venue?",
+        "answer": "https://icml.cc/FAQ/LostAndFound",
+        "from": "ICML2023>>Help>>FAQ>>Frequently Asked Questions>>At the Conference"
+    },
+    {
+        "question": "How do I get an updated Receipt/Invoice for registration at ICML2023?",
+        "answer": "https://icml.cc/FAQ/Receipt",
+        "from": "ICML2023>>Help>>FAQ>>Frequently Asked Questions>>Registration"
+    },
+    {
+        "question": "How is my credit card information protected when making payments for ICML2023?",
+        "answer": "https://icml.cc/FAQ/CreditCardSecurity",
+        "from": "ICML2023>>Help>>FAQ>>Frequently Asked Questions>>Credit Card Payments"
+    },
+    {
+        "question": "What is ICML's policy regarding the sharing of personal information?",
+        "answer": "ICML will not share the personal information it has collected, except under specific circumstances as outlined in the privacy policy.",
+        "from": "ICML2023>>Privacy Policy"
+    },
+    {
+        "question": "How can I get a certificate of attendance for ICML2023?",
+        "answer": "https://icml.cc/FAQ/CertificateOfAttendance",
+        "from": "ICML2023>>Help>>FAQ>>Frequently Asked Questions>>Travel and Attendance Documents"
+    },
+    {
+        "question": "What do I need to do if I have two ICML.cc accounts and want to merge them?",
+        "answer": "https://icml.cc/FAQ/MergeAccounts",
+        "from": "ICML2023>>Help>>FAQ>>Frequently Asked Questions>>Accounts"
+    },
+    {
+        "question": "What are the instructions for creating a poster for ICML2023?",
+        "answer": "https://icml.cc/FAQ/PosterInstructions",
+        "from": "ICML2023>>Help>>FAQ>>Frequently Asked Questions>>Posters"
+    },
+    {
+        "question": "How do I reset my ICML.cc password?",
+        "answer": "https://icml.cc/FAQ/04-Forgot-ICML-password",
+        "from": "ICML2023>>Help>>FAQ>>Frequently Asked Questions>>Accounts"
+    },
+    {
+        "question": "What is the policy for badge replacement at ICML2023 conference?",
+        "answer": "https://icml.cc/FAQ/BadgeReplacementPolicy",
+        "from": "ICML2023>>Help>>FAQ>>Frequently Asked Questions>>At the Conference"
+    },
+    {
+        "question": "What happens if my credit card payment declined for ICML2023?",
+        "answer": "https://icml.cc/FAQ/CreditCardDeclined",
+        "from": "ICML2023>>Help>>FAQ>>Frequently Asked Questions>>Credit Card Payments"
+    },
+    {
+        "question": "Are students given any discounts for registration at ICML2023?",
+        "answer": "https://icml.cc/FAQ/FullTimeStudent",
+        "from": "ICML2023>>Help>>FAQ>>Frequently Asked Questions>>Registration"
+    },
+    {
+        "question": "How can I obtain a Visa Letter of Invitation for attending ICML2023?",
+        "answer": "https://icml.cc/FAQ/VISALetterOfInvitation",
+        "from": "ICML2023>>Help>>FAQ>>Frequently Asked Questions>>Travel and Attendance Documents"
+    },
+    {
+        "question": "Who is the General Chair of ICML 2023?",
+        "answer": "Andreas Krause",
+        "from": "ICML2023>>Organization>>Organizing Committee>>General Chair"
+    },
+    {
+        "question": "Who are the Tutorial Chairs for the ICML 2023?",
+        "answer": [
+            "Bo Li",
+            "Hanie Sedghi",
+            "Martin Jaggi"
+        ],
+        "from": "ICML2023>>Organization>>Organizing Committee>>Tutorial Chairs"
+    },
+    {
+        "question": "Which university is the Program Chair 'Emma Brunskill' affiliated to for the ICML 2023?",
+        "answer": "Stanford University",
+        "from": "ICML2023>>Organization>>Organizing Committee>>Program Chairs"
+    },
+    {
+        "question": "Who is in charge of Accessibility for ICML 2023?",
+        "answer": "Maria Skoularidou",
+        "from": "ICML2023>>Organization>>Organizing Committee>>Accessibility Chair"
+    },
+    {
+        "question": "Which organization is the Communication Chair 'Marco Cuturi' affiliated with in ICML 2023?",
+        "answer": "Apple",
+        "from": "ICML2023>>Organization>>Organizing Committee>>Communications Chairs"
+    },
+    {
+        "question": "Who holds the position of the Social Chair at ICML 2023 and where are they from?",
+        "answer": [
+            "Hendrik Strobelt",
+            "Jung-Woo Ha"
+        ],
+        "from": "ICML2023>>Organization>>Organizing Committee>>Social Chairs"
+    },
+    {
+        "question": "Who are the Diversity & Inclusion Chairs for ICML 2023?",
+        "answer": [
+            "Finale Doshi-Velez",
+            "Sinead A Williamson"
+        ],
+        "from": "ICML2023>>Organization>>Organizing Committee>>Diversity & Inclusion Chairs"
+    },
+    {
+        "question": "Which chair is associated with 'National University of Singapore' in ICML 2023?",
+        "answer": "Jonathan Scarlett",
+        "from": "ICML2023>>Organization>>Organizing Committee>>Publications Chairs"
+    },
+    {
+        "question": "Which chairs are affiliated with Stanford University in ICML 2023?",
+        "answer": [
+            "Emma Brunskill",
+            "Yannis Flet-Berliac"
+        ],
+        "from": [
+            "ICML2023>>Organization>>Organizing Committee>>Program Chairs",
+            "ICML2023>>Organization>>Organizing Committee>>Associate Chairs"
+        ]
+    },
+    {
+        "question": "Who are the Associate Chairs for ICML 2023?",
+        "answer": [
+            "Didong Li",
+            "Natasa Tagasovska",
+            "Yannis Flet-Berliac"
+        ],
+        "from": "ICML2023>>Organization>>Organizing Committee>>Associate Chairs"
+    },
+    {
+        "question": "Who are the Program Chairs of ICML 2023?",
+        "answer": [
+            "Barbara Engelhardt",
+            "Emma Brunskill",
+            "Kyunghyun Cho"
+        ],
+        "from": "ICML2023>>Organization>>Organizing Committee>>Program Chairs"
+    },
+    {
+        "question": "Who is responsible for the 'Workflow Chair' at ICML 2023?",
+        "answer": "Zhenyu (Sherry) Xue",
+        "from": "ICML2023>>Organization>>Organizing Committee>>Workflow Chair"
+    },
+    {
+        "question": "Who are handling the Workshop for ICML 2023?",
+        "answer": [
+            "Cheng Soon Ong",
+            "Po-Ling Loh",
+            "Virginia Smith"
+        ],
+        "from": "ICML2023>>Organization>>Organizing Committee>>Workshop Chairs"
+    },
+    {
+        "question": "Who is the Expo Chair from 'Max Planck Institute' for ICML 2023?",
+        "answer": "Adish Singla",
+        "from": "ICML2023>>Organization>>Organizing Committee>>Expo Chairs"
+    },
+    {
+        "question": "Who are the Expo Chairs for ICML 2023?",
+        "answer": [
+            "Adish Singla",
+            "Rose Yu"
+        ],
+        "from": "ICML2023>>Organization>>Organizing Committee>>Expo Chairs"
+    },
+    {
+        "question": "What is the main role of the reviewers in the ICML program?",
+        "answer": "The program at ICML is made possible by the hard work of a large number of people who contribute their expertise to this process. Reviewers carefully read and assess papers, provide critical feedback to authors, and provide an appraisal of the papers' strengths.",
+        "from": "ICML2023>>Organization>>Reviewers>>introduction"
+    },
+    {
+        "question": "How many reviewers and meta-reviewers were involved in ICML2023?",
+        "answer": "There were 7403 reviewers and 281 meta-reviewers involved in ICML2023.",
+        "from": "ICML2023>>Organization>>Reviewers>>introduction"
+    },
+    {
+        "question": "Who is Abhinav Shukla and what is his affiliation?",
+        "answer": "Abhinav Shukla is one of the outstanding reviewers in the top 10% and his affiliation is FacebookFacebook.",
+        "from": "ICML2023>>Organization>>Reviewers>>Outstanding Reviewers (Top 10%)[0]"
+    },
+    {
+        "question": "Who is the reviewer from Shanghai AI Lab?",
+        "answer": "Li Chen is the reviewer from Shanghai AI Lab.",
+        "from": "ICML2023>>Organization>>Reviewers>>Outstanding Reviewers (Top 10%)"
+    },
+    {
+        "question": "Who is the reviewer associated with Boston University?",
+        "answer": "Andrea Burns is the reviewer associated with Boston University.",
+        "from": "ICML2023>>Organization>>Reviewers>>Outstanding Reviewers (Top 10%)"
+    },
+    {
+        "question": "Which reviewer is affiliated with the University of Oxford and DeepMind?",
+        "answer": "Andrew Zisserman is the reviewer affiliated with the University of Oxford and DeepMind.",
+        "from": "ICML2023>>Organization>>Reviewers>>Outstanding Reviewers (Top 10%)"
+    },
+    {
+        "question": "How many Senior Meta-Reviewers were part of the ICML2023?",
+        "answer": "There were 53 Senior Meta-Reviewers as part of ICML2023.",
+        "from": "ICML2023>>Organization>>Reviewers>>introduction"
+    },
+    {
+        "question": "What is the role of Senior Meta-Reviewers in ICML?",
+        "answer": "Senior Meta-Reviewers co-ordinate and calibrate the Meta-Reviewer recommendations, and are involved with the peer review and decision process in the more difficult and unusual situations.",
+        "from": "ICML2023>>Organization>>Reviewers>>introduction"
+    },
+    {
+        "question": "Who is the reviewer associated with Polytechnic Institute of Turin?",
+        "answer": "Carlo Masone is the reviewer associated with the Polytechnic Institute of Turin.",
+        "from": "ICML2023>>Organization>>Reviewers>>Outstanding Reviewers (Top 10%)"
+    },
+    {
+        "question": "Who is the reviewer associated with Google from the list of Outstanding Reviewers at ICML 2023?",
+        "answer": "Ameesh Makadia and Amit Raj are reviewers associated with Google from the list of Outstanding Reviewers at ICML 2023.",
+        "from": "ICML2023>>Organization>>Reviewers>>Outstanding Reviewers (Top 10%)"
+    },
+    {
+        "question": "Who is the reviewer affiliated with the Indian Institute of Technology, Jodhpur?",
+        "answer": "Anand Mishra is the reviewer affiliated with the Indian Institute of Technology, Jodhpur.",
+        "from": "ICML2023>>Organization>>Reviewers>>Outstanding Reviewers (Top 10%)"
+    },
+    {
+        "question": "Which reviewer is associated with the Information Technology University, Lahore?",
+        "answer": "Arif Mahmood is associated with the Information Technology University, Lahore.",
+        "from": "ICML2023>>Organization>>Reviewers>>Outstanding Reviewers (Top 10%)"
+    },
+    {
+        "question": "Who are the reviewers from the Institute of automation, Chinese academy of Science, Chinese Academy of Sciences in ICML2023?",
+        "answer": "Chaoyou Fu and Jie Cao are the reviewers from the Institute of automation, Chinese Academy of Sciences in ICML2023.",
+        "from": "ICML2023>>Organization>>Reviewers>>Outstanding Reviewers (Top 10%)"
+    },
+    {
+        "question": "Who is the reviewer associated with Purdue University, and also a member of Shanghai AI Lab?",
+        "answer": "Chonghao Sima is the reviewer associated with both Purdue University and Shanghai AI Lab.",
+        "from": "ICML2023>>Organization>>Reviewers>>Outstanding Reviewers (Top 10%)"
+    },
+    {
+        "question": "What are the exhibitor levels available at ICML 2023?",
+        "answer": "The exhibitor levels at ICML 2023 include Diamond, Platinum, Gold, Silver, Bronze, and Book Publisher.",
+        "from": "ICML2023>>Exhibitor Info>>Exhibitor Levels"
+    },
+    {
+        "question": "What is the cost of being a Diamond exhibitor at ICML 2023?",
+        "answer": "The cost of being a Diamond exhibitor at ICML 2023 is $100,000 USD.",
+        "from": "ICML2023>>Exhibitor Info>>Exhibitor Levels>>Diamond>>money"
+    },
+    {
+        "question": "Who are the Platinum Exhibitors for ICML 2023?",
+        "answer": "The Platinum Exhibitors for ICML 2023 include Microsoft, Jane Street, Apple, DeShaw&Co, Colossal-AI, and Google DeepMind.",
+        "from": "ICML2023>>Exhibitor Info>>View ICML 2023 Exhibitors>>Platinum"
+    },
+    {
+        "question": "What are the privileges provided to a Gold exhibitor at ICML 2023?",
+        "answer": "A Gold exhibitor at ICML 2023 gets a 1:1 Turnkey includes 8’x 10’ space, graphic kiosk w/counter, monitor, installation and dismantle, Access to ICML Recruitment Database, Recruitment row space in exhibit hall (draped rooms included), Complimentary: (8) full-access registrations; (3) exhibitor booth badges, Acknowledgement at the opening reception, and Company logo on website with link and on welcome units.",
+        "from": "ICML2023>>Exhibitor Info>>Exhibitor Levels>>Gold>>treatment"
+    },
+    {
+        "question": "When is the registration deadline for exhibitors for ICML 2023?",
+        "answer": "The registration deadline for exhibitors for ICML 2023 is due Jun 23, 2023 06:00 PM PDT or 00 weeks 01 days 08:34:38 (anywhere on earth).",
+        "from": "ICML2023>>Exhibitor Info>>introduction"
+    },
+    {
+        "question": "When and where will the ICML 2023 conference take place?",
+        "answer": "The ICML 2023 conference will take place from Sun Jul 23rd through Sat the 29th in Honolulu, Hawai‘i.",
+        "from": "ICML2023>>Exhibitor Info>>introduction"
+    },
+    {
+        "question": "How does ICML 2023 use the funds obtained from exhibitors?",
+        "answer": "ICML 2023 directs 20% of exhibitor funds to the need-based program to support hotel, food, and registration costs for those in financial need, particularly graduate students and Diversity, Equality and Inclusion efforts.",
+        "from": "ICML2023>>Exhibitor Info>>introduction"
+    },
+    {
+        "question": "What are the exhibition hours for ICML 2023?",
+        "answer": "The exhibition hours for ICML 2023 are: Sun, July 23 2:00pm-6:00pm, Mon, July 24 10:00am-8:00pm *40th Anniversary Reception 6:15 PM, Tue, July 25 10:00am-6:00pm, Wed, July 26 10:00am-6:00pm.",
+        "from": "ICML2023>>Exhibitor Info>>Venue Information>>Setup, Exhibit Hours and Teardown>>Exhibit Hall Hours"
+    },
+    {
+        "question": "Who can I contact for exhibitor questions in ICML 2023?",
+        "answer": "For exhibitor questions in ICML 2023, you can contact Terri Auricchio or Stephanie Willes.",
+        "from": "ICML2023>>Exhibitor Info>>Exhibitor - Sponsor Portal"
+    },
+    {
+        "question": "What are the benefits for the Silver exhibitor level at ICML 2023?",
+        "answer": "The benefits for Silver level at ICML 2023 includes 10’ x 10’ booth space; standard IAEE regulations, Access to ICML Recruitment Database, Recruitment row space in exhibit hall (draped rooms included), Complimentary:(4) full-access registrations; (3) exhibitor booth badges, Acknowledgement at the opening reception, Company logo on website with link and on welcome units.",
+        "from": "ICML2023>>Exhibitor Info>>Exhibitor Levels>>Silver>>treatment"
+    },
+    {
+        "question": "What are the shipping details for the ICML 2023 conference?",
+        "answer": "The advance shipping date is from June 8 - July 18 and the direct to show site date is July 22. The exact addresses for both shipping types are given in the 'Venue Information' section.",
+        "from": "ICML2023>>Exhibitor Info>>Venue Information>>Shipping & Customs Information"
+    },
+    {
+        "question": "Who are the Diamond exhibitors at the ICML 2023 conference?",
+        "answer": "The Diamond exhibitors at the ICML 2023 conference are CITADEL Securities and Google Research.",
+        "from": "ICML2023>>Exhibitor Info>>View ICML 2023 Exhibitors>>DIAMOND"
+    },
+    {
+        "question": "What are the teardown times for ICML 2023?",
+        "answer": "The teardown times for ICML 2023 are: Wed, July 26 6:00pm-9:00pm, Thu, July 27 8:00am-2:00pm.",
+        "from": "ICML2023>>Exhibitor Info>>Venue Information>>Setup, Exhibit Hours and Teardown>>Move Out"
+    },
+    {
+        "question": "Who are the Bronze exhibitors at the ICML 2023 conference?",
+        "answer": "The Bronze exhibitors at ICML 2023 are quantco and CHEN INSTITUTE.",
+        "from": "ICML2023>>Exhibitor Info>>View ICML 2023 Exhibitors>>Bronze"
+    },
+    {
+        "question": "Who should I contact for technical help during the ICML 2023 conference?",
+        "answer": "For technical help during the ICML 2023 conference, you can contact Brad Brockmeyer or Max Wiesner.",
+        "from": "ICML2023>>Exhibitor Info>>Exhibitor - Sponsor Portal"
+    },
+    {
+        "question": "When and where will the ICML 2023 Meeting take place?",
+        "answer": "The ICML 2023 Meeting will take place Sun. Jul 23rd through Sat the 29th, 2023 at the Hawaii Convention Center.",
+        "from": "ICML2023>>Dates>>ICML 2023 Meeting Dates>>date, location"
+    },
+    {
+        "question": "When does the registration for attendees open for the ICML 2023 conference?",
+        "answer": "Registration for attendees opens on Feb 03 '23 02:00 PM UTC.",
+        "from": "ICML2023>>Dates>>ICML 2023 Meeting Dates>>Dates by Category>>Attendees>>Registration Open"
+    },
+    {
+        "question": "When is the full paper submission deadline for ICML 2023?",
+        "answer": "The full paper submission deadline is Jan 26 '23 07:59 PM UTC.",
+        "from": "ICML2023>>Dates>>ICML 2023 Meeting Dates>>Dates by Category>>Paper Submissions>>Full Paper Submission Deadline"
+    },
+    {
+        "question": "When is the deadline for the tutorial proposal submissions for ICML 2023?",
+        "answer": "The tutorial proposal submission deadline is Feb 17 '23 (Anywhere on Earth).",
+        "from": "ICML2023>>Dates>>ICML 2023 Meeting Dates>>Dates by Category>>Tutorials>>Tutorial Proposal Submission Deadline"
+    },
+    {
+        "question": "When will the grant application notifications be sent out for financial assistance for ICML 2023?",
+        "answer": "The grant application notifications will be sent out on May 06 '23 01:00 AM UTC.",
+        "from": "ICML2023>>Dates>>ICML 2023 Meeting Dates>>Dates by Category>>Financial Assistance>>Grant Application Notification"
+    },
+    {
+        "question": "When is the last chance for a refund on registration fees for ICML 2023?",
+        "answer": "The last chance for a refund on registration fees is Jul 01 '23 11:59 PM UTC.",
+        "from": "ICML2023>>Dates>>ICML 2023 Meeting Dates>>Dates by Category>>Attendees>>Last chance for a refund on registration fees"
+    },
+    {
+        "question": "When does the Reviewer-AC Discussion Ends for paper submissions for ICML 2023?",
+        "answer": "The Reviewer-AC Discussion ends on Apr 02 '23 07:00 PM UTC.",
+        "from": "ICML2023>>Dates>>ICML 2023 Meeting Dates>>Dates by Category>>Paper Submissions>>Reviewer-AC Discussion Ends"
+    },
+    {
+        "question": "When is the Social Application deadline for ICML 2023?",
+        "answer": "The Social Application deadline is Jun 11 '23 (Anywhere on Earth).",
+        "from": "ICML2023>>Dates>>ICML 2023 Meeting Dates>>Dates by Category>>Socials>>Social Deadline Date"
+    },
+    {
+        "question": "When is the deadline to submit workshop applications for ICML 2023?",
+        "answer": "The deadline to submit workshop applications is on Feb 16 '23 (Anywhere on Earth).",
+        "from": "ICML2023>>Dates>>ICML 2023 Meeting Dates>>Dates by Category>>Workshops>>Workshop Application Deadline"
+    },
+    {
+        "question": "When do the expo calls open for ICML 2023?",
+        "answer": "The expo calls open on Dec 26 '22 (Anywhere on Earth).",
+        "from": "ICML2023>>Dates>>ICML 2023 Meeting Dates>>Dates by Category>>Sponsors / Expo>>Expo Calls Open"
+    },
+    {
+        "question": "When does the author reviewer discussion end for paper submissions for ICML 2023?",
+        "answer": "The author reviewer discussion ends on Mar 26 '23 07:00 PM UTC.",
+        "from": "ICML2023>>Dates>>ICML 2023 Meeting Dates>>Dates by Category>>Paper Submissions>>Author Reviewer Discussion Ends"
+    },
+    {
+        "question": "When is the deadline for the SlidesLive Video Upload for ICML 2023?",
+        "answer": "The deadline for the SlidesLive Video Upload is Jun 29 '23 (Anywhere on Earth).",
+        "from": "ICML2023>>Dates>>ICML 2023 Meeting Dates>>Dates by Category>>Paper Submissions>>SlidesLive Video Upload Deadline"
+    },
+    {
+        "question": "When is the Expo Decision Notifications date for ICML 2023?",
+        "answer": "The Expo Decision Notifications date is Jun 07 '23 (Anywhere on Earth).",
+        "from": "ICML2023>>Dates>>ICML 2023 Meeting Dates>>Dates by Category>>Sponsors / Expo>>Expo Decision Notifications"
+    },
+    {
+        "question": "When does the volunteer application close for ICML 2023?",
+        "answer": "The volunteer application closes on May 23 '23 (Anywhere on Earth).",
+        "from": "ICML2023>>Dates>>ICML 2023 Meeting Dates>>Dates by Category>>Volunteers>>Volunteer Application Closes"
+    },
+    {
+        "question": "When is the last date to submit availability dates for volunteers for ICML 2023?",
+        "answer": "The last date to submit availability dates for volunteers is Jun 22 '23 (Anywhere on Earth).",
+        "from": "ICML2023>>Dates>>ICML 2023 Meeting Dates>>Dates by Category>>Volunteers>>Volunteer Available Dates Due"
+    },
+    {
+        "question": "What is the Journal-to-Conference Track initiative?",
+        "answer": "The Boards of machine learning conferences NeurIPS, ICLR and ICML have jointly agreed on experimenting with a new Journal-to-Conference track, through which the authors of published journal papers at selected journals would be given the opportunity to present their work at one of these 3 conferences, of their choosing.",
+        "from": "ICML2023>>Journal to Conference Track>>The NeurIPS/ICLR/ICML Journal-to-Conference Track"
+    },
+    {
+        "question": "From which journal will the conference track consider papers for presentation?",
+        "answer": "The track will be considering published papers from the Journal of Machine Learning Research (JMLR).",
+        "from": "ICML2023>>Journal to Conference Track>>The NeurIPS/ICLR/ICML Journal-to-Conference Track"
+    },
+    {
+        "question": "What requirements must a paper meet to be eligible for the Journal-to-Conference Track?",
+        "answer": "Eligible papers must: Have been published at JMLR no earlier than January 1st 2022. Not contain contributions that have already been published at a conference by the same authors.",
+        "from": "ICML2023>>Journal to Conference Track>>Eligibility"
+    },
+    {
+        "question": "How can an author request presentation of eligible papers at a conference?",
+        "answer": "The author of an eligible JMLR published paper must submit their request through a form or via email in case of inability to use the form.",
+        "from": [
+            "ICML2023>>Journal to Conference Track>>Request to present>>To request a presentation, the author of an eligible JMLR published paper must submit their request through the following form:",
+            "ICML2023>>Journal to Conference Track>>Request to present>>if for some reason you are not able to use this form, you may email us at"
+        ]
+    },
+    {
+        "question": "What is the deadline for submission of presentation requests for the ICML 2023 conference?",
+        "answer": "The deadline for submission of presentation requests for the ICML 2023 conference is April 24th 2023.",
+        "from": "ICML2023>>Journal to Conference Track>>Request to present>>Each conference has its own deadline for receiving requests, as follows"
+    },
+    {
+        "question": "Are journal papers that are extensions of previous conference publications by the same authors accepted in this track?",
+        "answer": "No.",
+        "from": "ICML2023>>Journal to Conference Track>>FAQ"
+    },
+    {
+        "question": "What is the latest date a journal paper could have been published to be eligible for the Journal-to-Conference Track?",
+        "answer": "The paper must have been published by JMLR no earlier than January 1st 2022.",
+        "from": "ICML2023>>Journal to Conference Track>>FAQ"
+    },
+    {
+        "question": "Will the paper presented at the conference be included in the chosen conference’s proceedings?",
+        "answer": "No. This track only provides an additional opportunity to present the work. It shall not be considered as being published in the proceedings of the chosen conference.",
+        "from": "ICML2023>>Journal to Conference Track>>FAQ"
+    },
+    {
+        "question": "Do I have to submit a version of the journal paper in the conference’s publication style format?",
+        "answer": "No. We will only require the journal in its JMLR paper format.",
+        "from": "ICML2023>>Journal to Conference Track>>FAQ"
+    },
+    {
+        "question": "What is the review process, how are papers selected for the Journal-to-Conference Track?",
+        "answer": "There is no further peer review done on submitted papers; they are only checked to ensure they meet the eligibility criteria.",
+        "from": "ICML2023>>Journal to Conference Track>>FAQ"
+    },
+    {
+        "question": "Can I request an extension of the submission deadline for the Journal-to-Conference Track?",
+        "answer": "No; the deadline is already as late as possible and is firm. Extensions will not be made for any reason.",
+        "from": "ICML2023>>Journal to Conference Track>>FAQ"
+    },
+    {
+        "question": "What type of presentation will be provided by the chosen conference?",
+        "answer": "Generally, the presentation offered will follow the format of a typical poster presentation at the chosen conference.",
+        "from": "ICML2023>>Journal to Conference Track>>FAQ"
+    },
+    {
+        "question": "Who are the members of the Oversight Committee?",
+        "answer": "Barbara Engelhardt, Hugo Larochelle, Naila Murray",
+        "from": "ICML2023>>Journal to Conference Track>>Request to present>>writer"
+    },
+    {
+        "question": "Which is the eligible journal for the Journal-to-Conference Track?",
+        "answer": "Only JMLR. This includes JMLR MLOSS (Machine Learning Open Source Software).",
+        "from": "ICML2023>>Journal to Conference Track>>FAQ"
+    },
+    {
+        "question": "Can I submit a request for presentation if my paper is accepted by email but doesn't yet appear in the proceedings?",
+        "answer": "No. We require that you provide a valid and working link to the PDF of your paper from the journal's proceedings site.",
+        "from": "ICML2023>>Journal to Conference Track>>FAQ"
+    },
+    {
+        "question": "What is the full name of ICML2023?",
+        "answer": "The Fortieth International Conference on Machine Learning",
+        "from": "ICML2023>>Year(2023)>>full name"
+    },
+    {
+        "question": "Where is the ICML2023 conference being held?",
+        "answer": "Hawaii Convention Center",
+        "from": "ICML2023>>Year(2023)>>location"
+    },
+    {
+        "question": "What is the cost for a full time student to register for the tutorial sessions at the ICML2023 conference?",
+        "answer": "$50.00 USD for early registration and $65.00 USD for regular registration",
+        "from": "ICML2023>>Year(2023)>>Registration>>Pricing>>Choose your affiliation type and either Virtual Pass or a combination of Tutorials, Conference and Workshops.  A Virtual pass is included with any physical registration.>>0"
+    },
+    {
+        "question": "What is included in the virtual pass for the ICML2023 conference?",
+        "answer": "Virtual Pass includes virtual-only access to the live stream of the entire conference (tutorials, main conference, workshops) and the ability to interact using Rocket Chat.",
+        "from": "ICML2023>>Year(2023)>>Registration>>Pricing>>Virtual Pass"
+    },
+    {
+        "question": "What are the dates for the ICML2023 conference?",
+        "answer": "Sun Jul 23rd through Sat the 29th",
+        "from": "ICML2023>>Year(2023)>>date"
+    },
+    {
+        "question": "When does early pricing end for ICML2023?",
+        "answer": "June 17, 2023, 2:59 p.m. pacific time",
+        "from": "ICML2023>>Year(2023)>>Registration>>Pricing>>Visa information for physical or hybrid conferences "
+    },
+    {
+        "question": "What is the venue for the opening reception of ICML2023?",
+        "answer": "There will be an opening reception Monday, July 24th from at 6:15 -8:00 pm. The reception is available to anyone who has registered for at least one of the following: Tutorials, Conference Sessions, Workshops.",
+        "from": "ICML2023>>Year(2023)>>Registration>>Pricing>>Opening Reception"
+    },
+    {
+        "question": "Who are the diamond exhibitors for the ICML2023 conference?",
+        "answer": [
+            "CITADEL Securities",
+            "Google Research"
+        ],
+        "from": "ICML2023>>Year(2023)>>Exhibitors>>2023 Exhibitors>>DIAMOND"
+    },
+    {
+        "question": "What are the dates for the workshop sessions in ICML2023?",
+        "answer": "Fri Jul 28th through Sat the 29th",
+        "from": "ICML2023>>Year(2023)>>Important Dates>>Workshops"
+    },
+    {
+        "question": "How can I cancel my registration for the ICML2023 conference?",
+        "answer": [
+            "Click My Stuff\" in the navigation bar on the left.",
+            "Under Registration history click the current year.",
+            "Click 3. Payment and Receipt.",
+            "Click the red Cancel Registration button.",
+            "If you are before the Cancellation Deadline, you will get a full refund issued to your credit card. The refund can take 10 business days to post to your account. If you are after the Cancellation Deadline, you cannot get a refund."
+        ],
+        "from": "ICML2023>>Year(2023)>>Registration>>Pricing>>Registration Cancelation Policy>>cancel instructions>>How to cancel my registration"
+    },
+    {
+        "question": "What are the Platinum exhibitors for the ICML2023 conference?",
+        "answer": [
+            "Microsoft",
+            "Jane Street",
+            "Apple",
+            "DeShaw&Co",
+            "Colossal-AI",
+            "Google DeepMind"
+        ],
+        "from": "ICML2023>>Year(2023)>>Exhibitors>>2023 Exhibitors>>Platinum"
+    },
+    {
+        "question": "What is the last date to get a refund on registration fees for the ICML2023 conference?",
+        "answer": "Jul 01 '23 01:59 PM HST *",
+        "from": "ICML2023>>Year(2023)>>Important Dates>>Last chance for a refund on registration fees"
+    },
+    {
+        "question": "What date is the Expo (Industry) Day on the ICML2023 conference?",
+        "answer": "Sun July 23rd",
+        "from": "ICML2023>>Year(2023)>>Important Dates>>Expo (Industry) Day"
+    },
+    {
+        "question": "When does the registration for the ICML2023 conference open?",
+        "answer": "Feb 03 '23 04:00 AM HST *",
+        "from": "ICML2023>>Year(2023)>>Important Dates>>Registration Open"
+    },
+    {
+        "question": "What are some of the silver level exhibitors for the ICML2023 conference?",
+        "answer": [
+            "mosaicML",
+            "FriendliAI",
+            "CapitalOne",
+            "YOKOGAWA",
+            "Point72",
+            "Cubist",
+            "TikTok",
+            "SONY",
+            "PDT PARTNERS",
+            "SQUARE POINT",
+            "AI INIT",
+            "DVC",
+            "TWO SIGMA",
+            "cerebras",
+            "Baidu",
+            "DE Shaw Research",
+            "Meta AI"
+        ],
+        "from": "ICML2023>>Year(2023)>>Exhibitors>>2023 Exhibitors>>SILVER"
+    },
+    {
+        "question": "What are the dates for ICML 2023 tutorial proposal submission and the announcement of acceptance or rejection?",
+        "answer": "Tutorial proposals should be submitted by Friday, February 17th 2023. Acceptance and rejection decisions will be announced on Friday, May 12th 2023.",
+        "from": "ICML2023>>Calls>>Call For Tutorials>>introduction"
+    },
+    {
+        "question": "How many tutorials is ICML 2023 planning to host and what is the expected length of each tutorial?",
+        "answer": "ICML 2023 plans to host nine tutorials. Each tutorial will be two hours long.",
+        "from": "ICML2023>>Calls>>Call For Tutorials>>introduction"
+    },
+    {
+        "question": "What are the guidelines for submitting a tutorial proposal for ICML 2023?",
+        "answer": "Tutorial proposals should answer the following questions: Title, Brief description and outline, Goals, Target audience, Presenters, Previous tutorials; and if you would be able to attend and present the tutorial in person if selected.",
+        "from": "ICML2023>>Calls>>Call For Tutorials>>Tutorial proposals should answer the following questions"
+    },
+    {
+        "question": "Who are the Tutorial Chairs for ICML 2023?",
+        "answer": "The Tutorial Chairs for ICML 2023 are Bo Li, Hanie Sedghi and Martin Jaggi.",
+        "from": "ICML2023>>Calls>>Call For Tutorials>>Tutorial Chairs, ICML 2023"
+    },
+    {
+        "question": "Where should the tutorial proposals for ICML 2023 be submitted?",
+        "answer": "Tutorial proposals should be submitted via this form: https://docs.google.com/forms/d/e/1FAIpQLSfyrcQz5J3zjd-U6I8NmvVw_8k7UrtSJpG1hsWD3hRCN0uKyA/viewform",
+        "from": "ICML2023>>Calls>>Call For Tutorials>>Tutorial proposals should be submitted via this form(url)"
+    },
+    {
+        "question": "Who is the point of contact for queries related to tutorials in ICML 2023?",
+        "answer": "For queries related to tutorials in ICML 2023, you can contact via tutorial@icml.cc .",
+        "from": "ICML2023>>Calls>>Call For Tutorials>>contact way"
+    },
+    {
+        "question": "What expectations are there from presenters of a tutorial at ICML 2023?",
+        "answer": "Presenters are expected to strongly commit to present the tutorial in person. ICML may be able to partially reimburse travel, lodging, and conference costs for tutorial presenters who would otherwise not be able to attend the conference.",
+        "from": "ICML2023>>Calls>>Call For Tutorials>>Tutorial proposals should answer the following questions"
+    },
+    {
+        "question": "What kind of tutorials are welcomed for ICML 2023?",
+        "answer": "The ICML 2023 welcomes proposals for tutorials on core machine learning topics and on topics of emerging importance for machine learning broadly. The tutorial should be of interest to part of the ICML audience.",
+        "from": "ICML2023>>Calls>>Call For Tutorials>>introduction"
+    },
+    {
+        "question": "What components should be included in the 'Presenters' section of the tutorial proposal?",
+        "answer": "The 'Presenters' section should include the names and email addresses of the presenters, along with brief bios and the description of each presenter's expertise in the tutorial area. If there is more than one presenter, a description of how time will be split should be included. If available, samples of past talks or links to video recordings on the topic should be included.",
+        "from": "ICML2023>>Calls>>Call For Tutorials>>Tutorial proposals should answer the following questions"
+    },
+    {
+        "question": "What information about past tutorials should be included in the tutorial proposal?",
+        "answer": "Information about related or similar tutorials presented in the past 3 years at ICML or at other venues should be included. Dates, venues, and a comparison of the proposal to these previous tutorials should be detailed.",
+        "from": "ICML2023>>Calls>>Call For Tutorials>>Tutorial proposals should answer the following questions"
+    },
+    {
+        "question": "How many presenters are suggested to give each tutorial?",
+        "answer": "It is suggested that each tutorial is given by at most two presenters.",
+        "from": "ICML2023>>Calls>>Call For Tutorials>>Tutorial proposals should answer the following questions"
+    },
+    {
+        "question": "When will the ICML 2023 tutorials be given?",
+        "answer": "The tutorials will be given on Monday July 24th, 2023.",
+        "from": "ICML2023>>Calls>>Call For Tutorials>>introduction"
+    },
+    {
+        "question": "In what format should the tutorial proposals be submitted?",
+        "answer": "The proposals should be submitted in a PDF format of approximately 5 pages excluding references.",
+        "from": "ICML2023>>Calls>>Call For Tutorials>>introduction"
+    },
+    {
+        "question": "Should the tutorial cover only the presenters own results and tools?",
+        "answer": "No, it's encouraged for the presenters to demonstrate coverage and representativeness of the chosen research area, and not to focus solely on their own results or tools.",
+        "from": "ICML2023>>Calls>>Call For Tutorials>>Tutorial proposals should answer the following questions"
+    },
+    {
+        "question": "Is there an opportunity for some tutorial presenters to have their travel and conference costs reimbursed?",
+        "answer": "Yes, ICML may be able to partially reimburse travel, lodging, and conference costs for tutorial presenters who would otherwise not be able to attend the conference.",
+        "from": "ICML2023>>Calls>>Call For Tutorials>>Tutorial proposals should answer the following questions"
+    }
+]

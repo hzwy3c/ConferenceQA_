@@ -1,0 +1,142 @@
+[
+    {
+        "question": "Do I need to submit code with paper?",
+        "answer": "No,Authors are encouraged to submit code to foster reproducibility.",
+        "from": "ICML2023/Calls/Call For Papers/.Author Instructions/Submissions/instructions"
+    },
+    {
+        "question": "Can I attend the conference remotely?",
+        "answer": "Yes",
+        "from": "ICML2023/Calls/Call For Workshops/2023 accepted workshopsworkshops"
+    },
+    {
+        "question": "How can I contact the Tutorial Chairs if I submit tutorial proposals?",
+        "answer": "You can contact the Tutorial Chairs at tutorial@icml.cc",
+        "from": "ICML2023/Calls/Call For Tutorials"
+    },
+    {
+        "question": "Does the submission only need to be accessible to experts?",
+        "answer": "No,Authors are kindly asked to make their submissions as accessible as possible for everyone including people with disabilities and sensory or neurological differences.",
+        "from": "ICML2023/Calls/Call For Papers/Policies/notices"
+    },
+    {
+        "question": "Is the number of reviewers for every article fixed?",
+        "answer": "No",
+        "from": "ICML2023/Calls/Call For Papers/Author Instructions/Miscellaneous information related to the author feedback and reviews/introductions"
+    },
+    {
+        "question": "Are accepted papers at the conference contributed by the sponsor?",
+        "answer": "No,they are contributed by exhibitors",
+        "from": "ICML2023/Year(2023)/Exhibitors/introduction"
+    },
+    {
+        "question": "Was ICML conference first held in 1983?",
+        "answer": "Yes",
+        "from": "ICML2023/Year (2023)/Exhibitors.introduction"
+    },
+    {
+        "question": "Is Apple one of the exhibitors at this conference?",
+        "answer": "Yes",
+        "from": "ICML2023/Year(2023)/Exhibitors/2023 Exhibitors/Platinum"
+    },
+    {
+        "question": "Are only academic researchers at ICML conference?",
+        "answer": "No",
+        "from": "ICML2023/Help/About ICML"
+    },
+    {
+        "question": "Can I be reached by the username of the conference account?",
+        "answer": "Yes,because the username is email address",
+        "from": "ICML2023/Help/Create an Account"
+    },
+    {
+        "question": "Which journal(s) are eligible?",
+        "answer": "only JMLR",
+        "from": "ICML2023/Journal to ConferenceTrack/Eligibility"
+    },
+    {
+        "question": "Does ICML2023 provide free travel for workshop speakers?",
+        "answer": "No",
+        "from": "ICML2023/Calls/Call For Workshops/Submission format/matter need attention"
+    },
+    {
+        "question": "Is there an online submission process for the ICML2023 conference?",
+        "answer": "Yes, the abstracts and papers can be submitted online through OpenReview.",
+        "from": "ICML2023>>Calls>>Call For Papers>>Abstracts and papers can be submitted through OpenReview"
+    },
+    {
+        "question": "Is there a discount for students when registering for the conference?",
+        "answer": "Yes, student ID is required to get a student discount.",
+        "from": "ICML2023/Attend/Register/Instructions"
+    },
+    {
+        "question": "Will the conference provide child care services?",
+        "answer": "Yes, ICML 2023 will provide free on-site child care services.",
+        "from": "ICML2023/Attend/Child Care/introduction"
+    },
+    {
+        "question": "Is there a deadline for registering for child care services?",
+        "answer": "Yes, the deadline to register for child care services is July 5, 2023 (EOD/AOE).",
+        "from": "ICML2023/Attend/Child Care/introduction"
+    },
+    {
+        "question": "Can I receive a refund if I cancel my registration?",
+        "answer": "The registration cancellation policy is mentioned, but the details are not provided in the content given.",
+        "from": "ICML2023/Attend/Register/Instructions"
+    },
+    {
+        "question": "Are there any restrictions on transferring my registration to someone else?",
+        "answer": "Yes, registrations are not transferable.",
+        "from": "ICML2023/Attend/Register/Instructions"
+    },
+    {
+        "question": "Will masks be required at the conference?",
+        "answer": "Masks are not required at this time, but the conference will follow Government guidelines.",
+        "from": "ICML2023/Attend/Register/Instructions"
+    },
+    {
+        "question": "Is there a code of conduct for ICML 2023?",
+        "answer": "Yes, there is a code of conduct that all participants are required to agree with.",
+        "from": "ICML2023/Attend/Register/ICML Code of Conduct/introduction"
+    },
+    {
+        "question": "If I experience harassment at the conference, whom should I contact?",
+        "answer": "You should contact the Diversity and Inclusion co-chairs or the Conference HR Liaison.",
+        "from": "ICML2023/Attend/Register/ICML Code of Conduct/Reporting"
+    },
+    {
+        "question": "Can I get a letter of invitation for a visa application by registering for the conference?",
+        "answer": "Yes, letters of invitation are available for a paid registration in section 5 of the registration page.",
+        "from": "ICML2023/Attend/Visa Information/VISA Letter of Invitation"
+    },
+    {
+        "question": "Is there a service for checking baggage at the conference?",
+        "answer": "Yes, ICML 2023 is providing complimentary baggage check service for conference attendees.",
+        "from": "ICML2023/Attend/Baggage Check/introduction"
+    },
+    {
+        "question": "Are there any parking facilities available at the conference venue?",
+        "answer": "Yes, there is a parking garage with 690 parking stalls located on Level 2 of the facility.",
+        "from": "ICML2023/Attend/Parking/introduction"
+    },
+    {
+        "question": "Is there a fee for parking at the conference venue?",
+        "answer": "Yes, the current self-parking rate at the HCC is $15.00 per vehicle, payable at exit.",
+        "from": "ICML2023/Attend/Parking/Cost"
+    },
+    {
+        "question": "Will there be any child care restrictions based on the type of registration I have?",
+        "answer": "Yes, parents/guardians must have a conference registration for the same dates that they've registered their child for child care services.",
+        "from": "ICML2023/Attend/Child Care/IMPORTANT INFORMATION"
+    },
+    {
+        "question": "Can I contact the conference organizers if I have concerns about the privacy policy?",
+        "answer": "Yes, you can contact the conference organizers if you have any questions or concerns about the Privacy Policy.",
+        "from": "ICML2023/Attend/Register/Privacy Policy/Questions or Concerns"
+    },
+    {
+        "question": "If I want to be recruited by a sponsor, what should I do during registration?",
+        "answer": "If you are open to being recruited by a sponsor, you should see section 6 during registration.",
+        "from": "ICML2023/Attend/Register/Instructions"
+    }
+]

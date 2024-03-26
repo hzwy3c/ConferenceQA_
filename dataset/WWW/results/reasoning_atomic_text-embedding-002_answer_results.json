@@ -1,0 +1,50 @@
+[
+    {
+        "query": "Can I attend the conference remotely?",
+        "output": "Yes, the conference offers virtual participation."
+    },
+    {
+        "query": "How frequently is the WWW2023 conference held?",
+        "output": "The WWW conference is an annual event."
+    },
+    {
+        "query": "Is there any page limit of the manuscript",
+        "output": "The text does not provide information on any page limit for the manuscript."
+    },
+    {
+        "query": "How can I contact the conference organizers if I have further questions or concerns?",
+        "output": "You can contact the conference organizers by emailing them at chairs2023@thewebconf.org."
+    },
+    {
+        "query": "Is there any post-conference access to keynotes or talks",
+        "output": "The text does not provide information on post-conference access to keynotes or talks."
+    },
+    {
+        "query": "Will the conference proceedings be published, and if so, how can one access them?",
+        "output": "Yes, the conference proceedings will be published. They can be accessed through the ACM Digital Library."
+    },
+    {
+        "query": "When was the Call for Papers announced for the conference?",
+        "output": "The text does not provide information on when the Call for Papers was announced for the conference."
+    },
+    {
+        "query": "Where can I browse papers related to this conference after the conference?",
+        "output": "You can browse papers related to this conference after the conference at https://dl.acm.org/."
+    },
+    {
+        "query": "Will a student travel grant application be accepted if it is submitted late?",
+        "output": "The context does not provide information on whether a late submission for the student travel grant application would be accepted."
+    },
+    {
+        "query": "What is the policy regarding preprints or non-archival venues for submissions to The Web Conference 2023 in Industry Track?",
+        "output": "The text does not provide information on the policy regarding preprints or non-archival venues for submissions to The Web Conference 2023 in Industry Track."
+    },
+    {
+        "query": "Can non-students apply for the Virtual Participation Award?",
+        "output": "No, non-students cannot apply for the Virtual Participation Award. The eligibility requirements state that an applicant must be a student connected to a university or research laboratory."
+    },
+    {
+        "query": "Will there be live-streamed sessions for those who can't attend in person?",
+        "output": "The context suggests that there will be live-streamed sessions, such as \"Live Stream of TheWebConf\" on Wednesday May 3 and Thursday May 4."
+    }
+]

@@ -1,0 +1,123 @@
+[
+    {
+        "question": "Who are the keynote speakers for the ICDE2023 conference?",
+        "answer": "The keynote speakers of ICDE2023 are Elisa Bertino, Divyakant Agrawal and Thomas Neumann.",
+        "from": "ICDE2023/Program/Keynotes"
+    },
+    {
+        "question": "What are the main tracks of the ICDE2023 conference?",
+        "answer": "The ICDE2023 conference has tracks on Research Track, Industry and Applications Track, Workshop Track, Tutorial Proposals Track, Demonstration Track, TKDE Poster Session Track, Ph.D. Symposium and Special Track.",
+        "from": "ICDE2023/Call for Contributions/Research Papers Track, ICDE2023/Call for Contributions/Special Track, ICDE2023/Call for Contributions/Workshop Track, ICDE2023/Call for Contributions/Industry and Applications Track, ICDE2023/Call for Contributions/Tutorial Proposals Track, ICDE2023/Call for Contributions/Demonstration Track, ICDE2023/Call for Contributions/TKDE Poster Session Track, ICDE2023/Call for Contributions/Ph.D. Symposium"
+    },
+    {
+        "question": "Who are the organizers behind ICDE2023 conference?",
+        "answer": "The organization of the ICDE2023 conference involves multiple roles. The key committees and their respective chairs are as follows: General Chairs: Chen Li(University of California). Research Program Committee Chairs: Lei Chen (Hong Kong University of Science and Technology), Stefan Manegold (CWI), Sharad Mehrotra(University of California). Demo Chairs: Yeye He(MSR), Holger Pirk(Imperial College London), Yanyan Shen(Shanghai Jiaotong University). Tutorial Chairs:Laure Berti-Equille(French National Research Institute on Sustainable Development & Université Grenoble Alpes), Wook-Shin Han(Postech), Xi He(University of Waterloo). PhD Symposium Chairs:Melanie Herschel(Uni Stuttgart), Shantanu Sharma(NJIT), Lidan Shou(Zhejiang University). TKDE Poster Chairs: Arijit Khan(Nanyang Technology University), Lei Zou(Peking University). Industry and Applications Chairs: Themis Palpanas(Université Paris Cité), Nesime Tatbul(Intel Labs and MIT), Kai Zeng(Huawei). Workshop Chairs: Jayant Haritsa(IISc), Eugene Wu(Columbia). Panel Chairs: Aaron Elmore(University of Chicago), Ihab Ilyas(University of Waterloo). Volunteer Chair: Amr Magdy(University of California). Web Chair: Faisal Nawab(University of California). Webmaster: Binbin Gu(University of California). Publicity Chair: Yongjoo Park(University of Illinois at Urbana-Champaign). Financial Chair: Babak Salimi(University of California). Registration Chair: Jia Yu(Washington State University). Local Arrangements Chairs: Ahmed Eldawy(University of California), Vagelis Hristidis(University of California). Publication Chairs: Ilaria Bartolini(University of Bologna), Xiaochun Yang(Northeastern University). Sponsorship Chairs: Ziawasch Abedjan(Leibniz Universität Hannover), Ippokratis Pandis(Amazon), Jingren Zhou(Alibaba). Diversity and Inclusion Chair: Alexandra Meliou(University of Massachusetts). Best Paper Award Committee (Research): Amr El Abbadi(University of California), Tamer Özsu(University of Waterloo), Cyrus Shahabi(University of Southern California). Special Track Evangelist: C. Mohan(Distinguished Visiting Professor)",
+        "from": "ICDE2023/General Info/Organizing Committee"
+    },
+    {
+        "question": "How do I register for the ICDE2023 conference?",
+        "answer": " The event requires each paper (including the conference and workshops) to pay an author fee for the work to be published and presented at the event.  Separately, attendees including the presenting authors need to pay a registration fee. The registration website will require each paper to pay both an author fee and a registration fee (either student or non-student). A main reason to use this fee structure, which is adopted by many other events, is to deal with the uncertainty and risk of the conference budget caused by the economic environment and global pandemic.",
+        "from": "ICDE2023/Participate/Format and Registration/Author fee and registrations"
+    },
+    {
+        "question": "Who are the sponsors for the ICDE2023 conference",
+        "answer": "The silver sponsors of the ICDE2023 conference include Google, HUAWEI, snowflake, AEROSPIKE, ORACLE, the gold sponsors include Alibaba Group, OCEANBASE, Couchbase, ByteDance, and the platinum sponsors is amazon.",
+        "from": "ICDE2023/General Info/Sponsors"
+    },
+    {
+        "question": "Are there any hotel recommendations for attendees of the ICDE2023 conference?",
+        "answer": "Anaheim Marriott hotel provides a limited number of rooms at a special discounted rate of 200 USD per night for single and double-room occupancy not including taxes and fees.",
+        "from": "ICDE2023/Participate/Venue Information"
+    },
+    {
+        "question": "Does the ICDE2023 conference offer any travel grants for participants?",
+        "answer": "ICDE 2023 provides travel awards to selected US-based students to attend the conference. The awards are sponsored by the US National Science Foundation. The award value is 450 USD as a financial stipend to partially cover the expense of attending the conference in person. The amount could be adjusted based availability of funds. Awardees will make their own arrangements for travel and accommodation. The award should be used to pay costs related to attending the conference.",
+        "from": "ICDE2023/Participate/Student Travel Awards"
+    },
+    {
+        "question": "Will there be a rebuttal phrase in research tracks?",
+        "answer": "No, the author will only receive information about notification(accept/revise/reject)",
+        "from": "ICDE2023/Call for Contributions/Research Papers Track/IMPORTANT DATES"
+    },
+    {
+        "question": "Is there a policy for professional conduct or behavior for attendees?",
+        "answer": "Yes",
+        "from": "ICDE2023/General Info/Code of Conduct"
+    },
+    {
+        "question": "What is the policy for professional conduct or behavior for attendees?",
+        "answer": "IEEE believes that science, technology, and engineering are fundamental human activities, for which openness, international collaboration, and the free flow of talent and ideas are essential. Its meetings, conferences, and other events seek to enable engaging, thought-provoking conversations that support IEEE’s core mission of advancing technology for humanity. Accordingly, IEEE is committed to providing a safe, productive, and welcoming environment to all participants, including staff and vendors, at IEEE-related events.\nIEEE has no tolerance for discrimination, harassment, or bullying in any form at IEEE-related events. All participants have the right to pursue shared interests without harassment or discrimination in an environment that supports diversity and inclusion. Participants are expected to adhere to these principles and respect the rights of others.\nIEEE seeks to provide a secure environment at its events. Participants should report any behavior inconsistent with the principles outlined here, to on site staff, security or venue personnel, or to eventconduct AT ieee DOT org.",
+        "from": "ICDE2023/General Info/Code of Conduct"
+    },
+    {
+        "question": "What are the titles of the keynotes in this conference?",
+        "answer": "The titles of the keynotes for this conference are “The Persistent Problem of Applications Insecurity”, “Trust in the Untrusted World”, “What Makes Database Systems Fast? An Ablation Study”",
+        "from": "ICDE2023/Program/Keynotes"
+    },
+    {
+        "question": "What is the price for just registering for the virtual conference?",
+        "answer": "If you are IEEE members then it will cost $250 for early bird and $300 for on site, if are non-ACM members then it will cost $300 for early bird and $360 for on site",
+        "from": "ICDE2023/Participate/Format and Registration"
+    },
+    {
+        "question": "How much does an IEEE member have to pay if they register for the full conference during the Early Bird period?",
+        "answer": "$750 for non-student and $450 for student",
+        "from": "ICDE2023/Participate/Format and Registration"
+    },
+    {
+        "question": "How much does an IEEE member have to pay if they missed the Early Bird discount and register for the main conference during the Standard period?",
+        "answer": "$900 for non-student and $540 for student",
+        "from": "ICDE2023/Participate/Format and Registration"
+    },
+    {
+        "question": "What are the important dates for April 2023",
+        "answer": "Conference and workshops will be held on April 3-7, 2023",
+        "from": "ICDE2023/General Info/Important Dates"
+    },
+    {
+        "question": "Who are the platinum sponsors for the ICDE2023 conference?",
+        "answer": "Amazon",
+        "from": "ICDE2023/Menu/General info/Sponsors/Platinum Sponsors"
+    },
+    {
+        "question": "How can a student apply for the ICDE 2023 Travel Award and what is the deadline?",
+        "answer": "To apply for the ICDE 2023 Travel Award, students must submit the application form no later than February 15, 2023 (11:59 PM Pacific Time) using the provided link: https://tinyurl.com/ICDE2023TravelAward",
+        "from": "ICDE2023/Student Travel Award/Application Procedure"
+    },
+
+    {
+        "question": "Who are the members of the Travel Award Selection Committee for ICDE 2023?",
+        "answer": "The Travel Award Selection Committee for ICDE 2023 includes Ahmed Eldawy, Chen Li, Amr Magdy, Faisal Nawab, and Jia Yu.",
+        "from": "ICDE2023/Student Travel Award/Travel Award Selection Committee"
+    },
+    {
+        "question": "What are the nearby airports to the ICDE 2023 conference venue?",
+        "answer": "The nearby airports to the ICDE 2023 conference venue are Los Angeles International Airport (LAX) at 35 miles, John Wayne Airport (SNA) at 14.1 miles, Long Beach Airport (LGB) at 18.2 miles, and Ontario Airport (ONT) at 36.3 miles.",
+        "from": "ICDE2023/Visa & Travel Info/Nearby airports"
+    },
+    {
+        "question": "What are the other transportation options available near the ICDE 2023 conference venue?",
+        "answer": "Other transportation options near the ICDE 2023 conference venue include an on-property local shuttle for $6, onsite car rental company Hertz, bus services like Anaheim Greyhound Station and Anaheim Resort Transportation, subway services by Orange County Transportation Authority (OCTA), and the Anaheim Amtrak Station for train services.",
+        "from": "ICDE2023/Visa & Travel Info/Other Transportation"
+    },
+    {
+        "question": "What are the special parking rates for ICDE 2023 attendees staying at the conference hotel?",
+        "answer": "For ICDE 2023 attendees staying at the conference hotel, the special parking rates are $24 for overnight self-parking and $40 for overnight valet parking.",
+        "from": "ICDE2023/Venue Information/Conference hotel/rates"
+    },
+    {
+        "question": "What are the regular parking rates for non-hotel guests attending the ICDE 2023 conference?",
+        "answer": "For non-hotel guests attending the ICDE 2023 conference, the regular parking rates are $38 for daily self-parking and $42 for daily valet rate.",
+        "from": "ICDE2023/Venue Information/Conference hotel/Non-hotel guests attending the conference are subject to the regular parking rates"
+    },
+    {
+        "question": "What are the options for mobile internet provided by ICDE 2023 and their respective costs?",
+        "answer": "The mobile internet options provided by ICDE 2023 include Holafly with unlimited service for 5-days at $19 and 10-days at $34, Smart Traveller eSIM with 6GB for $18, and Orange Holiday Worldwide with 10GB for $43.",
+        "from": "ICDE2023/Internet/options"
+    },
+    {
+        "question": "What is the official website to refer to for up-to-date and official information regarding international travel during the COVID-19 pandemic?",
+        "answer": "The official website to refer to for up-to-date and official information regarding international travel during the COVID-19 pandemic is the U.S. Centers for Disease Control and Prevention (CDC) at https://www.cdc.gov/coronavirus/2019-ncov/travelers/international-travel-during-covid19.html.",
+        "from": "ICDE2023/Visa & Travel Info/Travel to/from the US"
+    }
+]

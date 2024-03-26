@@ -1,0 +1,87 @@
+[
+    {
+        "question": "Is there a policy for professional conduct or behavior for attendees?",
+        "answer": "Yes",
+        "from": "WWW2023/About/Code of Conduct"
+    },
+    {
+        "question": "Can the conference provide visa letter for attendees?",
+        "answer": "Yes",
+        "from": "WWW2023/Attendees/Visa Letter/Introduce"
+    },
+    {
+        "question": "Will there be any virtual components to the WWW2023 conference?",
+        "answer": "The 2023 ACM Web Conference is an in-person conference with virtual components including live streaming of ceremonies and keynotes, access to pre-recorded videos of talks, and the Whova platform for interaction with all conference attendees.",
+        "from": "WWW2023/Attendees/Registration/Introduce"
+    },
+    {
+        "question": "How frequently is the WWW2023 conference held?",
+        "answer": "WWW2023 is a yearly international academic conference.",
+        "from": "WWW2023/Home/introduction"
+    },
+    {
+        "question": "Can I attend the conference remotely?",
+        "answer": "All speakers, presenters, organizers participating in any way at The Web Conference are expected to attend the conference in person. For exceptional reasons, if you are not able to attend in person to present, you may assign a proxy who must be in person. For special cases, we may make an exception for a live remote presentation. (UPDATE: As of April 26, due to logistical situations, we are not able to accommodate anymore remote presentations)",
+        "from": "WWW2023/Attendees/Registration/Introduce"
+    },
+    {
+        "question": "Is there any page limit of the manuscript",
+        "answer": "For the research tracks, submissions are limited to 8 content pages, which should include all figures and tables referenced within those 8 pages. In addition, you can include up to 2 pages of appendices, plus additional pages for references, until completing a maximum of 12 pages. The total count of pages of your submission must not exceed 12 pages. ",
+        "from": "WWW2023/calls/Research Tracks/TheWebConf 2023 Research Tracks Final Call For Papers (CFP) 'Web Research with Openness, Fairness and Reproducibility'/Instructions for authors of research tracks submissions/SubmissionGuidelines"
+    },
+    {
+        "question": "Will the conference proceedings be published, and if so, how can one access them?",
+        "answer": "All accepted papers will be published by ACM and will be accessible via the ACM Digital Library.",
+        "from": "WWW2023/calls/Research Tracks/TheWebConf 2023 Research Tracks Final Call For Papers (CFP) 'Web Research with Openness, Fairness and Reproducibility'/Instructions for authors of research tracks submissions/PublicationPolicy/PublicationByACM"
+    },
+    {
+        "question": "Is there any post-conference access to keynotes or talks",
+        "answer": "Yes",
+        "from": "WWW2023/Attendees/Registration/Introduce"
+    },
+    {
+        "question": "Will a student travel grant application be accepted if it is submitted late?",
+        "answer": "No",
+        "from": "WWW2023/Attendees/Student Travel Award/The Zhipu Student Travel Awards for the 2023 ACM The Web Conference Call for Student Travel Award Applications/notice"
+    },
+    {
+        "question": "Can non-students apply for the Virtual Participation Award?",
+        "answer": "No",
+        "from": "WWW2023/Attendees/Virtual Participation Award/The ACM SIGWEB Fair Access Virtual Participation Awards - Call for Applications/Eligibility"
+    },
+    {
+        "question": "What is the policy regarding preprints or non-archival venues for submissions to The Web Conference 2023 in Industry Track?",
+        "answer": "Authors are welcome to submit papers that have been published as a preprint on arXiv, or in a non-archival venue like a workshop.",
+        "from": "WWW2023/calls/Call For Industry Proposals/Submission guidelines"
+    },
+    {
+        "question": "What is the process of reviewing the submitted papers?",
+        "answer": "Each paper is submitted to one of the tracks listed. Track Chairs review the paper for fitness to the conference and track. Program Committee members will self-declare their expertise for each paper. Each submission will receive at least three independent reviews within each track. A Senior Program Committee member will also provide a summary and will oversee each submission and its review. The submission will be discussed between PC members, the assigned SPC, and track chairs, pre- and post-rebuttal. Papers will be ranked based on a range of factors and based on this ranking, track chairs will recommend papers for presentation at the conference, inclusion in the proceedings, and awards.",
+        "from": "WWW2023/calls/Research Tracks/TheWebConf 2023 Research Tracks Final Call For Papers (CFP) 'Web Research with Openness, Fairness and Reproducibility'/ReviewProcess"
+    },
+    {
+        "question": "What is the maximum number of pages allowed for appendices in a research track submission?",
+        "answer": "Up to 2 pages of appendices are allowed in a research track submission.",
+        "from": "WWW2023/calls/Research Tracks/TheWebConf 2023 Research Tracks Final Call For Papers (CFP)/Instructions for authors of research tracks submissions/SubmissionGuidelines/ResearchTracks"
+    },
+    {
+        "question": "Can I submit a paper that has been published in a journal to WWW2023?",
+        "answer": "No, submissions must present original work and cannot be papers that have been published or accepted to any peer-reviewed conference or a journal with published proceedings.",
+        "from": "WWW2023/calls/Research Tracks/TheWebConf 2023 Research Tracks Final Call For Papers (CFP)/Instructions for authors of research tracks submissions/OriginalityConcurrentSubmissions"
+    },
+    {
+        "question": "Can I submit a paper to WWW2023 that is currently under review elsewhere?",
+        "answer": "No, concurrent submissions are not allowed. Papers that are currently under review cannot be submitted to WWW2023.",
+        "from": "WWW2023/calls/Research Tracks/TheWebConf 2023 Research Tracks Final Call For Papers (CFP)/Instructions for authors of research tracks submissions/OriginalityConcurrentSubmissions"
+    },
+    {
+        "question": "Where can I find the proceedings of the W4A conference?",
+        "answer": "The proceedings of the W4A conference are available on ACM DL at the link https://dl.acm.org/doi/proceedings/10.1145/3587281.",
+        "from": "WWW2023/Satellite Events/W4A/Home/Proceedings/proceedingsLink"
+    },
+    {
+        "question": "Can I find past editions of the W4A conference online?",
+        "answer": "Yes",
+        "from": "WWW2023/Satellite Events/W4A/Home/W4A Past Editions"
+    }
+]

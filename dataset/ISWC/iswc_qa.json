@@ -1,0 +1,278 @@
+[
+    {
+        "question": "What is the main focus of the ISWC In-Use track?",
+        "answer": "The main focus of the ISWC In-Use track is on the benefits of Semantic Web and Knowledge Graph technologies for the intended use case and (if relevant) the added challenges they introduce.",
+        "from": "Menu>>Calls>>Call For In-Use Track Papers>>description"
+    },
+    {
+        "question": "What is the submission deadline for Full Papers for the ISWC In-Use track?",
+        "answer": "The submission deadline for Full Papers is 5 May 2022.",
+        "from": "Menu>>Calls>>Call For In-Use Track Papers>>Important Dates"
+    },
+    {
+        "question": "What are some of the topics of interest for submissions to the In-Use track?",
+        "answer": "Some topics of interest include applications in domain-specific areas, the use of Semantic Web resources in application, and comparison of Semantic Web technologies with alternative approaches.",
+        "from": "Menu>>Calls>>Call For In-Use Track Papers>>Topics of Interest"
+    },
+    {
+        "question": "What are the review criteria for the In-Use track?",
+        "answer": "Review criteria for the In-Use track are Novelty, Uptake, Impact, and Soundness and Quality.",
+        "from": "Menu>>Calls>>Call For In-Use Track Papers>>Review Criteria"
+    },
+    {
+        "question": "When are the camera-ready papers due for the ISWC In-Use track?",
+        "answer": "The camera-ready papers for the ISWC In-Use track are due on 28th July 2022.",
+        "from": "Menu>>Calls>>Call For In-Use Track Papers>>Important Dates"
+    },
+    {
+        "question": "What is the importance of the Supplemental Material Statement?",
+        "answer": "The Supplemental Material Statement clarifies the availability of supplemental material which may include datasets, ontologies, queries, code, etc., necessary to assess claims in the paper. It also includes justification for resources that are not made available.",
+        "from": "Menu>>Calls>>Call For In-Use Track Papers>>Supplemental Material Statement"
+    },
+    {
+        "question": "Are the submissions for the ISWC In-Use Track anonymous?",
+        "answer": "No, the submissions for the ISWC In-Use Track are not anonymous.",
+        "from": "Menu>>Calls>>Call For In-Use Track Papers>>Submission Details"
+    },
+    {
+        "question": "What should a submission for the In-Use track be about?",
+        "answer": "A submission for the In-Use track should describe and/or assess the use or application of Semantic Web and Knowledge Graph technologies in practical settings.",
+        "from": "Menu>>Calls>>Call For In-Use Track Papers>>Differentiation From the Other Tracks"
+    },
+    {
+        "question": "What is the stance of ISWC 2022 on multiple submissions?",
+        "answer": "ISWC 2022 will not accept papers that, at the time of submission, are under review for or have already been published or accepted for publication in a journal, another conference, or another ISWC track.",
+        "from": "Menu>>Calls>>Call For In-Use Track Papers>>Prior Publication And Multiple Submissions"
+    },
+    {
+        "question": "What are the ISWC In-Use track chairs' names and their affiliations?",
+        "answer": "The ISWC In-Use track chairs are João Paulo A. Almeida from the Federal University of Espírito Santo, Brazil, and Hideaki Takeda from the National Institute of Informatics, Japan.",
+        "from": "Menu>>Calls>>Call For In-Use Track Papers>>In-Use Track Chairs>>Chairs"
+    },
+    {
+        "question": "Who can objects and responses during the review process be used for?",
+        "answer": "Objections and Responses can be used to highlight clear factual errors in reviews regarding the content of the submission and to respond to explicit questions from reviewers.",
+        "from": "Menu>>Calls>>Call For In-Use Track Papers>>Objection & Response"
+    },
+    {
+        "question": "Where should I submit my abstract for the In-Use track?",
+        "answer": "All papers and abstracts have to be submitted electronically via EasyChair.",
+        "from": "Menu>>Calls>>Call For In-Use Track Papers>>Submission Details"
+    },
+    {
+        "question": "What is the maximum length for a paper in the In-Use track?",
+        "answer": "All research submissions must be no longer than 15 pages excluding references.",
+        "from": "Menu>>Calls>>Call For In-Use Track Papers>>Submission Details"
+    },
+    {
+        "question": "What is a semantic annotation as required for accepted papers in the In-Use track?",
+        "answer": "Semantic annotations provide a machine-readable link from the paper to the resource. Authors of accepted papers will be required to provide them for the abstract of their submission.",
+        "from": "Menu>>Calls>>Call For In-Use Track Papers>>Submission Details"
+    },
+    {
+        "question": "Can you give some examples of exemplary In-Use papers from previous editions of ISWC?",
+        "answer": "Exemplary papers include 'An Assessment of Adoption and Quality of Linked Data in European Open Government Data (ISWC 2019)' and 'Semantic Rule-Based Equipment Diagnostics (ISWC 2017)'.",
+        "from": "Menu>>Calls>>Call For In-Use Track Papers>>Exemplary In-Use Papers From Previous Editions of ISWC"
+    },
+    {
+        "question": "What is the duration of the 'Knowledge-infused Learning for Autonomous Driving (KL4AD)' tutorial?",
+        "answer": "Half Day",
+        "from": "Menu>>Program>>Tutorials[0]>>duration"
+    },
+    {
+        "question": "Who are the organizers of the 'Knowledge-aware Zero-shot Learning (K-ZSL): Concepts, Methods and Resources' tutorial?",
+        "answer": [
+            "Jiaoyan Chen",
+            "Yuxia Geng",
+            "Yufeng Huang",
+            "Huajun Chen"
+        ],
+        "from": "Menu>>Program>>Tutorials[1]>>organizer"
+    },
+    {
+        "question": "What does the tutorial on 'Semantic Schema Discovery: Principles, Methods and Future Research Directions' aim to provide?",
+        "answer": "The tutorial presents a structured analysis and comparison of existing works in the area of semantic schema discovery helping researchers and practitioners to understand the challenges in the area.",
+        "from": "Menu>>Program>>Tutorials[2]>>abstract"
+    },
+    {
+        "question": "How can I get more details on 'A Beginner's Guide to Reasoning: How to reason your way to better data' tutorial?",
+        "answer": "You can visit the webpage - https://www.oxfordsemantic.tech/events/iswc-2022-a-beginners-guide-to-reasoning-how-to-reason-your-way-to-better-data",
+        "from": "Menu>>Program>>Tutorials[3]>>webpage"
+    },
+    {
+        "question": "What is the main focus of the tutorial on 'Artificial Intelligence Techniques for Earth Observation Data (AI4EO)'?",
+        "answer": "The tutorial focuses on applying Artificial Intelligence techniques to Earth observation data, primarily using Deep Learning and Semantic Technologies.",
+        "from": "Menu>>Program>>Tutorials[4]>>abstract"
+    },
+    {
+        "question": "Who is the organizer of the tutorial 'A Beginner's Guide to Reasoning: How to reason your way to better data'?",
+        "answer": "Valerio Cocchi",
+        "from": "Menu>>Program>>Tutorials[3]>>organizer"
+    },
+    {
+        "question": "What is the web address for additional information on the 'Knowledge-aware Zero-shot Learning (K-ZSL): Concepts, Methods and Resources' tutorial?",
+        "answer": "https://china-uk-zsl.github.io/kg-zsl-tutorial-iswc-2022/",
+        "from": "Menu>>Program>>Tutorials[1]>>webpage"
+    },
+    {
+        "question": "What is the tutorial 'Semantic Schema Discovery: Principles, Methods and Future Research Directions' based upon?",
+        "answer": "It is based upon a recent survey they authored.",
+        "from": "Menu>>Program>>Tutorials[2]>>abstract"
+    },
+    {
+        "question": "What basic knowledge is required for the tutorial 'A Beginner's Guide to Reasoning: How to reason your way to better data'?",
+        "answer": "No prior knowledge is required.",
+        "from": "Menu>>Program>>Tutorials[3]>>abstract"
+    },
+    {
+        "question": "Who are the organizers of the 'Artificial Intelligence Techniques for Earth Observation Data (AI4EO)' tutorial?",
+        "answer": [
+            "Manolis Koubarakis",
+            "Begüm Demir",
+            "Dimitris Bilidas",
+            "Theofilos Ioannidis",
+            "Despina-Athanasia Pantazi",
+            "Dharmen Punjani",
+            "George Papadakis",
+            "George Stamoulis",
+            "Eleni Tsalapati"
+        ],
+        "from": "Menu>>Program>>Tutorials[4]>>organizer"
+    },
+    {
+        "question": "Is the 'Artificial Intelligence Techniques for Earth Observation Data (AI4EO)' tutorial a half day or full day program?",
+        "answer": "Full Day",
+        "from": "Menu>>Program>>Tutorials[4]>>duration"
+    },
+    {
+        "question": "What is the main focus of the 'Knowledge-infused Learning for Autonomous Driving (KL4AD)' tutorial?",
+        "answer": "The tutorial examines the use of knowledge-infused learning for three core state-of-the-art technical achievements within the Autonomous Driving domain.",
+        "from": "Menu>>Program>>Tutorials[0]>>abstract"
+    },
+    {
+        "question": "For how long will the 'Tutorial on Semantic Schema Discovery: Principles, Methods and Future Research Directions' run?",
+        "answer": "Half Day",
+        "from": "Menu>>Program>>Tutorials[2]>>duration"
+    },
+    {
+        "question": "Who can I contact for the 'Artificial Intelligence Techniques for Earth Observation Data (AI4EO)' tutorial?",
+        "answer": "You can contact 'Manolis Koubarakis', 'Begüm Demir', 'Dimitris Bilidas', 'Theofilos Ioannidis', 'Despina-Athanasia Pantazi', 'Dharmen Punjani', 'George Papadakis', 'George Stamoulis', 'Eleni Tsalapati'",
+        "from": "Menu>>Program>>Tutorials[4]>>organizer"
+    },
+    {
+        "question": "Where can I get more details about the 'Knowledge-infused Learning for Autonomous Driving (KL4AD)' tutorial?",
+        "answer": "You can visit the webpage - https://kl4ad.github.io/2022/",
+        "from": "Menu>>Program>>Tutorials[0]>>webpage"
+    },
+    {
+        "question": "What is the pre-requisite computational requirement for the 'Knowledge Base Construction from Pre-trained Language Models' challenge?",
+        "answer": "There are two tracks: (i) a BERT-type LM track with low computational requirements, and (ii) an open track, where participants can use any LM of their choice.",
+        "from": "Menu>>Program>>Challenges>>Semantic Web Challenges>>type: Knowledge Base Construction from Pre-trained Language Models (LM-KBC)>>description"
+    },
+    {
+        "question": "Who are the organizers of the 'Semantic Answer Type, Entity, and Relation Linking Task' challenge?",
+        "answer": [
+            "Nandana Mihindukulasooriya",
+            "Mohnish Dubey",
+            "Alﬁo Gliozzo",
+            "Jens Lehmann",
+            "Axel-Cyrille Ngonga Ngomo",
+            "Ricardo Usbeck",
+            "Gaetano Rossiello",
+            "Debayan Banerjee"
+        ],
+        "from": "Menu>>Program>>Challenges>>Semantic Web Challenges>>type: Semantic Answer Type, Entity, and Relation Linking Task (SMART2022)>>organizer"
+    },
+    {
+        "question": "What is the aim of the 'Semantic Web Challenge on Tabular Data to Knowledge Graph Matching'?",
+        "answer": "This challenge aims at benchmarking systems dealing with the tabular data to KG matching problem, so as to facilitate their comparison on the same basis and the reproducibility of the results.",
+        "from": "Menu>>Program>>Challenges>>Semantic Web Challenges>>type: Semantic Web Challenge on Tabular Data to Knowledge Graph Matching (SemTab 2022)>>description"
+    },
+    {
+        "question": "What is the website for the 'Semantic Reasoning Evaluation Challenge'?",
+        "answer": "https://semrec.github.io/",
+        "from": "Menu>>Program>>Challenges>>Semantic Web Challenges>>type: Semantic Reasoning Evaluation Challenge (SemREC 2022)>>website"
+    },
+    {
+        "question": "What tasks are proposed in the 'Bio2RDF and Kibio federated query in Life Science challenge'?",
+        "answer": "(1)Running Wikidata query using federated SPARQL query or other programming approach that will consume Bio2RDF’s endpoints. (2)Running Wikidata query using any programming approach that will consume Kibio’s Elasticsearch indexes.",
+        "from": "Menu>>Program>>Challenges>>Semantic Web Challenges>>type: Bio2RDF and Kibio federated query in Life Science challenge>>description"
+    },
+    {
+        "question": "What is the description of ISWC conference as stated in the call for workshops?",
+        "answer": "ISWC is the premier venue for presenting innovative research, systems and application results related to the Semantic Web, Linked Data and Knowledge Graphs, attracting a large number of high quality submissions every year and participants from both industry and academia. ISWC brings together researchers from different areas, such as artificial intelligence, databases, natural language processing, machine learning, information systems, human computer interaction, information retrieval, web science, etc., who investigate, develop and use novel methods and technologies for accessing, interpreting and using information on the Web in a more effective way.",
+        "from": "Menu>>Calls>>Call For Workshops and Tutorials>>CALL FOR WORKSHOPS>>description"
+    },
+    {
+        "question": "What is the due date for notification to proposers for workshop proposals?",
+        "answer": "Mon 11 April 2022",
+        "from": "Menu>>Calls>>Call For Workshops and Tutorials>>CALL FOR WORKSHOPS>>Important Dates>>Notification to proposers"
+    },
+    {
+        "question": "What are the review criterion for workshop proposals at ISWC conference?",
+        "answer": "The topic falls in the general scope of ISWC 2022, there is a clear focus on a specific technology, problem or application, there is potential to attract a sufficiently broad community interested in the topic, there is a concrete plan for a workshop format that is varied, interesting and suitable for the workshop audience and topic and can be accommodated in online/hybrid settings.",
+        "from": "Menu>>Calls>>Call For Workshops and Tutorials>>CALL FOR WORKSHOPS>>Review Criteria>>research topics"
+    },
+    {
+        "question": "What is the final due date for the workshop and tutorial category at the ISWC conference?",
+        "answer": "23-24 October 2022",
+        "from": [
+            "Menu>>Calls>>Call For Workshops and Tutorials>>CALL FOR WORKSHOPS>>Important Dates>>Workshop Day(s)",
+            "Menu>>Calls>>Call For Workshops and Tutorials>>CALL FOR TUTORIALS>>Important Dates>>Tutorial Day(s)"
+        ]
+    },
+    {
+        "question": "Who are the chairpersons supervising the workshops and tutorials at ISWC conference?",
+        "answer": "Marta Sabou from Vienna University of Economics and Business (WU), Austria and Raghava Mutharaju from IIIT-Delhi, India",
+        "from": "Menu>>Calls>>Call For Workshops and Tutorials>>Workshop and Tutorial Chairs"
+    },
+    {
+        "question": "What is the aim of the ISWC 2022 Resources Track?",
+        "answer": "The ISWC 2022 Resources Track aims to promote the sharing of resources which support, enable or utilise semantic web research.",
+        "from": "Menu>>Calls>>Call For Resources Track Papers>>description"
+    },
+    {
+        "question": "When are the abstracts due for the ISWC 2022 Resources Track?",
+        "answer": "28 April 2022",
+        "from": "Menu>>Calls>>Call For Resources Track Papers>>Important Dates>>Abstracts Due"
+    },
+    {
+        "question": "What are examples of resources of interest for the ISWC 2022 Resources Track?",
+        "answer": [
+            "Datasets produced",
+            "to support specific evaluation tasks (for instance labeled ground truth data)",
+            "to support novel research methods;",
+            "by novel algorithms;",
+            "Ontologies, vocabularies and ontology design patterns, with a focus on describing the modelling process underlying their creation;",
+            "Benchmarking activities focusing on datasets and algorithms for comprehensible and systematic evaluation of existing and future systems;",
+            "Reusable research software, e.g., prototypes/services supporting a given research hypothesis and enabling specific data processing and engineering tasks;",
+            "Community-shared software frameworks that can be extended or adapted to support scientific study and experimentation;",
+            "Scientific and experimental workflows used and reused in practical studies;",
+            "Crowdsourcing task designs that have been used and can be (re)used for building resources such as gold standards and the like;",
+            "Protocols for conducting experiments and studies;",
+            "Novel evaluation methodologies and metrics, and their demonstration in an experimental study."
+        ],
+        "from": "Menu>>Calls>>Call For Resources Track Papers>>Resources of Interest"
+    },
+    {
+        "question": "How does the track differentiate itself from others?",
+        "answer": "We strongly recommend that prospective authors carefully check the calls of the other main tracks of the conference in order to identify the optimal track for their submission. Papers that propose new algorithms and architectures should continue to be submitted to the regular research track, whilst papers that describe the use of semantic web technologies in practical settings should be submitted to the In-Use track. When new reusable resources are produced during the process undertaken for achieving these results, such as datasets, ontologies, workflows, etc., they are suitable subject for a submission to the Resources Track.",
+        "from": "Menu>>Calls>>Call For Resources Track Papers>>Differentiation From the Other Tracks"
+    },
+    {
+        "question": "Who are the chairs of the Resources Track?",
+        "answer": [
+            {
+                "name": "Valentina Presutti",
+                "organization": "LILEC Department, University of Bologna, Italy",
+                "email": "valentina.presutti@unibo.it"
+            },
+            {
+                "name": "Maria Keet",
+                "organization": "Department of Computer Science, University of Cape Town, South Africa",
+                "email": "mkeet@cs.uct.ac.za"
+            }
+        ],
+        "from": "Menu>>Calls>>Call For Resources Track Papers>>Resources Track Chairs"
+    }
+]

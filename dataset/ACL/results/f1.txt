@@ -1,0 +1,23 @@
+ACL_text-embedding-002_path_and_value_Mistral-7B: 0.19
+ACL_text-embedding-002_path_and_value_LLama2-7B: 0.0801
+ACL_text-embedding-002_path_and_value_LLama2-13B: 0.1603
+ACL_text-embedding-002_path_and_value_desc_Mistral-7B: 0.1749
+ACL_text-embedding-002_path_and_value_desc_LLama2-7B: 0.0781
+ACL_text-embedding-002_path_and_value_desc_LLama2-13B: 0.1449
+ACL_text-embedding-002_path_and_value_gpt3.5: {'extraction_atomic': 0.0166, 'extraction_complex': 0.0243, 'reasoning_atomic': 0.083, 'reasoning_complex': 0.0074}
+ACL_text-embedding-002_path_and_value_gpt3.5: {'extraction_atomic': 0.3235, 'extraction_complex': 0.2004, 'reasoning_atomic': 0.1094, 'reasoning_complex': 0.1341}
+ACL_text-embedding-002_path_and_value_desc_gpt3.5: {'extraction_atomic': 0.3337, 'extraction_complex': 0.1065, 'reasoning_atomic': 0.075, 'reasoning_complex': 0.0374}
+ACL_text-embedding-002_path_and_value_gpt3.5_F1: {'extraction_atomic': 0.2844, 'extraction_complex': 0.1418, 'reasoning_atomic': 0.2007, 'reasoning_complex': 0.0366}
+ACL_text-embedding-002_path_and_value_LLama2-7B_F1: {'extraction_atomic': 0.1783, 'extraction_complex': 0.151, 'reasoning_atomic': 0.1398, 'reasoning_complex': 0.0658}
+ACL_text-embedding-002_path_and_value_Mistral-7B_F1: {'extraction_atomic': 0.2877, 'extraction_complex': 0.1768, 'reasoning_atomic': 0.1034, 'reasoning_complex': 0.1335}
+ACL_text-embedding-002_path_and_value_desc_gpt3.5_F1: {'extraction_atomic': 0.3663, 'extraction_complex': 0.1522, 'reasoning_atomic': 0.2868, 'reasoning_complex': 0.0449}
+ACL_text-embedding-002_path_and_value_desc_LLama2-7B_F1: {'extraction_atomic': 0.181, 'extraction_complex': 0.1567, 'reasoning_atomic': 0.1346, 'reasoning_complex': 0.0738}
+ACL_text-embedding-002_path_and_value_desc_Mistral-7B_F1: {'extraction_atomic': 0.2683, 'extraction_complex': 0.1449, 'reasoning_atomic': 0.1251, 'reasoning_complex': 0.1189}
+ACL_text-embedding-002_path_and_value_gpt3.5_F1: {'extraction_atomic': 0.2844, 'extraction_complex': 0.1418, 'reasoning_atomic': 0.2007, 'reasoning_complex': 0.0366}
+ACL_text-embedding-002_path_and_value_desc_gpt3.5_F1: {'extraction_atomic': 0.3663, 'extraction_complex': 0.1522, 'reasoning_atomic': 0.2868, 'reasoning_complex': 0.0449}
+ACL_text-embedding-002_path_and_value_LLama2-7B_F1: {'extraction_atomic': 0.1915, 'extraction_complex': 0.1493, 'reasoning_atomic': 0.2105, 'reasoning_complex': 0.0667}
+ACL_text-embedding-002_path_and_value_desc_LLama2-7B_F1: {'extraction_atomic': 0.276, 'extraction_complex': 0.1502, 'reasoning_atomic': 0.1894, 'reasoning_complex': 0.0547}
+ACL_text-embedding-002_path_and_value_Mistral-7B_F1: {'extraction_atomic': 0.2893, 'extraction_complex': 0.2151, 'reasoning_atomic': 0.2471, 'reasoning_complex': 0.1019}
+ACL_text-embedding-002_path_and_value_desc_Mistral-7B_F1: {'extraction_atomic': 0.4086, 'extraction_complex': 0.2468, 'reasoning_atomic': 0.3104, 'reasoning_complex': 0.0794}
+ACL_text-embedding-002_path_and_value_LLama2-13B_F1: {'extraction_atomic': 0.317, 'extraction_complex': 0.1772, 'reasoning_atomic': 0.1972, 'reasoning_complex': 0.0802}
+ACL_text-embedding-002_path_and_value_desc_LLama2-13B_F1: {'extraction_atomic': 0.3515, 'extraction_complex': 0.1864, 'reasoning_atomic': 0.3276, 'reasoning_complex': 0.0776}

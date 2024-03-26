@@ -1,0 +1,150 @@
+[
+    {
+        "query": "When is the application deadline for the student travel grant?",
+        "output": "March 31, 2023"
+    },
+    {
+        "query": "When were the authors notified about their Poster and Demo acceptance?",
+        "output": "March 6, 2023"
+    },
+    {
+        "query": "What is the notification date in research track?",
+        "output": "January 25, 2023"
+    },
+    {
+        "query": "What is the time period of rebuttal in research track?",
+        "output": "December 15 - 22, 2022"
+    },
+    {
+        "query": "When is the student travel scholarship notification?",
+        "output": "April 10, 2023"
+    },
+    {
+        "query": "when is the closing ceremony of this conference?",
+        "output": "The closing ceremony of the conference is on Thursday, May 4."
+    },
+    {
+        "query": "When was the deadline for Tutorials Proposal submission?",
+        "output": "The deadline for Tutorials Proposal submission was November 10, 2022."
+    },
+    {
+        "query": "How can I contact workshop chairs?",
+        "output": "You can contact the workshop chairs at workshop2023@thewebconf.org."
+    },
+    {
+        "query": "What is the deadline for submission in research tracks?",
+        "output": "The deadline for full paper submission in research tracks is October 13, 2022."
+    },
+    {
+        "query": "How can I contact tutorial chairs?",
+        "output": "You can contact the tutorial chairs at tutorial2023@thewebconf.org."
+    },
+    {
+        "query": "What was the deadline for the Research Track Abstract submission?",
+        "output": "The deadline for the Research Track Abstract submission was October 6, 2022."
+    },
+    {
+        "query": "What is the date of the WWW2023 conference?",
+        "output": "The date of the WWW2023 conference is from April 30 to May 4, 2023."
+    },
+    {
+        "query": "When was the deadline for standard registration for the conference?",
+        "output": "The deadline for standard registration for the conference was in April 2023."
+    },
+    {
+        "query": "What new approach is The Web Conference 2023 taking regarding the FAIR principles?",
+        "output": "The context does not provide information on any new approach The Web Conference 2023 is taking regarding the FAIR principles."
+    },
+    {
+        "query": "What is the submission format and language requirement for the 'History of the Web' Track of WWW2023 Conference?",
+        "output": "The submissions for the 'History of the Web' Track of WWW2023 Conference must be in PDF format and written in English."
+    },
+    {
+        "query": "Will there be a closing ceremony or a special event at the end of the conference?",
+        "output": "Yes, there will be a Closing Ceremony at the end of the conference."
+    },
+    {
+        "query": "When was the Workshop paper acceptance notification released?",
+        "output": "The Workshop paper acceptance notification was released on March 6, 2023."
+    },
+    {
+        "query": "Who are the workshop chairs?",
+        "output": "The text does not provide the names of the workshop chairs for WWW2023."
+    },
+    {
+        "query": "Can the conference provide visa letter for attendees?",
+        "output": "Yes, ACM is able to provide visa support letters to attendees as well as authors with accepted papers, posters, or members of the conference committee."
+    },
+    {
+        "query": "What is the deadline for registration",
+        "output": "The Early Bird Registration deadline is in March 2023 and the Standard Registration deadline is in April 2023. Exact dates are not provided in the context."
+    },
+    {
+        "query": "Where will accepted papers in Industry track for The Web Conference 2023 be published?",
+        "output": "Accepted papers in Industry track for The Web Conference 2023 will be published in the companion proceedings of The Web Conference, in the ACM Digital Library."
+    },
+    {
+        "query": "What is the theme for the submissions to the Search Track of The Web Conference (WWW2023)?",
+        "output": "The theme for the submissions to the Search Track of The Web Conference (WWW2023) is \"Web Research with Openness, Fairness and Reproducibility\"."
+    },
+    {
+        "query": "What is the location of the WWW2023 conference?",
+        "output": "The location of the WWW2023 conference is Austin, Texas, US. It will be held at the AT&T Hotel and Conference Center at The University of Texas at Austin."
+    },
+    {
+        "query": "What is the format for the PhD Symposium Paper Submissions at WWW2023?",
+        "output": "The format for the PhD Symposium Paper Submissions at WWW2023 is ACM format acmart.cls, using the “sigconf” option. Submissions must be in PDF and comply with the formatting guidelines."
+    },
+    {
+        "query": "What are the requirements for obtaining the Virtual Participation Award?",
+        "output": "To be eligible for the Virtual Participation Award, an applicant must be a student (including undergraduate, graduate, and PhD students) affiliated with a university or research laboratory based in a country designated by ACM as economically developing. There may be further preference given to applicants from underrepresented regions."
+    },
+    {
+        "query": "What is the main objective of the 11th International Workshop on Natural Language Processing for Social Media?",
+        "output": "The main objective of the 11th International Workshop on Natural Language Processing for Social Media is to explore the inter-disciplinary area of natural language processing (NLP) and social computing. The workshop focuses on three directions: addressing issues in social computing using NLP techniques, solving NLP problems using information from social networks or social media, and handling new problems related to both social computing and natural language processing."
+    },
+    {
+        "query": "What are the expected behaviors for participants according to the ACM Policy?",
+        "output": "The ACM Policy expects participants to adhere to the ACM Code of Ethics and ACM Policy Against Harassment. Unacceptable behaviors include abusive actions directed at an individual, such as threats, intimidation, or bullying, sexual harassment of any kind, and racism, homophobia, or other behaviors that discriminating against a group or class of people. Those involved in or witnessing any such incidents are encouraged to report it to the event organizers or General Chairs."
+    },
+    {
+        "query": "What is the purpose of the WWW2023 conference?",
+        "output": "The purpose of the WWW2023 conference, also known as The Web Conference, is to provide a premier forum for discussion and debate about the future direction of the World Wide Web, the standardization of its associated technologies, and the impact of these technologies on society and culture. It brings together researchers, developers, users, and commercial ventures to present and discuss progress in research, development, standards, and applications related to the Web. The conference aims to envision and create the future of the Web."
+    },
+    {
+        "query": "What is the main focus of the Industry Track of The Web Conference 2023?",
+        "output": "The main focus of the Industry Track of The Web Conference 2023 is to showcase original results obtained in an industrial environment, with clear industry relevance, and to highlight new research challenges motivated by practical tasks and settings. The Industry Track focuses on applied work, such as the implementation of a system, the acquisition of data, or the application of a methodology, that solves a significant real-world problem and demonstrates benefits and impact. Submissions must clearly describe how their work has been deployed or released, and for how long."
+    },
+    {
+        "query": "Will there be any virtual components to the WWW2023 conference?",
+        "output": "Yes, the WWW2023 conference will have virtual components including live streaming of ceremonies and keynotes, access to pre-recorded videos of talks, and the Whova platform for interaction with all conference attendees."
+    },
+    {
+        "query": "What types of submissions are accepted for the W4A Conference and what are the submission formats?",
+        "output": "The W4A Conference accepts several types of submissions. These include 2-page extended abstracts for consideration for inclusion in the Doctoral Consortium, technical or communication papers, and entries in the Accessibility Challenge. Participants with accepted papers or who are involved in the Doctoral Consortium or Accessibility Challenge are invited to submit a poster. \n\nIn terms of submission formats, there are two for consideration: 10-page papers (not including references) and what appears to be shorter 2-page extended abstracts. All accepted submissions will also be assigned an oral presentation of two different lengths."
+    },
+    {
+        "query": "What type of music does the band Money Chicha play?",
+        "output": "Money Chicha plays a fuzzed-out, reverb-drenched and percussion-heavy style of music inspired by the sounds of Peru and Colombia in the 60s and 70s, sometimes known as \"chicha\" music."
+    },
+    {
+        "query": "Who are the tutorial chairs?",
+        "output": "The tutorial chairs are members_1 and members_2, whose homepages are http://olafhartig.de/ and https://www.rybaeza.net/, respectively. They are affiliated with Linköping University and University of Calabria, respectively."
+    },
+    {
+        "query": "What is the Virtual Participation Award?",
+        "output": "The Virtual Participation Award is the ACM SIGWEB Fair Access Virtual Participation Awards, provided for the 2023 ACM Web Conference. This award provides selected applicants with a free-of-charge registration for the 'Virtual Conference' registration. It is aimed at fostering an accessible and inclusive conference, particularly helping participants who may have limited resources. It is mainly targeted towards students connected to a university or research laboratory based in a country considered as “economically developing” by ACM. The award has been made possible due to the generous support from ACM SIGWEB."
+    },
+    {
+        "query": "What are the eligibilities for applying for student travel award",
+        "output": "To apply for the Zhipu Student Travel Award, the applicant must be a student, whether undergraduate, graduate, or PhD. Preference will be given to those presenting papers or posters at the ACM The Web Conference 2023. In the case of co-authored papers, only the first author is eligible for the award unless they are not able to attend the conference."
+    },
+    {
+        "query": "How will The Web Conference 2023 handle submissions in industry track?",
+        "output": "The Web Conference 2023 invites contributions to the Industry Track with a focus on original results obtained in an industrial environment. The work should have clear industry relevance and highlight new research challenges motivated by practical tasks and settings. The submissions should mainly focus on applied work like the implementation of a system, the acquisition of data, or the application of a methodology that addresses a significant real-world problem and provides clear benefits and impact. It's necessary for submissions to describe how their work has been deployed or released and for how long. A compulsory requirement is that each submission must include at least one author with a non-academic affiliation. Accepted papers will be published in the companion proceedings of The Web Conference, in the ACM Digital Library. There is no rebuttal process foreseen."
+    },
+    {
+        "query": "What are the criteria for evaluating a poster or demo submitted for the ARTIFACT badge at WWW2023?",
+        "output": "The criteria for evaluating a poster or demo submitted for the ARTIFACT badge at WWW2023 include ensuring that the artifact provides an appropriate description that is both human and machine-readable, encouraging the adoption of FAIR principles, whether there's a schema diagram and whether the description is available in terms of VoID/DCAT/DublinCore for datasets. They also consider if the design of the artifact follows resource-specific best practices, like if suitable high-quality resources have been reused or extended appropriately, and whether the resource is publicly available through mediums such as an API, Linked Open Data, Download, and Open Code Repository. Alongside this, participants should provide all the relevant links and information to help reviewers identify their paper as an ARTIFACT."
+    }
+]
